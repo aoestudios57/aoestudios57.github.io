@@ -1,10 +1,12 @@
+* {
+    cursor: url("RES/corsur1.png"),pointer;
+}
 .textt{
     color: white;
     font-size: 30px;
 }
 body{
     background-color: black;
-    cursor:url("RES/corsur.png")
 }
 .bild{
     width: 300;

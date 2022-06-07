@@ -1,4 +1,8 @@
 
+
+* {
+    cursor: url("RES/corsur1.png"),pointer;
+}
    body{
     background-color: black;
     cursor:url("RES/corsur.png")
