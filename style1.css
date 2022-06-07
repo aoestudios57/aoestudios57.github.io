@@ -1,0 +1,35 @@
+
+   body{
+    background-color: black;
+    
+   }
+   h1{
+ display: flex;
+ justify-content: center;
+        color: rgb(255, 255, 255);
+       }
+       .übermichbtn{
+        height:30px;
+       background-color: red;
+       }
+       .projektbtn{
+          height: 30px;
+           background-color: rgb(93, 93, 233);
+       }
+       
+    
+       .kontaktbtn{
+           height: 30px;
+           background-color: rgb(35, 253, 35);
+       }
+       .backgroundimg{
+           display: flex;
+           justify-content: center;
+           position: absolute;
+          
+        width: 900px;
+        height: 400px;
+        margin-left: 450px;
+        margin-top: 200px;
+       }
+      

@@ -1,0 +1,21 @@
+body{
+   background-color: black;
+    
+}
+
+.überschrift{
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+color: white;
+font-size: 30px;
+}
+
+.hackerphone{
+    width: 150px;
+    height: 100px;
+}
+
+.hackerphonebtn{
+    height: 25px;
+}

@@ -1,0 +1,16 @@
+.textt{
+    color: white;
+    font-size: 30px;
+}
+body{
+    background-color: black;
+}
+.bild{
+    width: 300;
+    height: 150;
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 1000px;
+    display: flex;
+    justify-content: right;
+}

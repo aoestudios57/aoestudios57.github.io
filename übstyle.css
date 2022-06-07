@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    background-size: cover; 
+ }
+
+
+
+.ProfilBild{
+     position: absolute;
+    display: flex;
+    justify-content: right;
+    width: 400px;
+    height: 300px;
+    margin-left: 1500px;
+
+}
+
+
+.text{
+  font-size: 20px;
+    color: white;
+}
+
+
+
+ 
