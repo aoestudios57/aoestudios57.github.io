@@ -4,6 +4,7 @@
 }
 body{
     background-color: black;
+    cursor:url("RES/corsur.png")
 }
 .bild{
     width: 300;

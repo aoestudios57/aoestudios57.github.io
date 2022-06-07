@@ -1,7 +1,7 @@
 
    body{
     background-color: black;
-    
+    cursor:url("RES/corsur.png")
    }
    h1{
  display: flex;
