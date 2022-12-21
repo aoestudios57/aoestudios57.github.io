@@ -4,27 +4,61 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>aoestudios</title>
+    <title>AOESTUDIOS</title>
     <link rel="stylesheet" href="style.css">
-    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 </head>
 <body>
-    <div class="navbar">
-        <div class="logo">
-            <img class="logo" src="/AOE STUDIOS (1)_low.png">
+    <nav>
+        <input type="checkbox" class="myCheckBox" id="myCheck">
+        <label for="myCheck" class="checkButton">
+            <i class="fa fa-bars"></i>
+        </label>
+        <label class="logo">aoe<span style="color: red;">studios</span></label>
+        <ul>
+            <li><a href="" class="active">StartSeite</a></li>
+            <li><a href="">Über Uns</a></li>
+            <li><a href="">Leistungen</a></li>
+            <li><a href="">Kontakt</a></li>
+            <li><a href="">Aoe-Store</a></li>
+        </ul>
+    </nav>
+    <div class="card-container">
+        <div class="card">
+          <div class="card-image">
+            <img class="logoimg" src="/logo.png" alt="Card image">
+          </div>
+          <div class="card-text">
+            <h2>Über Uns</h2>
+            <p>Wir sind eine IT Firma die Software&Websiten programmiert.</p>
+            <button class="buttons">Mehr lesen</button>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-image">
+            <img class="leistungimg" src="/leistungen.jpg" alt="Card image">
+            <button></button>
+          </div>
+          <div class="card-text">
+            <h2>Leistungen</h2>
+            <p>Wir Reparieren auch ihre <br>Mobile Geräte</p>
             
+          </div>
         </div>
+        <div class="card">
+          <div class="card-image">
+            <img src="image.jpg" alt="Card image">
+          </div>
+          <div class="card-text">
+            <h2>Card title</h2>
+            <p>Card content</p>
+            <button class="buttons">Mehr lesen</button>
+          </div>
+        </div>
+      </div>
+      
 
-        <div id="list">
-            <ul>
-                <li><a href="#startseite" class="list_element">Startseite</a></li>
-                <li><a href="#überuns">Über uns </a></li>
-                <li><a href="#Leistungen">Leistungen</a></li>
-                <li><a href="#kontakt">Kontakt</a></li>
-            </ul>
-        </div>
-        
-        <script src="script.js"></script>
-    </div>
+    
 </body>
 </html>
