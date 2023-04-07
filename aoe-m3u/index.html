@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>M3U-Dateien und Links</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: black;
+            background-color: white;
+        }
+        .header {
+            background-color: red;
+            color: white;
+            padding: 20px;
+        }
+        .header h1 {
+            margin: 0;
+            text-align: center;
+
+        }
+        .selector {
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>AOE-M3U</h1>
+    </div>
+    <div class="selector">
+        <label for="language">Sprache auswählen:</label>
+        <select id="language">
+            <option value="">--Bitte wählen--</option>
+            <option value="de">Deutsch</option>
+            <option value="en">Englisch</option>
+            <option value="fr">Französisch</option>
+            <!-- Weitere Sprachen hier hinzufügen -->
+        </select>
+    </div>
+    <div class="selector">
+        <label for="type">Typ auswählen:</label>
+        <select id="type">
+            <option value="">--Bitte wählen--</option>
+            <option value="files">Dateien</option>
+            <option value="links">Links</option>
+        </select>
+    </div>
+    <div id="content">
+        <!-- Hier werden die Links oder Dateien für die ausgewählte Sprache angezeigt -->
+    </div>
+
+    <script>
+      async function loadFilesFromGitHub(language, type) {
+          // Setze hier den Benutzernamen, das Repository und den Pfad zu den Dateien
+          const username = 'aoestudios57';
+          const repository = 'aoe-tv';
+          const path = `CONTENT/${language}/${type}`;
+
+          // Hole die Dateiliste von GitHub
+          const response = await fetch(`https://api.github.com/repos/${username}/${repository}/contents/${path}`);
+          const files = await response.json();
+
+          // Zeige die Dateien an
+          const contentElement = document.getElementById('content');
+          contentElement.innerHTML = '';
+          for (const file of files) {
+              const linkElement = document.createElement('a');
+              linkElement.href = file.download_url;
+              linkElement.textContent = file.name;
+              contentElement.appendChild(linkElement);
+              contentElement.appendChild(document.createElement('br'));
+          }
+      }
+
+      // Füge Event-Listener zu den Dropdowns hinzu
+      document.getElementById('language').addEventListener('change', updateContent);
+      document.getElementById('type').addEventListener('change', updateContent);
+
+      function updateContent() {
+          const language = document.getElementById('language').value;
+          const type = document.getElementById('type').value;
+          if (language && type) {
+              loadFilesFromGitHub(language, type);
+          }
+      }
+    </script>
+</body>
+</html>
