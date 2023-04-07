@@ -21,6 +21,10 @@
         .selector {
             margin: 20px 0;
         }
+        .Achtung{
+            color: red;
+            font-size: 15px;
+        }
     </style>
 </head>
 <body>
@@ -28,12 +32,25 @@
         <h1>AOE-M3U</h1>
     </div>
     <div class="selector">
+        <h1 class="Achtung">Achtung ! Nicht Alle sprachen Haben links und in Word Wide oder Mix All könnt ihr auch andere sprachen finden </h1>
         <label for="language">Sprache auswählen:</label>
         <select id="language">
             <option value="">--Bitte wählen--</option>
+            <option value="ww">World Wide</option>
             <option value="de">Deutsch</option>
-            <option value="en">Englisch</option>
+            <option value="tr">Türkisch</option>
             <option value="fr">Französisch</option>
+            <option value="sp">Spanisch</option>
+            <option value="ro">Rumänisch</option>
+            <option value="af">Afrikanisch</option>
+            <option value="in">Indisch</option>
+            <option value="srb">Serbisch</option>
+            <option value="it">Italienisch</option>
+            <option value="pol">Polnisch</option>
+            <option value="en">Englisch</option>
+            <option value="be">Englisch</option>
+            <option value="mix">Mix All</option>
+
             <!-- Weitere Sprachen hier hinzufügen -->
         </select>
     </div>
@@ -50,7 +67,8 @@
     </div>
 
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1995773732038100"
-     crossorigin="anonymous">
+    crossorigin="anonymous">
+        
       async function loadFilesFromGitHub(language, type) {
           // Setze hier den Benutzernamen, das Repository und den Pfad zu den Dateien
           const username = 'aoestudios57';
@@ -84,6 +102,7 @@
               loadFilesFromGitHub(language, type);
           }
       }
+       
     </script>
 </body>
 </html>
