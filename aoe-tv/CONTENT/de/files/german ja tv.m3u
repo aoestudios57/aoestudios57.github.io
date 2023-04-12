@@ -1,0 +1,606 @@
+#EXTM3U
+#EXTINF:0 tvg-id="DasErste.de" group-title="Channels",DE: DAS ERSTE HD
+http://203728357994298803.stonehuge.xyz:80/play/ja1031098/9774944498/298803.ts
+#EXTINF:0 tvg-id="SkyCinemaFamily.de" group-title="Channels",DE: SKY CINEMA FAMILY SD
+http://203728357994343637.stonehuge.xyz:80/play/ja1031098/9774944498/343637.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY CINEMA BEST OF FHD
+http://203728357994363095.stonehuge.xyz:80/play/ja1031098/9774944498/363095.ts
+#EXTINF:0 tvg-id="3sat.de" group-title="Channels",DE: 3SAT HD
+http://203728357994369577.stonehuge.xyz:80/play/ja1031098/9774944498/369577.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY KRIMI FHD
+http://203728357994375064.stonehuge.xyz:80/play/ja1031098/9774944498/375064.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY SPORT F1 FHD
+http://203728357994385283.stonehuge.xyz:80/play/ja1031098/9774944498/385283.ts
+#EXTINF:0 tvg-id="Vox.de" group-title="Channels",DE: VOX HD
+http://203728357994385302.stonehuge.xyz:80/play/ja1031098/9774944498/385302.ts
+#EXTINF:0 tvg-id="RTL.de" group-title="Channels",DE: RTL FHD
+http://203728357994385349.stonehuge.xyz:80/play/ja1031098/9774944498/385349.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY CINEMA PREMIEREN FHD
+http://203728357994385360.stonehuge.xyz:80/play/ja1031098/9774944498/385360.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY ONE FHD
+http://203728357994394788.stonehuge.xyz:80/play/ja1031098/9774944498/394788.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: K-TV HD
+http://203728357994398095.stonehuge.xyz:80/play/ja1031098/9774944498/398095.ts
+#EXTINF:0 tvg-id="SkyAtlanticHD.de" group-title="Channels",DE: SKY ATLANTIC HD
+http://203728357994398120.stonehuge.xyz:80/play/ja1031098/9774944498/398120.ts
+#EXTINF:0 tvg-id="AnimalPlanet.de" group-title="Channels",DE: ANIMAL PLANET FHD
+http://203728357994400130.stonehuge.xyz:80/play/ja1031098/9774944498/400130.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: ANIXE SERIE SD
+http://203728357994400131.stonehuge.xyz:80/play/ja1031098/9774944498/400131.ts
+#EXTINF:0 tvg-id="ARTE.de" group-title="Channels",DE: ARTE HD
+http://203728357994400134.stonehuge.xyz:80/play/ja1031098/9774944498/400134.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SONY AXN FHD
+http://203728357994400266.stonehuge.xyz:80/play/ja1031098/9774944498/400266.ts
+#EXTINF:0 tvg-id="13thStreet.de" group-title="Channels",DE: 13TH STREET HD
+http://203728357994407207.stonehuge.xyz:80/play/ja1031098/9774944498/407207.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: RTL PLUS FHD
+http://203728357994407305.stonehuge.xyz:80/play/ja1031098/9774944498/407305.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY CINEMA CLASSICS SD
+http://203728357994407331.stonehuge.xyz:80/play/ja1031098/9774944498/407331.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY CINEMA SPECIAL HD
+http://203728357994407334.stonehuge.xyz:80/play/ja1031098/9774944498/407334.ts
+#EXTINF:0 tvg-id="SkySportNewsHD.de" group-title="Channels",DE: SKY SPORT NEWS FHD
+http://203728357994407356.stonehuge.xyz:80/play/ja1031098/9774944498/407356.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SONY CHANNEL FHD
+http://203728357994407359.stonehuge.xyz:80/play/ja1031098/9774944498/407359.ts
+#EXTINF:0 tvg-id="SPORT1plus.de" group-title="Channels",DE: SPORT1+ FHD
+http://203728357994407363.stonehuge.xyz:80/play/ja1031098/9774944498/407363.ts
+#EXTINF:0 tvg-id="SciFi.de" group-title="Channels",DE: SYFY FHD
+http://203728357994407366.stonehuge.xyz:80/play/ja1031098/9774944498/407366.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: ALLGAU TV FHD
+http://203728357994409512.stonehuge.xyz:80/play/ja1031098/9774944498/409512.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: AUGSBURG TV FHD
+http://203728357994409516.stonehuge.xyz:80/play/ja1031098/9774944498/409516.ts
+#EXTINF:0 tvg-id="BR.de" group-title="Channels",DE: BAYERISCHES FERNSEHEN SUD FHD
+http://203728357994409520.stonehuge.xyz:80/play/ja1031098/9774944498/409520.ts
+#EXTINF:0 tvg-id="BibelTV.de" group-title="Channels",DE: BIBEL TV HD
+http://203728357994409521.stonehuge.xyz:80/play/ja1031098/9774944498/409521.ts
+#EXTINF:0 tvg-id="Channel21.de" group-title="Channels",DE: CHANNEL 21 SD
+http://203728357994409526.stonehuge.xyz:80/play/ja1031098/9774944498/409526.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CHEMNITZ FERNSEHEN FHD
+http://203728357994409527.stonehuge.xyz:80/play/ja1031098/9774944498/409527.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: DIE NEUE ZEIT TV SD
+http://203728357994409538.stonehuge.xyz:80/play/ja1031098/9774944498/409538.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: DISNEY+ FHD
+http://203728357994410743.stonehuge.xyz:80/play/ja1031098/9774944498/410743.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: ERZ TV STOLLBERG SD
+http://203728357994410746.stonehuge.xyz:80/play/ja1031098/9774944498/410746.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: FILSTALWELLE TV FHD
+http://203728357994410750.stonehuge.xyz:80/play/ja1031098/9774944498/410750.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: GEO TV FHD
+http://203728357994410757.stonehuge.xyz:80/play/ja1031098/9774944498/410757.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: HAUPTSTADT TV HD
+http://203728357994410759.stonehuge.xyz:80/play/ja1031098/9774944498/410759.ts
+#EXTINF:0 tvg-id="SpiegelTV.de" group-title="Channels",DE: SPIEGEL TV WISSEN HD
+http://203728357994412219.stonehuge.xyz:80/play/ja1031098/9774944498/412219.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: KIEL TV SD
+http://203728357994413652.stonehuge.xyz:80/play/ja1031098/9774944498/413652.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: LIGHT CHANNEL SD
+http://203728357994413654.stonehuge.xyz:80/play/ja1031098/9774944498/413654.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: MAX SELECT 1 FHD
+http://203728357994413662.stonehuge.xyz:80/play/ja1031098/9774944498/413662.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: MAX SELECT 4 FHD
+http://203728357994413663.stonehuge.xyz:80/play/ja1031098/9774944498/413663.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: MAX SELECT 5 FHD
+http://203728357994413664.stonehuge.xyz:80/play/ja1031098/9774944498/413664.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: MYTVPLUS (DRESDEN) HD
+http://203728357994413670.stonehuge.xyz:80/play/ja1031098/9774944498/413670.ts
+#EXTINF:0 tvg-id="SkySport2.de" group-title="Channels",DE: SKY SPORT 2 FHD
+http://203728357994414479.stonehuge.xyz:80/play/ja1031098/9774944498/414479.ts
+#EXTINF:0 tvg-id="ZDF.de" group-title="Channels",DE: ZDF HD
+http://203728357994414500.stonehuge.xyz:80/play/ja1031098/9774944498/414500.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: STINGRAY CLASSICA FHD
+http://203728357994415815.stonehuge.xyz:80/play/ja1031098/9774944498/415815.ts
+#EXTINF:0 tvg-id="SuperRTL.de" group-title="Channels",DE: SUPER RTL FHD
+http://203728357994415816.stonehuge.xyz:80/play/ja1031098/9774944498/415816.ts
+#EXTINF:0 tvg-id="123.tv.de" group-title="Channels",DE: 123 TV SD
+http://203728357994416967.stonehuge.xyz:80/play/ja1031098/9774944498/416967.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: ARD ALPHA HD
+http://203728357994416971.stonehuge.xyz:80/play/ja1031098/9774944498/416971.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: BADEN TV FHD
+http://203728357994416973.stonehuge.xyz:80/play/ja1031098/9774944498/416973.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: BILD TV SD
+http://203728357994416975.stonehuge.xyz:80/play/ja1031098/9774944498/416975.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: BOSS MOVIES 1 FHD
+http://203728357994416978.stonehuge.xyz:80/play/ja1031098/9774944498/416978.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: BOSS MOVIES 4 FHD
+http://203728357994416979.stonehuge.xyz:80/play/ja1031098/9774944498/416979.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE GOLD ACTION/THRILLER FHD
+http://203728357994416981.stonehuge.xyz:80/play/ja1031098/9774944498/416981.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE GOLD BIOGRAPHY FHD
+http://203728357994416982.stonehuge.xyz:80/play/ja1031098/9774944498/416982.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE GOLD CRIME FHD
+http://203728357994416983.stonehuge.xyz:80/play/ja1031098/9774944498/416983.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE GOLD HISTORY FHD
+http://203728357994416984.stonehuge.xyz:80/play/ja1031098/9774944498/416984.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE GOLD ROMANCE FHD
+http://203728357994416986.stonehuge.xyz:80/play/ja1031098/9774944498/416986.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE GOLD SCI-FI FHD
+http://203728357994416987.stonehuge.xyz:80/play/ja1031098/9774944498/416987.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE STAR ABENTEUER HD
+http://203728357994416991.stonehuge.xyz:80/play/ja1031098/9774944498/416991.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE STAR FAMILIE HD
+http://203728357994416996.stonehuge.xyz:80/play/ja1031098/9774944498/416996.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE STAR HORROR HD
+http://203728357994416997.stonehuge.xyz:80/play/ja1031098/9774944498/416997.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE STAR PREMIRERE HD
+http://203728357994417000.stonehuge.xyz:80/play/ja1031098/9774944498/417000.ts
+#EXTINF:0 tvg-id="DAZN2.de" group-title="Channels",DE: DAZN 2 HD
+http://203728357994417006.stonehuge.xyz:80/play/ja1031098/9774944498/417006.ts
+#EXTINF:0 tvg-id="DiscoveryChannel.de" group-title="Channels",DE: DISCOVERY CHANNEL FHD
+http://203728357994417009.stonehuge.xyz:80/play/ja1031098/9774944498/417009.ts
+#EXTINF:0 tvg-id="DMax.de" group-title="Channels",DE: DMAX HD
+http://203728357994417013.stonehuge.xyz:80/play/ja1031098/9774944498/417013.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: EAGLE CINEMA LACHELN FHD
+http://203728357994417017.stonehuge.xyz:80/play/ja1031098/9774944498/417017.ts
+#EXTINF:0 tvg-id="FixFoxi.de" group-title="Channels",DE: FIX UND FOXI SD
+http://203728357994417024.stonehuge.xyz:80/play/ja1031098/9774944498/417024.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: FRANKEN FERNSEHEN FHD
+http://203728357994417026.stonehuge.xyz:80/play/ja1031098/9774944498/417026.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: GERMANY COMEDY HD
+http://203728357994417028.stonehuge.xyz:80/play/ja1031098/9774944498/417028.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: HEALTH TV HD
+http://203728357994417029.stonehuge.xyz:80/play/ja1031098/9774944498/417029.ts
+#EXTINF:0 tvg-id="Heimatkanal.de" group-title="Channels",DE: HEIMATKANAL SD
+http://203728357994417030.stonehuge.xyz:80/play/ja1031098/9774944498/417030.ts
+#EXTINF:0 tvg-id="HistoryHD.de" group-title="Channels",DE: HISTORY HD
+http://203728357994417032.stonehuge.xyz:80/play/ja1031098/9774944498/417032.ts
+#EXTINF:0 tvg-id="HR.de" group-title="Channels",DE: HR FERNSEHEN HD
+http://203728357994417033.stonehuge.xyz:80/play/ja1031098/9774944498/417033.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: HSE FHD
+http://203728357994417034.stonehuge.xyz:80/play/ja1031098/9774944498/417034.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: HT SELECT HORROR FHD
+http://203728357994417035.stonehuge.xyz:80/play/ja1031098/9774944498/417035.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: HT SELECT PLATIN FHD
+http://203728357994417036.stonehuge.xyz:80/play/ja1031098/9774944498/417036.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: HT SELECT PRIME FHD
+http://203728357994417037.stonehuge.xyz:80/play/ja1031098/9774944498/417037.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: KABEL EINS DOKU FHD
+http://203728357994417043.stonehuge.xyz:80/play/ja1031098/9774944498/417043.ts
+#EXTINF:0 tvg-id="Kabel.de" group-title="Channels",DE: KABEL EINS HD
+http://203728357994417044.stonehuge.xyz:80/play/ja1031098/9774944498/417044.ts
+#EXTINF:0 tvg-id="Kika.de" group-title="Channels",DE: KIKA HD
+http://203728357994417045.stonehuge.xyz:80/play/ja1031098/9774944498/417045.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: MAGICBOX KINO1 FHD
+http://203728357994417047.stonehuge.xyz:80/play/ja1031098/9774944498/417047.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: MAGICBOX KINO2 FHD
+http://203728357994417048.stonehuge.xyz:80/play/ja1031098/9774944498/417048.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: MAGICBOX KINO4 FHD
+http://203728357994417050.stonehuge.xyz:80/play/ja1031098/9774944498/417050.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: MAGICBOX KINO5 FHD
+http://203728357994417051.stonehuge.xyz:80/play/ja1031098/9774944498/417051.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: MAX SELECT 6 FHD
+http://203728357994417053.stonehuge.xyz:80/play/ja1031098/9774944498/417053.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: MAX SELECT HD 2 FHD
+http://203728357994417055.stonehuge.xyz:80/play/ja1031098/9774944498/417055.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: MAX SELECT HD 3 FHD
+http://203728357994417056.stonehuge.xyz:80/play/ja1031098/9774944498/417056.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: MAX SELECT HD 4 FHD
+http://203728357994417057.stonehuge.xyz:80/play/ja1031098/9774944498/417057.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: MAX SELECT HD 5 FHD
+http://203728357994417058.stonehuge.xyz:80/play/ja1031098/9774944498/417058.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: MAX SELECT HD 6 FHD
+http://203728357994417059.stonehuge.xyz:80/play/ja1031098/9774944498/417059.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: MAX SELECT HD 7 FHD
+http://203728357994417060.stonehuge.xyz:80/play/ja1031098/9774944498/417060.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: MOTORVISION TV HD
+http://203728357994417062.stonehuge.xyz:80/play/ja1031098/9774944498/417062.ts
+#EXTINF:0 tvg-id="N24Doku.de" group-title="Channels",DE: N24 DOKU SD
+http://203728357994417065.stonehuge.xyz:80/play/ja1031098/9774944498/417065.ts
+#EXTINF:0 tvg-id="One.de" group-title="Channels",DE: ONE HD
+http://203728357994417071.stonehuge.xyz:80/play/ja1031098/9774944498/417071.ts
+#EXTINF:0 tvg-id="PLANET.de" group-title="Channels",DE: PLANET FHD
+http://203728357994417074.stonehuge.xyz:80/play/ja1031098/9774944498/417074.ts
+#EXTINF:0 tvg-id="ProSiebenFun.de" group-title="Channels",DE: PROSIEBEN FUN FHD
+http://203728357994417076.stonehuge.xyz:80/play/ja1031098/9774944498/417076.ts
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Channels",DE: PROSIEBEN MAXX FHD
+http://203728357994417077.stonehuge.xyz:80/play/ja1031098/9774944498/417077.ts
+#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",DE: PROSIEBEN FHD
+http://203728357994417078.stonehuge.xyz:80/play/ja1031098/9774944498/417078.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: QVC BEAUTY & STYLE SD
+http://203728357994417079.stonehuge.xyz:80/play/ja1031098/9774944498/417079.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: REDBOX KINO 2 HD
+http://203728357994417086.stonehuge.xyz:80/play/ja1031098/9774944498/417086.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: REDBOX KINO 4 HD
+http://203728357994417088.stonehuge.xyz:80/play/ja1031098/9774944498/417088.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: REDBOX KINO 5 HD
+http://203728357994417089.stonehuge.xyz:80/play/ja1031098/9774944498/417089.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: REDBOX KINO 8 HD
+http://203728357994417092.stonehuge.xyz:80/play/ja1031098/9774944498/417092.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: REDBOX KINO 9 HD
+http://203728357994417093.stonehuge.xyz:80/play/ja1031098/9774944498/417093.ts
+#EXTINF:0 tvg-id="Romance.de" group-title="Channels",DE: ROMANCE TV FHD
+http://203728357994417095.stonehuge.xyz:80/play/ja1031098/9774944498/417095.ts
+#EXTINF:0 tvg-id="RTLNitro.de" group-title="Channels",DE: RTL NITRO HD
+http://203728357994417098.stonehuge.xyz:80/play/ja1031098/9774944498/417098.ts
+#EXTINF:0 tvg-id="Sat1Gold.de" group-title="Channels",DE: SAT.1 GOLD HD
+http://203728357994417106.stonehuge.xyz:80/play/ja1031098/9774944498/417106.ts
+#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",DE: SAT.1 HD
+http://203728357994417107.stonehuge.xyz:80/play/ja1031098/9774944498/417107.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY CINEMA ACTION FHD
+http://203728357994417114.stonehuge.xyz:80/play/ja1031098/9774944498/417114.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY CINEMA SPECIAL FHD
+http://203728357994417121.stonehuge.xyz:80/play/ja1031098/9774944498/417121.ts
+#EXTINF:0 tvg-id="SkyComedy.de" group-title="Channels",DE: SKY COMEDY HD
+http://203728357994417125.stonehuge.xyz:80/play/ja1031098/9774944498/417125.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY CRIME HD
+http://203728357994417127.stonehuge.xyz:80/play/ja1031098/9774944498/417127.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY SPORT AUSTRIA 3 HD (ONLY ON MATCH DAYS) FHD
+http://203728357994417145.stonehuge.xyz:80/play/ja1031098/9774944498/417145.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SONNENKLAR HD
+http://203728357994417155.stonehuge.xyz:80/play/ja1031098/9774944498/417155.ts
+#EXTINF:0 tvg-id="SpiegelGeschichte.de" group-title="Channels",DE: SPIEGEL GESCHICHTE HD
+http://203728357994417156.stonehuge.xyz:80/play/ja1031098/9774944498/417156.ts
+#EXTINF:0 tvg-id="SkySport1.de" group-title="Channels",DE: SPORT 1 HD
+http://203728357994417157.stonehuge.xyz:80/play/ja1031098/9774944498/417157.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: TAGESSCHAU24 HD
+http://203728357994417159.stonehuge.xyz:80/play/ja1031098/9774944498/417159.ts
+#EXTINF:0 tvg-id="TOGGOplus.de" group-title="Channels",DE: TOGGO PLUS SD
+http://203728357994417163.stonehuge.xyz:80/play/ja1031098/9774944498/417163.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: VIVA / COMEDY CENTRAL FHD
+http://203728357994417165.stonehuge.xyz:80/play/ja1031098/9774944498/417165.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: WARNER BROS SERIE HD
+http://203728357994417169.stonehuge.xyz:80/play/ja1031098/9774944498/417169.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: WELT HD
+http://203728357994417171.stonehuge.xyz:80/play/ja1031098/9774944498/417171.ts
+#EXTINF:0 tvg-id="ZDFneo.de" group-title="Channels",DE: ZDF NEO HD
+http://203728357994417173.stonehuge.xyz:80/play/ja1031098/9774944498/417173.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: FS1 HD
+http://203728357994417368.stonehuge.xyz:80/play/ja1031098/9774944498/417368.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: GERMANY THRILLER FHD
+http://203728357994417369.stonehuge.xyz:80/play/ja1031098/9774944498/417369.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: HSE EXTRA FHD
+http://203728357994417370.stonehuge.xyz:80/play/ja1031098/9774944498/417370.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: HSE TREND SD
+http://203728357994417371.stonehuge.xyz:80/play/ja1031098/9774944498/417371.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: KABEL EINS HEVC
+http://203728357994417376.stonehuge.xyz:80/play/ja1031098/9774944498/417376.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: MR BEAN SD
+http://203728357994417377.stonehuge.xyz:80/play/ja1031098/9774944498/417377.ts
+#EXTINF:0 tvg-id="ntv.de" group-title="Channels",DE: N-TV HD
+http://203728357994417379.stonehuge.xyz:80/play/ja1031098/9774944498/417379.ts
+#EXTINF:0 tvg-id="Sixx.de" group-title="Channels",DE: SIXX HD
+http://203728357994417397.stonehuge.xyz:80/play/ja1031098/9774944498/417397.ts
+#EXTINF:0 tvg-id="SciFi.de" group-title="Channels",DE: SYFY HD
+http://203728357994417418.stonehuge.xyz:80/play/ja1031098/9774944498/417418.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: UNIVERSAL TV SD
+http://203728357994417420.stonehuge.xyz:80/play/ja1031098/9774944498/417420.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: VOX UP FHD
+http://203728357994417421.stonehuge.xyz:80/play/ja1031098/9774944498/417421.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE STAR ACTION HD
+http://203728357994418963.stonehuge.xyz:80/play/ja1031098/9774944498/418963.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: GENIUS PLUS TV SD
+http://203728357994418971.stonehuge.xyz:80/play/ja1031098/9774944498/418971.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: KABEL 1 DOKU FHD
+http://203728357994418974.stonehuge.xyz:80/play/ja1031098/9774944498/418974.ts
+#EXTINF:0 tvg-id="NatGeoHD.de" group-title="Channels",DE: NATIONAL GEOGRAPHIC HD
+http://203728357994418977.stonehuge.xyz:80/play/ja1031098/9774944498/418977.ts
+#EXTINF:0 tvg-id="phoenix.de" group-title="Channels",DE: PHOENIX HD
+http://203728357994418979.stonehuge.xyz:80/play/ja1031098/9774944498/418979.ts
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Channels",DE: PROSIEBEN MAXX HD
+http://203728357994418981.stonehuge.xyz:80/play/ja1031098/9774944498/418981.ts
+#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",DE: PROSIEBEN HD
+http://203728357994418982.stonehuge.xyz:80/play/ja1031098/9774944498/418982.ts
+#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",DE: SAT.1 FHD
+http://203728357994418990.stonehuge.xyz:80/play/ja1031098/9774944498/418990.ts
+#EXTINF:0 tvg-id="ZDFinfo.de" group-title="Channels",DE: ZDF INFO HD
+http://203728357994419015.stonehuge.xyz:80/play/ja1031098/9774944498/419015.ts
+#EXTINF:0 tvg-id="MTVGermany.de" group-title="Channels",DE: MTV HD
+http://203728357994420185.stonehuge.xyz:80/play/ja1031098/9774944498/420185.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: NAHE TV HD
+http://203728357994420186.stonehuge.xyz:80/play/ja1031098/9774944498/420186.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY CINEMA PREMIEREN +24 SD
+http://203728357994420208.stonehuge.xyz:80/play/ja1031098/9774944498/420208.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY SPORT 10 HD
+http://203728357994420211.stonehuge.xyz:80/play/ja1031098/9774944498/420211.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY SPORT 4 FHD
+http://203728357994420212.stonehuge.xyz:80/play/ja1031098/9774944498/420212.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: BON GUSTO HD
+http://203728357994422311.stonehuge.xyz:80/play/ja1031098/9774944498/422311.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE STAR ANIMATION HD
+http://203728357994422315.stonehuge.xyz:80/play/ja1031098/9774944498/422315.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: MAX SELECT 2 FHD
+http://203728357994422329.stonehuge.xyz:80/play/ja1031098/9774944498/422329.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: NIEDERBAYERN TV SATELLIT FHD
+http://203728357994422335.stonehuge.xyz:80/play/ja1031098/9774944498/422335.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: NOA 4 HAMBURG FHD
+http://203728357994422336.stonehuge.xyz:80/play/ja1031098/9774944498/422336.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: NOA 4 FHD
+http://203728357994422337.stonehuge.xyz:80/play/ja1031098/9774944498/422337.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: NRWISION FHD
+http://203728357994422338.stonehuge.xyz:80/play/ja1031098/9774944498/422338.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: OBERPFALZ TV FHD
+http://203728357994422339.stonehuge.xyz:80/play/ja1031098/9774944498/422339.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: OF TV OFFENBACH HD
+http://203728357994422341.stonehuge.xyz:80/play/ja1031098/9774944498/422341.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: OFFENER KANAL MAGDEBURG FHD
+http://203728357994422342.stonehuge.xyz:80/play/ja1031098/9774944498/422342.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: OK 54 SD
+http://203728357994422343.stonehuge.xyz:80/play/ja1031098/9774944498/422343.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: OK KAISERSLAUTERN HD
+http://203728357994422344.stonehuge.xyz:80/play/ja1031098/9774944498/422344.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: OK KASSEL HD
+http://203728357994422345.stonehuge.xyz:80/play/ja1031098/9774944498/422345.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: OK KONZERT FHD
+http://203728357994422346.stonehuge.xyz:80/play/ja1031098/9774944498/422346.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: OK LUDWIGSHAFEN HD
+http://203728357994422347.stonehuge.xyz:80/play/ja1031098/9774944498/422347.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: OK MERSEBURG FHD
+http://203728357994422348.stonehuge.xyz:80/play/ja1031098/9774944498/422348.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: OK RHEIN MAIN HD
+http://203728357994422349.stonehuge.xyz:80/play/ja1031098/9774944498/422349.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: OK SUEDWESTPFALZ HD
+http://203728357994422350.stonehuge.xyz:80/play/ja1031098/9774944498/422350.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: OK WEINSTRASSE FHD
+http://203728357994422351.stonehuge.xyz:80/play/ja1031098/9774944498/422351.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: OKD FHD
+http://203728357994422352.stonehuge.xyz:80/play/ja1031098/9774944498/422352.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: OLDENBURG EINS FHD
+http://203728357994422353.stonehuge.xyz:80/play/ja1031098/9774944498/422353.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: PEARL TV FHD
+http://203728357994422356.stonehuge.xyz:80/play/ja1031098/9774944498/422356.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: QVC STYLE SD
+http://203728357994422361.stonehuge.xyz:80/play/ja1031098/9774944498/422361.ts
+#EXTINF:0 tvg-id="RadioBremen.de" group-title="Channels",DE: RADIO BREMEN TV SD
+http://203728357994422362.stonehuge.xyz:80/play/ja1031098/9774944498/422362.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: RAN 1 FHD
+http://203728357994422364.stonehuge.xyz:80/play/ja1031098/9774944498/422364.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: REGIO TV FHD
+http://203728357994422367.stonehuge.xyz:80/play/ja1031098/9774944498/422367.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: REGIONALFERNSEHEN HARZ FHD
+http://203728357994422368.stonehuge.xyz:80/play/ja1031098/9774944498/422368.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: RHEIN-NECKAR FERNSEHEN FHD
+http://203728357994422369.stonehuge.xyz:80/play/ja1031098/9774944498/422369.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: ROCKLAND RADIO HD
+http://203728357994422370.stonehuge.xyz:80/play/ja1031098/9774944498/422370.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: RTL+ FHD
+http://203728357994422376.stonehuge.xyz:80/play/ja1031098/9774944498/422376.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: RWE ERFURT FHD
+http://203728357994422377.stonehuge.xyz:80/play/ja1031098/9774944498/422377.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SAARLAND FERNSEHEN 1 FHD
+http://203728357994422378.stonehuge.xyz:80/play/ja1031098/9774944498/422378.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SAARLAND FERNSEHEN 2 HD
+http://203728357994422379.stonehuge.xyz:80/play/ja1031098/9774944498/422379.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SACHSEN FERNSEHEN FHD
+http://203728357994422380.stonehuge.xyz:80/play/ja1031098/9774944498/422380.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SOFY TV HD
+http://203728357994422397.stonehuge.xyz:80/play/ja1031098/9774944498/422397.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: STAR WARS CHANNEL FHD
+http://203728357994422400.stonehuge.xyz:80/play/ja1031098/9774944498/422400.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: TEEN HD
+http://203728357994422403.stonehuge.xyz:80/play/ja1031098/9774944498/422403.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: THE STORY OF BEATCLUB HD
+http://203728357994422406.stonehuge.xyz:80/play/ja1031098/9774944498/422406.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: TRANSFORMERS CHANNEL FHD
+http://203728357994422410.stonehuge.xyz:80/play/ja1031098/9774944498/422410.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: TV BAYERN FHD
+http://203728357994422411.stonehuge.xyz:80/play/ja1031098/9774944498/422411.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: TV INGOLSTADT FHD
+http://203728357994422412.stonehuge.xyz:80/play/ja1031098/9774944498/422412.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: TV MAINFRANKEN FHD
+http://203728357994422413.stonehuge.xyz:80/play/ja1031098/9774944498/422413.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: TV OBERFRANKEN FHD
+http://203728357994422414.stonehuge.xyz:80/play/ja1031098/9774944498/422414.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: TVA OSTBAYERN FHD
+http://203728357994422415.stonehuge.xyz:80/play/ja1031098/9774944498/422415.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: VICTORIOUS HD
+http://203728357994422416.stonehuge.xyz:80/play/ja1031098/9774944498/422416.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: WAIDWERK FHD
+http://203728357994422418.stonehuge.xyz:80/play/ja1031098/9774944498/422418.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: WELT DER WUNDER TV FHD
+http://203728357994422420.stonehuge.xyz:80/play/ja1031098/9774944498/422420.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: XITE HD
+http://203728357994422421.stonehuge.xyz:80/play/ja1031098/9774944498/422421.ts
+#EXTINF:0 tvg-id="AutoMotorundSportChannel.de" group-title="Channels",DE: AUTO MOTOR SPORT FHD
+http://203728357994423107.stonehuge.xyz:80/play/ja1031098/9774944498/423107.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: REDBOX KINO 3 HD
+http://203728357994423137.stonehuge.xyz:80/play/ja1031098/9774944498/423137.ts
+#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="Channels",DE: SKY SPORT BUNDESLIGA 1 FHD
+http://203728357994423155.stonehuge.xyz:80/play/ja1031098/9774944498/423155.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY SPORT BUNDESLIGA 3 FHD
+http://203728357994423156.stonehuge.xyz:80/play/ja1031098/9774944498/423156.ts
+#EXTINF:0 tvg-id="SuperRTL.de" group-title="Channels",DE: SUPER RTL HD
+http://203728357994423158.stonehuge.xyz:80/play/ja1031098/9774944498/423158.ts
+#EXTINF:0 tvg-id="TLC.de" group-title="Channels",DE: TLC SD
+http://203728357994423159.stonehuge.xyz:80/play/ja1031098/9774944498/423159.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: WARNER BROS COMEDY HD
+http://203728357994423160.stonehuge.xyz:80/play/ja1031098/9774944498/423160.ts
+#EXTINF:0 tvg-id="AnixeHD.de" group-title="Channels",DE: ANIXE FHD
+http://203728357994425000.stonehuge.xyz:80/play/ja1031098/9774944498/425000.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: BERGBLICK SD
+http://203728357994425003.stonehuge.xyz:80/play/ja1031098/9774944498/425003.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE STAR 007 JAMES BOND FHD
+http://203728357994425006.stonehuge.xyz:80/play/ja1031098/9774944498/425006.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE STAR MARVEL FHD
+http://203728357994425008.stonehuge.xyz:80/play/ja1031098/9774944498/425008.ts
+#EXTINF:0 tvg-id="EEntertainment.de" group-title="Channels",DE: E! ENTERTAINMENT HD
+http://203728357994425020.stonehuge.xyz:80/play/ja1031098/9774944498/425020.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: EAGLE CINEMA ABENTEUER FHD
+http://203728357994425021.stonehuge.xyz:80/play/ja1031098/9774944498/425021.ts
+#EXTINF:0 tvg-id="History.de" group-title="Channels",DE: HISTORY SD
+http://203728357994425025.stonehuge.xyz:80/play/ja1031098/9774944498/425025.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: NDR FERNSEHEN HD
+http://203728357994425033.stonehuge.xyz:80/play/ja1031098/9774944498/425033.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: NICK JUNIOR SD
+http://203728357994425035.stonehuge.xyz:80/play/ja1031098/9774944498/425035.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: RAMBO CHANNEL FHD
+http://203728357994425040.stonehuge.xyz:80/play/ja1031098/9774944498/425040.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: RTL UP FHD
+http://203728357994425042.stonehuge.xyz:80/play/ja1031098/9774944498/425042.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY SPORT BUNDESLIGA 8 FHD
+http://203728357994425055.stonehuge.xyz:80/play/ja1031098/9774944498/425055.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SONUS FM ALEMANIA FHD
+http://203728357994425056.stonehuge.xyz:80/play/ja1031098/9774944498/425056.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: WARNER BROS FILM HD
+http://203728357994425058.stonehuge.xyz:80/play/ja1031098/9774944498/425058.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: ANIXE+ HD
+http://203728357994425251.stonehuge.xyz:80/play/ja1031098/9774944498/425251.ts
+#EXTINF:0 tvg-id="Boomerang.de" group-title="Channels",DE: BOOMERANG HD
+http://203728357994425253.stonehuge.xyz:80/play/ja1031098/9774944498/425253.ts
+#EXTINF:0 tvg-id="CartoonNetwork.de" group-title="Channels",DE: CARTOON NETWORK HD
+http://203728357994425254.stonehuge.xyz:80/play/ja1031098/9774944498/425254.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE STAR CRIME HD
+http://203728357994425257.stonehuge.xyz:80/play/ja1031098/9774944498/425257.ts
+#EXTINF:0 tvg-id="DAZN1.de" group-title="Channels",DE: DAZN 1 FHD
+http://203728357994425259.stonehuge.xyz:80/play/ja1031098/9774944498/425259.ts
+#EXTINF:0 tvg-id="DeLuxeMusic.de" group-title="Channels",DE: DELUXE MUSIC HD
+http://203728357994425263.stonehuge.xyz:80/play/ja1031098/9774944498/425263.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: FOLX FHD
+http://203728357994425270.stonehuge.xyz:80/play/ja1031098/9774944498/425270.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: HGTV SD
+http://203728357994425272.stonehuge.xyz:80/play/ja1031098/9774944498/425272.ts
+#EXTINF:0 tvg-id="RTLCrime.de" group-title="Channels",DE: RTL CRIME HD
+http://203728357994425281.stonehuge.xyz:80/play/ja1031098/9774944498/425281.ts
+#EXTINF:0 tvg-id="RTLLiving.de" group-title="Channels",DE: RTL LIVING HD
+http://203728357994425282.stonehuge.xyz:80/play/ja1031098/9774944498/425282.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY CINEMA EMOTION HD
+http://203728357994425287.stonehuge.xyz:80/play/ja1031098/9774944498/425287.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY CINEMA FUN HD
+http://203728357994425288.stonehuge.xyz:80/play/ja1031098/9774944498/425288.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY DOCUMENTARIES HD
+http://203728357994425291.stonehuge.xyz:80/play/ja1031098/9774944498/425291.ts
+#EXTINF:0 tvg-id="SkySport1.de" group-title="Channels",DE: SKY SPORT 1 FHD
+http://203728357994425294.stonehuge.xyz:80/play/ja1031098/9774944498/425294.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY SPORT 6 FHD
+http://203728357994425296.stonehuge.xyz:80/play/ja1031098/9774944498/425296.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY SPORT AUSTRIA 1 FHD
+http://203728357994425298.stonehuge.xyz:80/play/ja1031098/9774944498/425298.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY SPORT BUNDESLIGA 10 FHD
+http://203728357994425299.stonehuge.xyz:80/play/ja1031098/9774944498/425299.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY SPORT BUNDESLIGA 2 FHD
+http://203728357994425300.stonehuge.xyz:80/play/ja1031098/9774944498/425300.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE STAR DRAMA HD
+http://203728357994426250.stonehuge.xyz:80/play/ja1031098/9774944498/426250.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE STAR SCI-FI SD
+http://203728357994426252.stonehuge.xyz:80/play/ja1031098/9774944498/426252.ts
+#EXTINF:0 tvg-id="EEntertainment.de" group-title="Channels",DE: E! ENTERTAINMENT FHD
+http://203728357994426255.stonehuge.xyz:80/play/ja1031098/9774944498/426255.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: FOLX TV FHD
+http://203728357994426258.stonehuge.xyz:80/play/ja1031098/9774944498/426258.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: GERMANY ACTION FHD
+http://203728357994426259.stonehuge.xyz:80/play/ja1031098/9774944498/426259.ts
+#EXTINF:0 tvg-id="Kinowelt.de" group-title="Channels",DE: KINOWELT FHD
+http://203728357994426265.stonehuge.xyz:80/play/ja1031098/9774944498/426265.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: MAGICBOX KINO3 FHD
+http://203728357994426266.stonehuge.xyz:80/play/ja1031098/9774944498/426266.ts
+#EXTINF:0 tvg-id="NatGeoWild.de" group-title="Channels",DE: NAT GEO WILD HD
+http://203728357994426268.stonehuge.xyz:80/play/ja1031098/9774944498/426268.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: OE24 TV FHD
+http://203728357994426274.stonehuge.xyz:80/play/ja1031098/9774944498/426274.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: PARANORMAL HD
+http://203728357994426275.stonehuge.xyz:80/play/ja1031098/9774944498/426275.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: PLUTO TV N24 DOKU HD
+http://203728357994426276.stonehuge.xyz:80/play/ja1031098/9774944498/426276.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: QVC LIVE SD
+http://203728357994426281.stonehuge.xyz:80/play/ja1031098/9774944498/426281.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: REDBOX KINO 6 HD
+http://203728357994426284.stonehuge.xyz:80/play/ja1031098/9774944498/426284.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: ROCKY CHANNEL FHD
+http://203728357994426285.stonehuge.xyz:80/play/ja1031098/9774944498/426285.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: RTL ZWEI SD
+http://203728357994426287.stonehuge.xyz:80/play/ja1031098/9774944498/426287.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: RTL HEVC
+http://203728357994426288.stonehuge.xyz:80/play/ja1031098/9774944498/426288.ts
+#EXTINF:0 tvg-id="ServusHD.de" group-title="Channels",DE: SERVUS TV FHD
+http://203728357994426291.stonehuge.xyz:80/play/ja1031098/9774944498/426291.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY NATURE HD
+http://203728357994426299.stonehuge.xyz:80/play/ja1031098/9774944498/426299.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY SERIEN & SHOWS HD
+http://203728357994426301.stonehuge.xyz:80/play/ja1031098/9774944498/426301.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY SPORT AUSTRIA 2 HD (ONLY ON MATCH DAYS) FHD
+http://203728357994426308.stonehuge.xyz:80/play/ja1031098/9774944498/426308.ts
+#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="Channels",DE: SKY SPORT BUNDESLIGA 1 HD
+http://203728357994426309.stonehuge.xyz:80/play/ja1031098/9774944498/426309.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY SPORT BUNDESLIGA 7 FHD
+http://203728357994426312.stonehuge.xyz:80/play/ja1031098/9774944498/426312.ts
+#EXTINF:0 tvg-id="Tele5.de" group-title="Channels",DE: TELE 5 FHD
+http://203728357994426315.stonehuge.xyz:80/play/ja1031098/9774944498/426315.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: WELT DER WUNDER FHD
+http://203728357994426318.stonehuge.xyz:80/play/ja1031098/9774944498/426318.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: BAYERISCHES FERNSEHEN NORD HD
+http://203728357994426991.stonehuge.xyz:80/play/ja1031098/9774944498/426991.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE GOLD HORROR SD
+http://203728357994426992.stonehuge.xyz:80/play/ja1031098/9774944498/426992.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE MAX IMDB HD
+http://203728357994426993.stonehuge.xyz:80/play/ja1031098/9774944498/426993.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE MAX JURASSIC PARK HD
+http://203728357994426994.stonehuge.xyz:80/play/ja1031098/9774944498/426994.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE STAR FANTASIE HD
+http://203728357994426995.stonehuge.xyz:80/play/ja1031098/9774944498/426995.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE STAR JACKIE CHAN SD
+http://203728357994426996.stonehuge.xyz:80/play/ja1031098/9774944498/426996.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: CINE STAR ROMANTISCH HD
+http://203728357994426997.stonehuge.xyz:80/play/ja1031098/9774944498/426997.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: DEL SPORT 1 FHD
+http://203728357994426998.stonehuge.xyz:80/play/ja1031098/9774944498/426998.ts
+#EXTINF:0 tvg-id="DeutschesMusikFernsehen.de" group-title="Channels",DE: DEUTSCHES MUSIK FERNSEHEN SD
+http://203728357994426999.stonehuge.xyz:80/play/ja1031098/9774944498/426999.ts
+#EXTINF:0 tvg-id="disneychannel.de" group-title="Channels",DE: DISNEY CHANNEL SD
+http://203728357994427000.stonehuge.xyz:80/play/ja1031098/9774944498/427000.ts
+#EXTINF:0 tvg-id="DMax.de" group-title="Channels",DE: DMAX FHD
+http://203728357994427001.stonehuge.xyz:80/play/ja1031098/9774944498/427001.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: EURONEWS HD
+http://203728357994427002.stonehuge.xyz:80/play/ja1031098/9774944498/427002.ts
+#EXTINF:0 tvg-id="Jukebox.de" group-title="Channels",DE: JUKEBOX SD
+http://203728357994427003.stonehuge.xyz:80/play/ja1031098/9774944498/427003.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: KABEL EINS CLASSICS HD
+http://203728357994427004.stonehuge.xyz:80/play/ja1031098/9774944498/427004.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: MAX SELECT HD 1 FHD
+http://203728357994427005.stonehuge.xyz:80/play/ja1031098/9774944498/427005.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: MDR FERNSEHEN SACHSEN ANHALT HD
+http://203728357994427006.stonehuge.xyz:80/play/ja1031098/9774944498/427006.ts
+#EXTINF:0 tvg-id="NatGeoHD.de" group-title="Channels",DE: NATIONAL GEOGRAPHIC FHD
+http://203728357994427007.stonehuge.xyz:80/play/ja1031098/9774944498/427007.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: NDR HAMBURG SD
+http://203728357994427008.stonehuge.xyz:80/play/ja1031098/9774944498/427008.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: NICK EMMA EINFACH MAGISCH HD
+http://203728357994427009.stonehuge.xyz:80/play/ja1031098/9774944498/427009.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: NICK JUNIOR. SD
+http://203728357994427010.stonehuge.xyz:80/play/ja1031098/9774944498/427010.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: NICK SCHWEIZ SD
+http://203728357994427011.stonehuge.xyz:80/play/ja1031098/9774944498/427011.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: PARLAMENTS FERNSEHEN 2 SD
+http://203728357994427012.stonehuge.xyz:80/play/ja1031098/9774944498/427012.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: PLUTO TV MTV HD
+http://203728357994427013.stonehuge.xyz:80/play/ja1031098/9774944498/427013.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: RBW FHD
+http://203728357994427014.stonehuge.xyz:80/play/ja1031098/9774944498/427014.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: REDBOX KINO 10 FHD
+http://203728357994427015.stonehuge.xyz:80/play/ja1031098/9774944498/427015.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: REDBOX KINO 11 HD
+http://203728357994427016.stonehuge.xyz:80/play/ja1031098/9774944498/427016.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: REDBOX KINO 12 HD
+http://203728357994427017.stonehuge.xyz:80/play/ja1031098/9774944498/427017.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: REDBOX KINO 1 HD
+http://203728357994427018.stonehuge.xyz:80/play/ja1031098/9774944498/427018.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: REDBOX KINO 7 FHD
+http://203728357994427019.stonehuge.xyz:80/play/ja1031098/9774944498/427019.ts
+#EXTINF:0 tvg-id="RTLNitro.de" group-title="Channels",DE: RTL NITRO FHD
+http://203728357994427020.stonehuge.xyz:80/play/ja1031098/9774944498/427020.ts
+#EXTINF:0 tvg-id="RTLPassion.de" group-title="Channels",DE: RTL PASSION HD
+http://203728357994427021.stonehuge.xyz:80/play/ja1031098/9774944498/427021.ts
+#EXTINF:0 tvg-id="Sat1Gold.de" group-title="Channels",DE: SAT.1 GOLD SD
+http://203728357994427022.stonehuge.xyz:80/play/ja1031098/9774944498/427022.ts
+#EXTINF:0 tvg-id="Sixx.de" group-title="Channels",DE: SIXX FHD
+http://203728357994427023.stonehuge.xyz:80/play/ja1031098/9774944498/427023.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY CINEMA THRILLER FHD
+http://203728357994427024.stonehuge.xyz:80/play/ja1031098/9774944498/427024.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY CINEMA THRILLER SD
+http://203728357994427025.stonehuge.xyz:80/play/ja1031098/9774944498/427025.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY REPLAY SD
+http://203728357994427026.stonehuge.xyz:80/play/ja1031098/9774944498/427026.ts
+#EXTINF:0 tvg-id="SkySport1.de" group-title="Channels",DE: SKY SPORT 1 HD
+http://203728357994427027.stonehuge.xyz:80/play/ja1031098/9774944498/427027.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY SPORT 7 FHD
+http://203728357994427028.stonehuge.xyz:80/play/ja1031098/9774944498/427028.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY SPORT 8 HD
+http://203728357994427029.stonehuge.xyz:80/play/ja1031098/9774944498/427029.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY SPORT 9 HD
+http://203728357994427030.stonehuge.xyz:80/play/ja1031098/9774944498/427030.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY SPORT BUNDESLIGA 6 FHD
+http://203728357994427031.stonehuge.xyz:80/play/ja1031098/9774944498/427031.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY SPORT BUNDESLIGA 9 HD
+http://203728357994427032.stonehuge.xyz:80/play/ja1031098/9774944498/427032.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKY SPORT NEWS HEVC
+http://203728357994427033.stonehuge.xyz:80/play/ja1031098/9774944498/427033.ts
+

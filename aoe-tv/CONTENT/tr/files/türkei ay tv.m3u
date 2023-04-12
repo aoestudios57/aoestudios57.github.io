@@ -1,0 +1,778 @@
+#EXTM3U
+#EXTINF:0 tvg-id="TRT1.tr" group-title="Channels",TR: TRT 1 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/3334
+#EXTINF:0 tvg-id="TRT1.tr" group-title="Channels",TR: TRT 1 HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/4774
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="Channels",TR: Show Tv HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/53
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="Channels",TR: Show Tv HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/4776
+#EXTINF:0 tvg-id="KanalD.tr" group-title="Channels",TR: Kanal D HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/54
+#EXTINF:0 tvg-id="KanalD.tr" group-title="Channels",TR: Kanal D HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/4768
+#EXTINF:0 tvg-id="ATV.tr" group-title="Channels",TR: Atv HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/52
+#EXTINF:0 tvg-id="ATV.tr" group-title="Channels",TR: Atv HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/4769
+#EXTINF:0 tvg-id="Start.tr" group-title="Channels",TR: Star Tv HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/51
+#EXTINF:0 tvg-id="StarHD.tr" group-title="Channels",TR: Star Tv HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/4775
+#EXTINF:0 tvg-id="Fox.tr" group-title="Channels",TR: Fox Tv HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/55
+#EXTINF:0 tvg-id="Fox.tr" group-title="Channels",TR: Fox tv HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/55635
+#EXTINF:0 tvg-id="TV8.tr" group-title="Channels",TR: Tv8 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/57
+#EXTINF:0 tvg-id="TV8.tr" group-title="Channels",TR: Tv8 HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/4777
+#EXTINF:0 tvg-id="TV8.tr" group-title="Channels",TR: Tv8.5 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/5390
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="Channels",TR: Kanal 7 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="Channels",TR: Kanal 7 HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/5106
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: A2 Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/6314
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Teve2 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/6386
+#EXTINF:0 tvg-id="BEYAZTV.tr" group-title="Channels",TR: Beyaz Tv HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/67
+#EXTINF:0 tvg-id="BEYAZTV.tr" group-title="Channels",TR: Beyaz Tv HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/5223
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TRT 4K
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/163660
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: 360 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1060
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TV 4
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13890
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Szc TV
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/164969
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Akit Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/7001
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Bengtrk
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/2525
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Akilli Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/6786
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Uankus TV
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/111193
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Tempo Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116739
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Cem Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1922
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Ekin Trk
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/3255
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Can TV
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13682
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Arti Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/3254
+#EXTINF:0 tvg-id="KanalB.tr" group-title="Channels",TR: Kanal B
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/7047
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Viyana Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/8689
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Fora Mzik
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/151494
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TRT Eba Ilkokul
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/74853
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TRT Eba Ortaokul
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/74854
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TRT Eba Lise
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/74855
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TRT 2
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/24906
+#EXTINF:0 tvg-id="TRTAVAZ.tr" group-title="Channels",TR: TRT Avaz
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/7326
+#EXTINF:0 tvg-id="TRTDIYANET.tr" group-title="Channels",TR: TRT Diyanet
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/9131
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TRT Mzik
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1063
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TRT Trk
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1082
+#EXTINF:0 tvg-id="FlashTV.tr" group-title="Channels",TR: Flash TV
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/134611
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: ShowMax
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/6632
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Show Tv Avrupa
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/3371
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="Channels",TR: Kanal 7 Avrupa
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/2586
+#EXTINF:0 tvg-id="ATV.tr" group-title="Channels",TR: Atv Avrupa
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/7081
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Star Tv Avrupa
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/7082
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kanal D Avrupa
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/7080
+#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="Channels",TR: Tgrt Eu
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/7133
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: NR 1
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/2045
+#EXTINF:0 tvg-id="PowerTurk.tr" group-title="Channels",TR: Power HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/6787
+#EXTINF:0 tvg-id="PowerTurk.tr" group-title="Channels",TR: Power Turk HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/72
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Power Trk HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/5144
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Dream Trk
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/73
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kral Tv HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/2758
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kral Pop HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/3803
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TMB Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13904
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Mzikhol Hit Sarkilar HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/132899
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Mzikhol EN Iyiler HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/132905
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Mzikhol Arabesk
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/104729
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Mzikhol Trkler HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/132901
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Mzikhol Trk Halk Mzikleri HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/132904
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Mzikhol zgn Sarkilar HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/132906
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Fashion Box HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/8757
+#EXTINF:0 tvg-id="SemerkandTV.tr" group-title="Channels",TR: Semerkand HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/5234
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: AL Quran AR
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/7135
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Dost Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/4727
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Lalegl Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/2601
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Bereket Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13894
+#EXTINF:0 tvg-id="TV5Monde.tr" group-title="Channels",TR: TV5
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/3287
+#EXTINF:0 tvg-id="MeltemTv.tr" group-title="Channels",TR: Meltem Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1926
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Yasin Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116741
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kuds Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13902
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kadin Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13898
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Vatan Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/7979
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kanal Avrupa
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/2785
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kanal 58
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/76178
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Sivas Srt
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/3504
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Vizyon 58
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/7458
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kon Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1928
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: ay Tv Rize
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1927
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Mavi Karadeniz Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/2787
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TV52 Ordu
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/4991
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kayseri Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/9127
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TV1 Kayseri
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13914
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Olay Tv Bursa
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/9128
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Pamukkale TV
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/9123
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: HRT Akdeniz Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13941
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kanal 43 Ktahya
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13944
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Altas Tv Ordu
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13945
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TV'DEN Aydin
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13934
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: ukurova Trk Adana
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13933
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kanal V Antalya
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13931
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kanal Firat Elazig
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13935
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kakar TV Rize
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13937
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kanal Urfa
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13936
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: DRT Denizli
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13932
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Rumeli tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/9129
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Yerel Tv 41
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/7013
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Bursa Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13912
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Yildiz Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13896
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Ege Trk Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13901
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Es Tv Eskisehir
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13906
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Haberaks Samsun
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13920
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kanal 3 Isparta
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13921
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: ON4 Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13923
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Milyon Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116737
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Sat7Trk
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116738
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Ton Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116740
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Anadolu Dernek Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116742
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Yeni Kocaeli Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116743
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: UA Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116744
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TV35
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116745
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kadirga Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116746
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Gneydogu Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116747
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: FM Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116748
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Deha TV
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116749
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Beykent Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116750
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Haber 61
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116751
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: GTV Sanliurfa
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13926
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Rehber Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13907
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Brt 1 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/9800
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: BRT 2
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/14659
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kibris Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/6284
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR Kibris Gen Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/2784
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kanal T KKTC
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/7852
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Ada Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/14657
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Sim Tv Kibris
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/14658
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZ: Lider Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/2441
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZ: Gnaz Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/2442
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZ: Xazar Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/2443
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZ: Azad Atv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/3615
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZ: Dnya Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/4797
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZ: Ictimai TV
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/4798
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZ: Atv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/4800
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZ: CBC
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/25877
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZ: Space TV
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/25879
+#EXTINF:0 tvg-id="TRTHaber.tr" group-title="Channels",TR: Trt Haber HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/48
+#EXTINF:0 tvg-id="TRTHaber.tr" group-title="Channels",TR: Trt Haber HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/5224
+#EXTINF:0 tvg-id="AHaber.tr" group-title="Channels",TR: A Haber HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/63
+#EXTINF:0 tvg-id="AHaber.tr" group-title="Channels",TR: A Haber HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/5228
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Habertrk HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/516
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Habertrk HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/4771
+#EXTINF:0 tvg-id="CNNTURK.tr" group-title="Channels",TR: CNN Turk HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/60
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: CNN Trk HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/5105
+#EXTINF:0 tvg-id="NTV.tr" group-title="Channels",TR: Ntv HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/3704
+#EXTINF:0 tvg-id="NTV.tr" group-title="Channels",TR: Ntv HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/4222
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: 24 Haber HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/584
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: 24 Haber HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13899
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: lke Tv HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1061
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: lke Tv HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/5230
+#EXTINF:0 tvg-id="TVNet.tr" group-title="Channels",TR: Tvnet HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1075
+#EXTINF:0 tvg-id="TVNet.tr" group-title="Channels",TR: Tvnet HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/5231
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TGRT Haber HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1923
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Haber Global HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/20561
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Krt Kultur Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13461
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Uzay Haber
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13903
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TV 100 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/35073
+#EXTINF:0 tvg-id="HalkTV.tr" group-title="Channels",TR: Halk Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1971
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Yol TV
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/8727
+#EXTINF:0 tvg-id="UlusalKanal.tr" group-title="Channels",TR: Ulusal Kanal
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/2600
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Tele 1 Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/9334
+#EXTINF:0 tvg-id="BLOOMBERG.tr" group-title="Channels",TR: Bloomberg HT HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1083
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: A Para HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/14218
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Eko Trk
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13889
+#EXTINF:0 tvg-id="TRTWorldHD.tr" group-title="Channels",TR: Trt World HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/7853
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: A News HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/8798
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: BeinSports 1
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/2
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: BeinSports 1 HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/5104
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Bein Sports - 2 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1684
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Bein Sports - 2 HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/4
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Bein Sports - 3 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1803
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Bein Sports - 3 HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/5
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Bein Sports - 4 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1804
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Bein Sports - 4 HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1398
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Bein Sports - 5 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/162520
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Bein Sports - 5 HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/162521
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Bein Sports Max 1 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/4196
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Bein Sports Max 2 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/4197
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Bein Sports Haber
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/11456
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: BeinSports All Backups HD++
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Premium+ Sports
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/112795
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: EXXEN Spor 1
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/131474
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: EXXEN Spor 1 HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/132437
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: EXXEN Spor 2
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/132435
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: EXXEN Spor 2 HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/132438
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: EXXEN Spor 3
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/132436
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: EXXEN Spor 4
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/133095
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: EXXEN Spor 5
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/133097
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: EXXEN Spor 6
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/133099
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: EXXEN Spor 7
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/133101
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: EXXEN Spor 8
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/133103
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: NBA TV HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/6693
+#EXTINF:0 tvg-id="TivibuSpor1.tr" group-title="Channels",TR: Tivibu Spor 1
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/6
+#EXTINF:0 tvg-id="TivibuSpor2.tr" group-title="Channels",TR: Tivibu Spor  2
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/7
+#EXTINF:0 tvg-id="TivibuSpor3.tr" group-title="Channels",TR: Tivibu Spor 3
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/4757
+#EXTINF:0 tvg-id="TivibuSpor4.tr" group-title="Channels",TR: Tivibu Spor 4
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/152327
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Smart Spor
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/52768
+#EXTINF:0 tvg-id="SmartSpor1.tr" group-title="Channels",TR: Smart Spor 1
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1828
+#EXTINF:0 tvg-id="SSport.tr" group-title="Channels",TR: S Sport HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1829
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: S Sport Plus HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/114981
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: S Sport 2 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/23720
+#EXTINF:0 tvg-id="Eurosport.tr" group-title="Channels",TR: Eurosport 1 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1916
+#EXTINF:0 tvg-id="Eurosport2.tr" group-title="Channels",TR: Eurosport 2 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1915
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZ: CBC Sport
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1086
+#EXTINF:0 tvg-id="TRT3.tr" group-title="Channels",TR: Trt Spor HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/11
+#EXTINF:0 tvg-id="TRT3.tr" group-title="Channels",TR: Trt Spor HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/5225
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TRT Spor 2 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/34180
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRT Spor Yildiz HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/159291
+#EXTINF:0 tvg-id="ASpor.tr" group-title="Channels",TR: A Spor HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/12
+#EXTINF:0 tvg-id="ASpor.tr" group-title="Channels",TR: A Spor HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/5229
+#EXTINF:0 tvg-id="GALATASARAYTV.tr" group-title="Channels",TR: GS Tv HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1913
+#EXTINF:0 tvg-id="FBTV.tr" group-title="Channels",TR: FB Tv HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1914
+#EXTINF:0 tvg-id="SportsTV.tr" group-title="Channels",TR: Sports Tv HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1918
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Tay tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/3420
+#EXTINF:0 tvg-id="TJKTV.tr" group-title="Channels",TR: TJK Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58313
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: belN Movies Trk
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/10568
+#EXTINF:0 tvg-id="MoviemaxAction.tr" group-title="Channels",TR: beIN Movies Action
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/10562
+#EXTINF:0 tvg-id="MoviemaxAction2.tr" group-title="Channels",TR: beIN Movies Action 2
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13142
+#EXTINF:0 tvg-id="MoviemaxPremier.tr" group-title="Channels",TR: beIN Movies Premier
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/10567
+#EXTINF:0 tvg-id="MoviemaxPremier2.tr" group-title="Channels",TR: beIN Movies Premier 2
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13140
+#EXTINF:0 tvg-id="MoviemaxStars.tr" group-title="Channels",TR: beIN Movies Stars
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/10566
+#EXTINF:0 tvg-id="MoviemaxFamily.tr" group-title="Channels",TR: beIN Movies Family
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/11576
+#EXTINF:0 tvg-id="DizimaxSci-fi.tr" group-title="Channels",TR: beIN Series Sci-Fi
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/10559
+#EXTINF:0 tvg-id="DizimaxComedy.tr" group-title="Channels",TR: beIN Series Comedy
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/11573
+#EXTINF:0 tvg-id="DizimaxDrama.tr" group-title="Channels",TR: beIN Series Drama
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/11574
+#EXTINF:0 tvg-id="DizimaxVice.tr" group-title="Channels",TR: beIN Series Vice
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/11575
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Moviesmart Trk HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/11884
+#EXTINF:0 tvg-id="MovieSmartAction.tr" group-title="Channels",TR: Moviesmart Action HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/11875
+#EXTINF:0 tvg-id="MovieSmartFamily.tr" group-title="Channels",TR: Moviesmart Family HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/11877
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Yesilam 1
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/9019
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Yesilam 2
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/8648
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Yesilcam
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/8654
+#EXTINF:0 tvg-id="MovieSmartClassic.tr" group-title="Channels",TR: Moviesmart Classic HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/11876
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kemal Sunal Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/7338
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kemal Sunal Tv 2
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/11609
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kemal Sunal Tv 3
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/90920
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kemal Sunal Tv 4
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/90921
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kemal Sunal Tv 5
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/90922
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Kemal Sunal
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/11608
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Ilyas Salman TV
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/66172
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sener Sen TV
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/66173
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Zeki & Metin TV
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/66174
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Tarin Akan TV
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/66175
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Kadir Inanir TV
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/66176
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Cneyt Arkin TV
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/66177
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Dizi Smart HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/11873
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Sinema TV HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/11886
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Sinema TV Aksiyon HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/118349
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Sinema TV Komedi HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/118350
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Sinema TV Aile HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/118352
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Sinema TV Yerli HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/118351
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Sinema TV 1001 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/118353
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Nextbox Movie 1
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116244
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Nextbox Movie 2
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116245
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Nextbox Movie 3
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116246
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Nextbox Movie 4
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116247
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Nextbox Movie 5
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116248
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Nextbox Action
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116249
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Nextbox Dream
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116250
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Nextbox Gold
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116251
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Nextbox Tesla
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116252
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Nextbox Wall
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/116253
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Cinebox Kemal Sunal HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/26497
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Cinebox Yesilam HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/26498
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Cinebox Macera HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/26499
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Cinebox Aksiyon HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/26500
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Cinebox Korku HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/26501
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Cinebox Komedi HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/26502
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Cinebox Bilimkurgu HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/26503
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Cinebox Dram HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/26504
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Cinebox Animasyon HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/26505
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Yerli
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/8655
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Bilimkurgu
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/8903
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Action
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/8646
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Drama
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/8650
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Fantastic
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/8651
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Comedy
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/8652
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Horror
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/8653
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Family
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/8649
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sinevizyon INFO
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58176
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sinevizyon 1
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58177
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sinevizyon 2
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58178
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sinevizyon 3
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58179
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sinevizyon 4
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58180
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sinevizyon 5
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58181
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sinevizyon 6
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58182
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sinevizyon 7
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58183
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sinevizyon 8
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58184
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sinevizyon 9
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58185
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sinevizyon 10
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58186
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sinevizyon 11
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58187
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sinevizyon 12
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58188
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sinevizyon 13
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58189
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sinevizyon 14
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58190
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sinevizyon 15
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58191
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sinevizyon 16
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58192
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sinevizyon 17
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58193
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sinevizyon 18
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58194
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sinevizyon 19
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58195
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Filmbox Sinevizyon 20
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/58196
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Tivibu Komedi
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/11893
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Tivibu Action HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/11891
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Tivibu Action 2 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/11890
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Tivibu Trk HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/11895
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Tivibu Trk 2 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/11894
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Tivibu Vizyon HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/14007
+#EXTINF:0 tvg-id="FX.tr" group-title="Channels",TR: FX Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1929
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Fox Crime Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1930
+#EXTINF:0 tvg-id="IZTV.tr" group-title="Channels",TR: Iz Tv HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1897
+#EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="Channels",TR: TRT Belgesel HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/265
+#EXTINF:0 tvg-id="History.tr" group-title="Channels",TR: History Channel HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1637
+#EXTINF:0 tvg-id="History.tr" group-title="Channels",TR: History Channel HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/54512
+#EXTINF:0 tvg-id="NATGEOGRAPHIC.tr" group-title="Channels",TR: NG Turkey HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/266
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: NG Turkey HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/54513
+#EXTINF:0 tvg-id="NatGeoWild.tr" group-title="Channels",TR: NG Wild HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/264
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: NG Wild HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/54514
+#EXTINF:0 tvg-id="Discovery.tr" group-title="Channels",TR: Discovery Channel HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1484
+#EXTINF:0 tvg-id="Discovery.tr" group-title="Channels",TR: Discovery Channel HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/54516
+#EXTINF:0 tvg-id="DiscoveryScience.tr" group-title="Channels",TR: Discovery Science HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/4187
+#EXTINF:0 tvg-id="DiscoveryScience.tr" group-title="Channels",TR: Discovery Science HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/54518
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Discovery IDX HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/11780
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Discovery IDX HD+
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/54519
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Animaux
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/23668
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Dmax HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/12973
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Da Vinci Learning
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1921
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Viasat Nature History
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/3887
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Viasat Nature Explore
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/95060
+#EXTINF:0 tvg-id="BBCHD.tr" group-title="Channels",TR: BBC HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/12366
+#EXTINF:0 tvg-id="BBCEarth.tr" group-title="Channels",TR: BBC Earth
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/3888
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TLC HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/4244
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Bein Gurme HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/4245
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: 24 Kitchen
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/11510
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: DocuBox HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/95059
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Science & Vie
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/95061
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Love Nature
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/95062
+#EXTINF:0 tvg-id="FAST+FUN.tr" group-title="Channels",TR: Fast & Fun
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/95063
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Outdoor Channel
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/95064
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Chasse Peche
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/23669
+#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="Channels",TR: TGRT Belgesel
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/95058
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Yaban Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/268
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: ifti Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/9122
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Tarim Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/95065
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Av Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/95066
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Nasa Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13897
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TRT ocuk
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/389
+#EXTINF:0 tvg-id="Nickelodeon.tr" group-title="Channels",TR: Nickelodeon
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/2471
+#EXTINF:0 tvg-id="NickJr.tr" group-title="Channels",TR: Nickelodeon JR
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/2417
+#EXTINF:0 tvg-id="MinikaGo.tr" group-title="Channels",TR: Minica Go
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/2420
+#EXTINF:0 tvg-id="DisneyChannel.tr" group-title="Channels",TR: Disney Channel
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/36
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Disney Junior HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/2419
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Disney XD Cbeebies
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/22817
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Moviesmart ocuk HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/13138
+#EXTINF:0 tvg-id="Boomerang.tr" group-title="Channels",TR: Boomerang HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/8740
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Minika ocuk
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/608
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Rafadan Tayfa
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/2585
+#EXTINF:0 tvg-id="CartoonNetwork.tr" group-title="Channels",TR: Cartoon Network
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/3801
+#EXTINF:0 tvg-id="BabyTV.tr" group-title="Channels",TR: Baby Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/1088
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Da Vinci Kids
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/114248
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Elifin Dsleri
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/34129
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Niloya TV
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/34128
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Pepee Tv
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/54782
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Tom ve Jerry
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/90923
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Masa Ile Koca Ayi
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/90927
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Canim Kardesim
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/90928
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Road Runner
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/90929
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Emus Tv ocuk
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/90930
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Caillou
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/90931
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Masal Tv 1
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/90925
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Masal Tv 2
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/90926
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Heidi
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/104718
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Snger Bob
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/104719
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: PAW Patrol
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/104720
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Peppa Pig HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/104721
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Pijamaskeliler HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/104722
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Keloglan 1 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/104723
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Ten Ten 1 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/104724
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kukuli 1 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/104725
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Limon ile Zeytin 1 HD
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/104726
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kral Sakir
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/114235
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Booba
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/114236
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Tayo
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/114237
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Larva
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/114238
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kk Kamyon LEO
+http://congariptv.com:80/ayhanbostanuc/qkysg3WvJh/114239
+

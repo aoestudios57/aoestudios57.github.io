@@ -1,0 +1,2728 @@
+#EXTM3U catchup="flussonic" url-tvg="https://ip-tv.dev/epg/epg.xml.gz"
+#EXTINF:0 tvg-id="Xpervy" tvg-name="Первый HD" tvg-logo="https://ip-tv.dev/epg/icon/pervyj.png"  tvg-rec="5" timeshift="5", Первый HD
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/73/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-pl2" tvg-name="Первый канал +2" tvg-logo="https://ip-tv.dev/epg/icon/pervyj.png"  tvg-rec="5" timeshift="5", Первый канал +2
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/701/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-pl4" tvg-name="Первый канал +4" tvg-logo="https://ip-tv.dev/epg/icon/pervyj.png"  tvg-rec="5" timeshift="5", Первый канал +4
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/731/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-pl6" tvg-name="Первый канал +6" tvg-logo="https://ip-tv.dev/epg/icon/pervyj.png"  tvg-rec="5" timeshift="5", Первый канал +6
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/751/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrossia1" tvg-name="Россия 1 HD" tvg-logo="https://ip-tv.dev/epg/icon/rossia-hd.png"  tvg-rec="5" timeshift="5", Россия 1 HD
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/173/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrossia1" tvg-name="Россия 1" tvg-logo="https://ip-tv.dev/epg/icon/rossia1.png"  tvg-rec="5" timeshift="5", Россия 1
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/2/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrossia1-pl2" tvg-name="Россия 1 +2" tvg-logo="https://ip-tv.dev/epg/icon/rossia1.png"  tvg-rec="5" timeshift="5", Россия 1 +2
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/702/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrossia1-pl4" tvg-name="Россия 1 +4" tvg-logo="https://ip-tv.dev/epg/icon/rossia1.png"  tvg-rec="5" timeshift="5", Россия 1 +4
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/732/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrossia1-pl6" tvg-name="Россия 1 +6" tvg-logo="https://ip-tv.dev/epg/icon/rossia1.png"  tvg-rec="5" timeshift="5", Россия 1 +6
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/752/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrossia-24" tvg-name="Россия-24" tvg-logo="https://ip-tv.dev/epg/icon/rossia24.png"  tvg-rec="5" timeshift="5", Россия-24
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/49/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrtr-planeta-eu" tvg-name="РТР Планета СНГ" tvg-logo="https://ip-tv.dev/images/ico/rtr-planeta.png"  tvg-rec="5" timeshift="5", Планета РТР
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/353/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtnt" tvg-name="ТНТ HD" tvg-logo="https://ip-tv.dev/epg/icon/tnt.png"  tvg-rec="5" timeshift="5", ТНТ HD
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/86/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtnt-pl2" tvg-name="ТНТ (+2)" tvg-logo="https://ip-tv.dev/epg/icon/tnt.png"  tvg-rec="5" timeshift="5", ТНТ (+2)
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/719/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtnt-pl4" tvg-name="ТНТ (+4)" tvg-logo="https://ip-tv.dev/epg/icon/tnt.png"  tvg-rec="5" timeshift="5", ТНТ (+4)
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/749/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtnt-pl7" tvg-name="ТНТ (+7)" tvg-logo="https://ip-tv.dev/epg/icon/tnt.png"  tvg-rec="5" timeshift="5", ТНТ (+7)
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/769/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtnt4" tvg-name="ТНТ4" tvg-logo="https://ip-tv.dev/epg/icon/tnt4.png"  tvg-rec="5" timeshift="5", ТНТ4
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/41/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xntv-mir" tvg-name="НТВ Мир" tvg-logo="https://ip-tv.dev/epg/icon/ntv-mir.png"  tvg-rec="5" timeshift="5", НТВ Мир
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/627/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xntv" tvg-name="НТВ HD" tvg-logo="https://ip-tv.dev/epg/icon/ntv-white.png"  tvg-rec="5" timeshift="5", НТВ HD
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/220/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xntv-pl2" tvg-name="НТВ (+2)" tvg-logo="https://ip-tv.dev/epg/icon/ntv-white.png"  tvg-rec="5" timeshift="5", НТВ (+2)
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/704/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xntv-style" tvg-name="НТВ Стиль" tvg-logo="https://ip-tv.dev/epg/icon/ntv-style.png"  tvg-rec="5" timeshift="5", НТВ Стиль
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/786/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xvremia" tvg-name="Время" tvg-logo="https://ip-tv.dev/epg/icon/vremia.png"  tvg-rec="5" timeshift="5", Время
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/131/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmoskva-24" tvg-name="Москва 24" tvg-logo="https://ip-tv.dev/epg/icon/moskva-24.png"  tvg-rec="5" timeshift="5", Москва 24
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/163/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsankt-peterburg" tvg-name="Санкт-Петербург" tvg-logo="https://ip-tv.dev/epg/icon/sankt-peterburg.png"  tvg-rec="5" timeshift="5", Санкт-Петербург
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/301/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrentv" tvg-name="РЕН ТВ HD" tvg-logo="https://ip-tv.dev/epg/icon/rentv.png"  tvg-rec="5" timeshift="5", РЕН ТВ HD
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/111/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrentv-pl2" tvg-name="РЕН ТВ (+2)" tvg-logo="https://ip-tv.dev/epg/icon/rentv.png"  tvg-rec="5" timeshift="5", РЕН ТВ (+2)
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/711/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsts" tvg-name="СТС HD" tvg-logo="https://ip-tv.dev/epg/icon/sts.png"  tvg-rec="5" timeshift="5", СТС HD
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/36/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsts" tvg-name="СТС" tvg-logo="https://ip-tv.dev/epg/icon/sts.png"  tvg-rec="5" timeshift="5", СТС
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/8/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsts-pl2" tvg-name="СТС (+2)" tvg-logo="https://ip-tv.dev/epg/icon/sts.png"  tvg-rec="5" timeshift="5", СТС (+2)
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/713/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsts-pl4" tvg-name="СТС (+4)" tvg-logo="https://ip-tv.dev/epg/icon/sts.png"  tvg-rec="5" timeshift="5", СТС (+4)
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/743/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="СТС (+6)" tvg-logo="https://ip-tv.dev/epg/icon/sts.png"  tvg-rec="5" timeshift="5", СТС (+6)
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/763/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsts-love" tvg-name="СТС Love" tvg-logo="https://ip-tv.dev/epg/icon/sts-love.png"  tvg-rec="5" timeshift="5", СТС Love
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/284/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X5kanal-ru" tvg-name="Пятый Канал" tvg-logo="https://ip-tv.dev/epg/icon/5kanal-ru.png"  tvg-rec="5" timeshift="5", Пятый Канал
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/169/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkultura" tvg-name="Россия-Культура" tvg-logo="https://ip-tv.dev/epg/icon/rossia-k.png"  tvg-rec="5" timeshift="5", Россия-Культура
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/59/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdozhd" tvg-name="Дождь" tvg-logo="https://ip-tv.dev/epg/icon/dozhd.png"  tvg-rec="5" timeshift="5", Дождь
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/988/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrbk" tvg-name="РБК-ТВ" tvg-logo="https://ip-tv.dev/epg/icon/rbk.png"  tvg-rec="5" timeshift="5", РБК-ТВ
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/34/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtvcentr" tvg-name="ТВЦ" tvg-logo="https://ip-tv.dev/images/ico/tvcentr.png"  tvg-rec="5" timeshift="5", ТВЦ
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/3/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xotr" tvg-name="ОТР" tvg-logo="https://ip-tv.dev/epg/icon/otr_ru.png"  tvg-rec="5" timeshift="5", ОТР
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/199/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtvci" tvg-name="ТВЦ International" tvg-logo="https://ip-tv.dev/images/ico/tvcentr.png"  tvg-rec="5" timeshift="5", ТВЦ International
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/982/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrtvi" tvg-name="RTVi" tvg-logo="https://ip-tv.dev/images/ico/rtvi.png"  tvg-rec="5" timeshift="5", RTVi
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/365/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="RTVi Retro" tvg-logo="https://ip-tv.dev/images/ico/rtviretro.png" , RTVi Retro
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/363/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xperec-int" tvg-name="Перец" tvg-logo="https://ip-tv.dev/epg/icon/perec.png"  tvg-rec="5" timeshift="5", Перец
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/484/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xpiatnica" tvg-name="Пятница" tvg-logo="https://ip-tv.dev/epg/icon/pyatnica.png"  tvg-rec="5" timeshift="5", Пятница
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/9/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xpiatnica" tvg-name="Пятница HD" tvg-logo="https://ip-tv.dev/epg/icon/pyatnica.png"  tvg-rec="5" timeshift="5", Пятница HD
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/9930/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsuper" tvg-name="Суббота" tvg-logo="https://ip-tv.dev/epg/icon/super.png"  tvg-rec="5" timeshift="5", Суббота
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/3685/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnastoyaschee-vremia" tvg-name="Настоящее время HD" tvg-logo="https://ip-tv.dev/images/ico/nastoiaschee-vremia.png"  tvg-rec="5" timeshift="5", Настоящее время HD
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/6202/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xyu" tvg-name="Ю ТВ" tvg-logo="https://ip-tv.dev/epg/icon/yu.png"  tvg-rec="5" timeshift="5", Ю ТВ
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/298/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmir" tvg-name="Мир" tvg-logo="https://ip-tv.dev/epg/icon/mir.png"  tvg-rec="5" timeshift="5", Мир
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/118/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Мир Premium HD" tvg-logo="https://ip-tv.dev/epg/icon/mir.png"  tvg-rec="5" timeshift="5", Мир Premium HD
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/8115/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xzvezda" tvg-name="Телеканал Звезда" tvg-logo="https://ip-tv.dev/epg/icon/zvezda.png"  tvg-rec="5" timeshift="5", Телеканал Звезда
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/170/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdomashny" tvg-name="Домашний" tvg-logo="https://ip-tv.dev/epg/icon/domashny.png"  tvg-rec="5" timeshift="5", Домашний
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/115/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-krymsky" tvg-name="Первый Крымский" tvg-logo="https://ip-tv.dev/epg/icon/pervy-krymsky.png"  tvg-rec="5" timeshift="5", Первый Крымский
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/3779/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkrym24" tvg-name="КРЫМ 24" tvg-logo="https://ip-tv.dev/epg/icon/krym24.png"  tvg-rec="5" timeshift="5", КРЫМ 24
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/3904/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdoverie" tvg-name="Москва Доверие" tvg-logo="https://ip-tv.dev/epg/icon/doverie.png"  tvg-rec="5" timeshift="5", Москва Доверие
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/321/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xvmeste-rf" tvg-name="ВМЕСТЕ-РФ" tvg-logo="https://ip-tv.dev/epg/icon/vmeste-rf.png"  tvg-rec="5" timeshift="5", ВМЕСТЕ-РФ
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/323/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsvoyo-tv-stavropol" tvg-name="Свое ТВ" tvg-logo="https://ip-tv.dev/images/ico/svoyo.png" , Свое ТВ
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/3788/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xizvestia" tvg-name="Известия HD" tvg-logo="https://ip-tv.dev/images/ico/izvestia.png" , Известия HD
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/3796/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtrk-ryazan" tvg-name="ТКР Рязань" tvg-logo="https://ip-tv.dev/images/ico/trk-ryazan.png" , ТКР Рязань
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/531/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xche" tvg-name="Че!" tvg-logo="https://ip-tv.dev/epg/icon/che.png"  tvg-rec="5" timeshift="5", Че!
+#EXTGRP:Россия
+http://nl4.iptv.monster/play/109/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X1plus1" tvg-name="1+1" tvg-logo="https://ip-tv.dev/images/ico/1plus1.png"  tvg-rec="5" timeshift="5", 1+1
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/400/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X1plus1" tvg-name="1+1 HD" tvg-logo="https://ip-tv.dev/images/ico/1plus1hd.png"  tvg-rec="5" timeshift="5", 1+1 HD
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/9971/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X1plus1-ukraina" tvg-name="1+1 Україна" tvg-logo="https://ip-tv.dev/images/ico/1plus1.png"  tvg-rec="5" timeshift="5", 1+1 Україна
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/398/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X1plus1-ukraina" tvg-name="1+1 Україна HD" tvg-logo="https://ip-tv.dev/images/ico/1plus1.png"  tvg-rec="5" timeshift="5", 1+1 Україна HD
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/403/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X1plus1-int" tvg-name="1+1 International HD" tvg-logo="https://ip-tv.dev/images/ico/1plus1int.png"  tvg-rec="5" timeshift="5", 1+1 International HD
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/8798/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X2plus2" tvg-name="2+2" tvg-logo="https://ip-tv.dev/images/ico/2plus2.png"  tvg-rec="5" timeshift="5", 2+2
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/656/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X2plus2" tvg-name="2+2 HD" tvg-logo="https://ip-tv.dev/images/ico/2plus2hd.png"  tvg-rec="5" timeshift="5", 2+2 HD
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/9953/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xictv-ua" tvg-name="ICTV" tvg-logo="https://ip-tv.dev/images/ico/ictv.png"  tvg-rec="5" timeshift="5", ICTV
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/647/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xictv-ua" tvg-name="ICTV HD" tvg-logo="https://ip-tv.dev/images/ico/ictvhd.png"  tvg-rec="5" timeshift="5", ICTV HD
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/9973/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xictv-ukraine" tvg-name="ICTV2" tvg-logo="https://ip-tv.dev/images/ico/ictv2.png"  tvg-rec="5" timeshift="5", ICTV2
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/6205/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xukraine1" tvg-name="Ukraine 1" tvg-logo="https://ip-tv.dev/images/ico/ukr1.png"  tvg-rec="5" timeshift="5", Ukraine 1
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/6153/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xukraine2" tvg-name="Ukraine 2" tvg-logo="https://ip-tv.dev/images/ico/ukr2.png"  tvg-rec="5" timeshift="5", Ukraine 2
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/6154/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnovy-kanal-ua" tvg-name="Новий канал" tvg-logo="https://ip-tv.dev/epg/icon/novy.png"  tvg-rec="5" timeshift="5", Новий канал
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/651/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnovy-kanal-ua" tvg-name="Новий канал HD" tvg-logo="https://ip-tv.dev/epg/icon/novy.png"  tvg-rec="5" timeshift="5", Новий канал HD
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/9974/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xua-pershy" tvg-name="UA:Перший" tvg-logo="https://ip-tv.dev/images/ico/pershiy-hd.png"  tvg-rec="5" timeshift="5", UA:Перший
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/646/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xua-kyiv" tvg-name="UA: Київ" tvg-logo="https://ip-tv.dev/images/ico/kiiv.png" , UA: Київ
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/5498/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xstb-ua" tvg-name="СТБ" tvg-logo="https://ip-tv.dev/epg/icon/stb.png"  tvg-rec="5" timeshift="5", СТБ
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/401/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xstb-ua" tvg-name="СТБ HD" tvg-logo="https://ip-tv.dev/epg/icon/stb.png"  tvg-rec="5" timeshift="5", СТБ HD
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/9975/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xntn-ua" tvg-name="НТН" tvg-logo="https://ip-tv.dev/epg/icon/ntn.png"  tvg-rec="5" timeshift="5", НТН
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/402/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xntn-ua" tvg-name="НТН HD" tvg-logo="https://ip-tv.dev/epg/icon/ntn.png"  tvg-rec="5" timeshift="5", НТН HD
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/8834/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xinter-ua" tvg-name="Интер" tvg-logo="https://ip-tv.dev/epg/icon/inter-ua.png"  tvg-rec="5" timeshift="5", Интер
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/404/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xinter-ua" tvg-name="Интер HD" tvg-logo="https://ip-tv.dev/epg/icon/inter-ua.png"  tvg-rec="5" timeshift="5", Интер HD
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/8833/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xinter-plus-ua" tvg-name="Интер+" tvg-logo="https://ip-tv.dev/images/ico/inter-plus-ua.png"  tvg-rec="5" timeshift="5", Интер+
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/302/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xinter-plus-ua" tvg-name="Интер+ HD" tvg-logo="https://ip-tv.dev/images/ico/inter-plus-ua.png"  tvg-rec="5" timeshift="5", Интер+ HD
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/8830/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtet-ua" tvg-name="ТЕТ" tvg-logo="https://ip-tv.dev/epg/icon/tet.png"  tvg-rec="5" timeshift="5", ТЕТ
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/405/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtet-ua" tvg-name="ТЕТ HD" tvg-logo="https://ip-tv.dev/epg/icon/tet.png"  tvg-rec="5" timeshift="5", ТЕТ HD
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/9954/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xunian-tv" tvg-name="Униан ТВ" tvg-logo="https://ip-tv.dev/epg/icon/unian.png"  tvg-rec="5" timeshift="5", Униан ТВ
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/9949/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xk1-ua" tvg-name="К1" tvg-logo="https://ip-tv.dev/epg/icon/k1-ua.png"  tvg-rec="5" timeshift="5", К1
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/645/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xk1-ua" tvg-name="К1 HD" tvg-logo="https://ip-tv.dev/epg/icon/k1-ua.png"  tvg-rec="5" timeshift="5", К1 HD
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/8836/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xk2-ua" tvg-name="К2" tvg-logo="https://ip-tv.dev/epg/icon/k2-ua.png"  tvg-rec="5" timeshift="5", К2
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/652/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xk2-ua" tvg-name="К2 HD" tvg-logo="https://ip-tv.dev/epg/icon/k2-ua.png"  tvg-rec="5" timeshift="5", К2 HD
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/8835/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="24news-ua" tvg-name="24 Украина HD" tvg-logo="https://ip-tv.dev/epg/icon/24news-ua.png"  tvg-rec="5" timeshift="5", 24 Украина HD
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/9955/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X5kanal-ua" tvg-name="5 канал UA" tvg-logo="https://ip-tv.dev/epg/icon/5ua.png"  tvg-rec="5" timeshift="5", 5 канал ПЕРШИЙ.УКРАЇНСЬКИЙ. ІНФОРМАЦІЙНИЙ
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/406/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xespreso-tv" tvg-name="Eспресо TV" tvg-logo="https://ip-tv.dev/epg/icon/espreso.png"  tvg-rec="5" timeshift="5", Eспресо TV
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/408/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xpriamyj" tvg-name="Прямий HD" tvg-logo="https://ip-tv.dev/epg/icon/priamyj.png"  tvg-rec="5" timeshift="5", Прямий HD
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/2605/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xua-tv" tvg-name="FreeДОМ" tvg-logo="https://ip-tv.dev/images/ico/ua-tv.png" , FreeДОМ
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/350/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xpravdatyt" tvg-name="Правда ТУТ HD" tvg-logo="https://ip-tv.dev/images/ico/pravda.png"  tvg-rec="5" timeshift="5", Правда ТУТ HD
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/6204/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xatr-ua" tvg-name="ATR" tvg-logo="https://ip-tv.dev/epg/icon/atr-ua.png"  tvg-rec="5" timeshift="5", ATR
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/9945/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkvartal-tv" tvg-name="Квартал ТВ" tvg-logo="https://ip-tv.dev/epg/icon/kvartal-tv.png"  tvg-rec="5" timeshift="5", Квартал ТВ
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/2627/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmega-ua" tvg-name="Мега HD" tvg-logo="https://ip-tv.dev/images/ico/mega-ua.png"  tvg-rec="5" timeshift="5", Мега HD
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/8832/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmega-ua" tvg-name="Мега" tvg-logo="https://ip-tv.dev/images/ico/mega-ua.png"  tvg-rec="5" timeshift="5", Мега
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/654/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xenter-film" tvg-name="Enter-фільм" tvg-logo="https://ip-tv.dev/epg/icon/enter-film.png"  tvg-rec="5" timeshift="5", Enter-фільм
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/648/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xenter-film" tvg-name="Enter-фільм HD" tvg-logo="https://ip-tv.dev/epg/icon/enter-film.png"  tvg-rec="5" timeshift="5", Enter-фільм HD
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/8837/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xotse" tvg-name="Оце HD" tvg-logo="https://ip-tv.dev/epg/icon/oce.png"  tvg-rec="5" timeshift="5", Оце HD
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/9905/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrada-ua" tvg-name="Рада" tvg-logo="https://ip-tv.dev/epg/icon/rada.png"  tvg-rec="5" timeshift="5", Рада
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/9956/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xbigudi" tvg-name="Бігуді" tvg-logo="https://ip-tv.dev/epg/icon/bigudi.png"  tvg-rec="5" timeshift="5", Бігуді
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/2625/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X1auto" tvg-name="Первый Автомобильный" tvg-logo="https://ip-tv.dev/epg/icon/1auto.png"  tvg-rec="5" timeshift="5", Первый Автомобильный
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/8869/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xislandiya" tvg-name="Исландия" tvg-logo="https://ip-tv.dev/epg/icon/islandiya.png"  tvg-rec="5" timeshift="5", Исландия
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/8796/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnlo-tv2" tvg-name="NLO TV 2" tvg-logo="https://ip-tv.dev/images/ico/nlo2.png" , NLO TV 2
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/6152/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsonce-ua" tvg-name="Сонце" tvg-logo="https://ip-tv.dev/epg/icon/sonce.png"  tvg-rec="5" timeshift="5", Сонце
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/9913/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkus-kus" tvg-name="Кус-кус" tvg-logo="https://ip-tv.dev/images/ico/kus-kus.png" , Кус-кус
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/5112/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xzoom-ua" tvg-name="Zoom HD" tvg-logo="https://ip-tv.dev/epg/icon/zoom.png"  tvg-rec="5" timeshift="5", Zoom HD
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/8841/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xzoom-ua" tvg-name="Zoom" tvg-logo="https://ip-tv.dev/epg/icon/zoom.png"  tvg-rec="5" timeshift="5", Zoom
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/653/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkyiv-ua" tvg-name="ТРК Киев" tvg-logo="https://ip-tv.dev/images/ico/kyiv-ua.png"  tvg-rec="5" timeshift="5", ТРК Киев
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/9908/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X12-lutsk" tvg-name="12 канал Луцк" tvg-logo="https://ip-tv.dev/images/ico/12-lutsk.png" , 12 канал Луцк
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/5176/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkultura-ua" tvg-name="UA:Культура" tvg-logo="https://ip-tv.dev/epg/icon/uakult.png"  tvg-rec="5" timeshift="5", UA:Культура
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/9909/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xua-odesa" tvg-name="UA:Одесcа" tvg-logo="https://ip-tv.dev/images/ico/ua-odesa.png" , UA:Одесcа
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/9914/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Первый городской Одесса" tvg-logo="https://ip-tv.dev/epg/icon/odessa.png" , Первый городской Одесса
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/9915/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X7kanal-odessa" tvg-name="7 канал" tvg-logo="https://ip-tv.dev/images/ico/7odessa.png"  tvg-rec="5" timeshift="5", 7 канал
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/9916/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnadia" tvg-name="Надія" tvg-logo="https://ip-tv.dev/images/ico/nadia.png" , Надія
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/5108/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdumskaya" tvg-name="Думская TV" tvg-logo="https://ip-tv.dev/epg/icon/dumskaya.png"  tvg-rec="5" timeshift="5", Думская TV
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/9917/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="ТРК Круг" tvg-logo="https://ip-tv.dev/epg/icon/krug.png" , ТРК Круг
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/9919/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkaravan-tv" tvg-name="Караван ТВ" tvg-logo="https://ip-tv.dev/images/ico/karavan-tv.png" , Караван ТВ
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/5116/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Чернівецький промінь" tvg-logo="https://ip-tv.dev/images/ico/promin.png" , Чернівецький промінь
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/8806/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtva-ua" tvg-name="ТВА" tvg-logo="https://ip-tv.dev/images/ico/tva-ua.png" , ТВА
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/9906/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="33 канал" tvg-logo="https://ip-tv.dev/images/ico/33.png" , 33 канал
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/6161/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="TV7+ Проскурів" tvg-logo="https://ip-tv.dev/images/ico/tv7.png" , TV7+ Проскурів
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/5164/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Перший Подільський" tvg-logo="https://ip-tv.dev/images/ico/1pod.png" , Перший Подільський
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/5121/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xotb-galychyna" tvg-name="ОТБ Галичина" tvg-logo="https://ip-tv.dev/images/ico/otb-galychyna.png" , ОТБ Галичина
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/5120/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="11 канал Дніпро" tvg-logo="https://ip-tv.dev/images/ico/11kanal.png" , 11 канал Дніпро
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/5122/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Пирятин" tvg-logo="https://ip-tv.dev/images/ico/piryatin.png" , Пирятин
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/5165/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xraiua" tvg-name="РАІ" tvg-logo="https://ip-tv.dev/images/ico/raiua.png" , РАІ
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/5167/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Сварожичи" tvg-logo="https://ip-tv.dev/epg/icon/svarozici.png" , Сварожичи
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/9947/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrozpakujtv" tvg-name="Розпакуй.TV" tvg-logo="https://ip-tv.dev/images/ico/rozpakuy.png" , Розпакуй.TV
+#EXTGRP:Украинские
+http://nl4.iptv.monster/play/5177/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtv1000" tvg-name="TV1000" tvg-logo="https://ip-tv.dev/epg/icon/tv1000.png"  tvg-rec="5" timeshift="5", TV1000
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/82/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtv1000" tvg-name="TV1000 HD" tvg-logo="https://ip-tv.dev/epg/icon/tv1000.png"  tvg-rec="5" timeshift="5", TV1000 HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/488/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtv1000-action" tvg-name="TV1000 Action" tvg-logo="https://ip-tv.dev/epg/icon/tv1000action.png"  tvg-rec="5" timeshift="5", TV1000 Action
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/83/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtv1000-action" tvg-name="TV1000 Action HD" tvg-logo="https://ip-tv.dev/epg/icon/tv1000action.png"  tvg-rec="5" timeshift="5", TV1000 Action HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/487/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtv1000-worldkino" tvg-name="TV1000 World Kino" tvg-logo="https://ip-tv.dev/epg/icon/tv1000-worldkino.png"  tvg-rec="5" timeshift="5", TV1000 World Kino
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/9987/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtv1000-russkoe-kino" tvg-name="TV1000 русское кино" tvg-logo="https://ip-tv.dev/epg/icon/tv1000ruskino.png"  tvg-rec="5" timeshift="5", TV1000 русское кино
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/81/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtv1000-russkoe-kino" tvg-name="TV1000 Русское кино HD" tvg-logo="https://ip-tv.dev/epg/icon/tv1000ruskino.png"  tvg-rec="5" timeshift="5", TV1000 Русское кино HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/489/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xvip-comedy" tvg-name="VIP Comedy HD" tvg-logo="https://ip-tv.dev/epg/icon/vip-comedy.png"  tvg-rec="5" timeshift="5", VIP Comedy HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/194/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xvip-comedy-cee" tvg-name="VIP Comedy CEE HD" tvg-logo="https://ip-tv.dev/epg/icon/vip-comedy.png"  tvg-rec="5" timeshift="5", VIP Comedy CEE HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/9969/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xvip-megahit" tvg-name="VIP Megahit HD" tvg-logo="https://ip-tv.dev/epg/icon/vip-megahit.png"  tvg-rec="5" timeshift="5", VIP Megahit HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/195/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xvip-megahit-cee" tvg-name="VIP Megahit CEE HD" tvg-logo="https://ip-tv.dev/epg/icon/vip-megahit.png"  tvg-rec="5" timeshift="5", VIP Megahit CEE HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/9968/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xvip-premiere" tvg-name="VIP Premiere HD" tvg-logo="https://ip-tv.dev/epg/icon/vip-premiere.png"  tvg-rec="5" timeshift="5", VIP Premiere HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/196/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xvip-premiere-cee" tvg-name="VIP Premiere CEE HD" tvg-logo="https://ip-tv.dev/epg/icon/vip-premiere.png"  tvg-rec="5" timeshift="5", VIP Premiere CEE HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/9970/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xvip-serial" tvg-name="VIP Serial" tvg-logo="https://ip-tv.dev/epg/icon/vip-serial.png"  tvg-rec="5" timeshift="5", VIP Serial
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/9982/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnash-kinoroman" tvg-name="Душевное HD" tvg-logo="https://ip-tv.dev/epg/icon/nash-kinoroman.png"  tvg-rec="5" timeshift="5", Душевное HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/370/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnash-kinopokaz" tvg-name="Наш Кинопоказ HD" tvg-logo="https://ip-tv.dev/epg/icon/nash-kinopokaz.png"  tvg-rec="5" timeshift="5", Наш Кинопоказ HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/4475/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnash-detektiv" tvg-name="Наше крутое HD" tvg-logo="https://ip-tv.dev/epg/icon/nase-krutoe.png"  tvg-rec="5" timeshift="5", Наше крутое HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/369/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnashe-lubimoe" tvg-name="Наше любимое HD" tvg-logo="https://ip-tv.dev/epg/icon/nashe-lubimoe.png"  tvg-rec="5" timeshift="5", Наше любимое HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/499/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnashe-muzhskoe" tvg-name="Наше Мужское HD" tvg-logo="https://ip-tv.dev/images/ico/nashe-muzhskoe-hd.png"  tvg-rec="5" timeshift="5", Наше Мужское HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/4777/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkhit" tvg-name="Хит HD" tvg-logo="https://ip-tv.dev/epg/icon/khit.png"  tvg-rec="5" timeshift="5", Хит HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/4479/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xblokbaster" tvg-name="Блокбастер HD" tvg-logo="https://ip-tv.dev/epg/icon/blokbaster.png"  tvg-rec="5" timeshift="5", Блокбастер HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/4476/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="https://ip-tv.dev/epg/icon/ostrosiuzhetnoe-hd.png"  tvg-rec="5" timeshift="5", Остросюжетное HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/368/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkinouzhas" tvg-name="Киноужас HD" tvg-logo="https://ip-tv.dev/epg/icon/kinouzhas.png"  tvg-rec="5" timeshift="5", Киноужас HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/259/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xpro-lyubov" tvg-name="Про Любовь HD" tvg-logo="https://ip-tv.dev/images/ico/pro-lyubov.png"  tvg-rec="5" timeshift="5", Про Любовь HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/4778/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkinopremium-hd" tvg-name="Премиальное HD" tvg-logo="https://ip-tv.dev/epg/icon/premialnoe.png"  tvg-rec="5" timeshift="5", Премиальное HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/367/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkinopremiera-hd" tvg-name="КИНОПРЕМЬЕРА HD" tvg-logo="https://ip-tv.dev/epg/icon/kinopremiera.png"  tvg-rec="5" timeshift="5", КИНОПРЕМЬЕРА HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/183/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkamedi" tvg-name="Камеди HD" tvg-logo="https://ip-tv.dev/images/ico/kamedi.png"  tvg-rec="5" timeshift="5", Камеди HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/4780/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkinoxit" tvg-name="КИНОХИТ" tvg-logo="https://ip-tv.dev/epg/icon/kino_xit.png"  tvg-rec="5" timeshift="5", КИНОХИТ
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/33/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkinosemiya" tvg-name="КИНОСЕМЬЯ" tvg-logo="https://ip-tv.dev/epg/icon/kinosemia.png"  tvg-rec="5" timeshift="5", КИНОСЕМЬЯ
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/13/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkinosvidanie" tvg-name="КИНОСВИДАНИЕ" tvg-logo="https://ip-tv.dev/epg/icon/kinosvidanie.png"  tvg-rec="5" timeshift="5", КИНОСВИДАНИЕ
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/11/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkinokomedia" tvg-name="КИНОКОМЕДИЯ" tvg-logo="https://ip-tv.dev/epg/icon/kinokomedia.png"  tvg-rec="5" timeshift="5", КИНОКОМЕДИЯ
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/3738/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkriminalnoe-hd" tvg-name="Криминальное HD" tvg-logo="https://ip-tv.dev/images/ico/kriminalnoe-hd.png"  tvg-rec="5" timeshift="5", Криминальное HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/7308/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkinopokaz-hd1" tvg-name="Шокирующее" tvg-logo="https://ip-tv.dev/epg/icon/shokiruyushchee.png"  tvg-rec="5" timeshift="5", Шокирующее
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/137/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkinopokaz-hd2" tvg-name="Комедийное" tvg-logo="https://ip-tv.dev/epg/icon/komedijnoe.png"  tvg-rec="5" timeshift="5", Комедийное
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/138/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xamedia1" tvg-name="AMEDIA 1 HD" tvg-logo="https://ip-tv.dev/epg/icon/amedia1.png"  tvg-rec="5" timeshift="5", AMEDIA 1 HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/629/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xamedia1" tvg-name="Amedia 1" tvg-logo="https://ip-tv.dev/epg/icon/amedia1.png"  tvg-rec="5" timeshift="5", Amedia 1
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/267/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xamedia2" tvg-name="Amedia 2" tvg-logo="https://ip-tv.dev/epg/icon/amedia2.png"  tvg-rec="5" timeshift="5", Amedia 2
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/261/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xamedia-hit" tvg-name="Amedia Hit" tvg-logo="https://ip-tv.dev/epg/icon/amedia-hit.png"  tvg-rec="5" timeshift="5", Amedia Hit
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/632/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xamedia-premium" tvg-name="AMEDIA Premium HD" tvg-logo="https://ip-tv.dev/epg/icon/amedia-premium.png"  tvg-rec="5" timeshift="5", AMEDIA Premium HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/187/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xamedia-premium" tvg-name="Amedia premium" tvg-logo="https://ip-tv.dev/epg/icon/amedia-premium.png"  tvg-rec="5" timeshift="5", Amedia premium
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/630/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xfoxlife" tvg-name="Fox Life HD" tvg-logo="https://ip-tv.dev/epg/icon/foxlife.png"  tvg-rec="5" timeshift="5", Fox Life HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/179/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xfox" tvg-name="FOX HD" tvg-logo="https://ip-tv.dev/epg/icon/fox.png"  tvg-rec="5" timeshift="5", FOX HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/178/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xepik-drama" tvg-name="Epic Drama HD" tvg-logo="https://ip-tv.dev/epg/icon/epik-drama.png"  tvg-rec="5" timeshift="5", Epic Drama HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/9983/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsony-turbo" tvg-name=".black" tvg-logo="https://ip-tv.dev/epg/icon/sony-turbo.png"  tvg-rec="5" timeshift="5", .black
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/235/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsony-tv" tvg-name=".red HD" tvg-logo="https://ip-tv.dev/epg/icon/sony.png"  tvg-rec="5" timeshift="5", .red HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/292/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsony-scifi" tvg-name=".sci-fi" tvg-logo="https://ip-tv.dev/epg/icon/sony-scifi.png"  tvg-rec="5" timeshift="5", .sci-fi
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/102/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xparamount-channelX" tvg-name="Paramount Channel HD" tvg-logo="https://ip-tv.dev/images/ico/paramount-channel.png"  tvg-rec="5" timeshift="5", Paramount Channel HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/383/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xamc" tvg-name="AMC" tvg-logo="https://ip-tv.dev/epg/icon/amc.png"  tvg-rec="5" timeshift="5", AMC
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/9936/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xhollywood-hd" tvg-name="Hollywood HD" tvg-logo="https://ip-tv.dev/epg/icon/hollywood-hd.png"  tvg-rec="5" timeshift="5", Hollywood HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/176/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xparamount-comedy" tvg-name="Paramount Comedy Russia" tvg-logo="https://ip-tv.dev/epg/icon/paramount_comedy.png"  tvg-rec="5" timeshift="5", Paramount Comedy Russia
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/181/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xfoxlife" tvg-name="Fox Life" tvg-logo="https://ip-tv.dev/epg/icon/foxlife.png"  tvg-rec="5" timeshift="5", Fox Life
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/94/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xfox" tvg-name="Fox" tvg-logo="https://ip-tv.dev/epg/icon/fox.png"  tvg-rec="5" timeshift="5", Fox
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/95/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtvxxi" tvg-name="TV XXI" tvg-logo="https://ip-tv.dev/epg/icon/xxi.png"  tvg-rec="5" timeshift="5", TV XXI
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/84/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xparamount-comedy" tvg-name="Paramount Comedy HD" tvg-logo="https://ip-tv.dev/epg/icon/paramount_comedy.png"  tvg-rec="5" timeshift="5", Paramount Comedy HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/382/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xntv-serial" tvg-name="НТВ Сериал" tvg-logo="https://ip-tv.dev/epg/icon/ntv-serial.png"  tvg-rec="5" timeshift="5", НТВ Сериал
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/784/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xntv-xit" tvg-name="НТВ Хит" tvg-logo="https://ip-tv.dev/images/ico/ntv-xit.png"  tvg-rec="5" timeshift="5", НТВ Хит
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/3781/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkinopokaz" tvg-name="Кинопоказ" tvg-logo="https://ip-tv.dev/epg/icon/kinopokaz.png"  tvg-rec="5" timeshift="5", Кинопоказ
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/129/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkinosat" tvg-name="Киносат" tvg-logo="https://ip-tv.dev/images/ico/kinosat.png"  tvg-rec="5" timeshift="5", Киносат
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/3670/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkino-tv" tvg-name="Кино ТВ HD" tvg-logo="https://ip-tv.dev/epg/icon/kino-tv.png"  tvg-rec="5" timeshift="5", Кино ТВ HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/381/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xbackustv" tvg-name="BackusTV" tvg-logo="https://ip-tv.dev/images/ico/backustv.png"  tvg-rec="5" timeshift="5", BackusTV
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/8112/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xbackustv-horror" tvg-name="BackusTV Страшное" tvg-logo="https://ip-tv.dev/images/ico/backustv-horror.png"  tvg-rec="5" timeshift="5", BackusTV Страшное
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/8113/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkinojam1" tvg-name="Киноджем 1 HD" tvg-logo="https://ip-tv.dev/images/ico/kinojam1.png"  tvg-rec="5" timeshift="5", Киноджем 1 HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/8846/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkinojam2" tvg-name="Киноджем 2 HD" tvg-logo="https://ip-tv.dev/images/ico/kinojam2.png"  tvg-rec="5" timeshift="5", Киноджем 2 HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/8847/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdetectivejam" tvg-name="DetectiveJam" tvg-logo="https://ip-tv.dev/images/ico/detectivejam.png"  tvg-rec="5" timeshift="5", DetectiveJam
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/7311/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xfamilyjam" tvg-name="FamilyJam" tvg-logo="https://ip-tv.dev/images/ico/familyjam.png"  tvg-rec="5" timeshift="5", FamilyJam
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/7312/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xfilmbox-ru" tvg-name="FilmBox" tvg-logo="https://ip-tv.dev/epg/icon/filmbox-ru.png"  tvg-rec="5" timeshift="5", FilmBox
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/3774/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xfilmbox-arthouse" tvg-name="FilmBox Arthouse" tvg-logo="https://ip-tv.dev/epg/icon/filmbox-arthouse.png"  tvg-rec="5" timeshift="5", FilmBox Arthouse
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/2614/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdorama" tvg-name="Дорама HD" tvg-logo="https://ip-tv.dev/images/ico/dorama.png"  tvg-rec="5" timeshift="5", Дорама HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/8791/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xstar-cinema-ua" tvg-name="Star Cinema HD" tvg-logo="https://ip-tv.dev/epg/icon/star-cinema.png"  tvg-rec="5" timeshift="5", Star Cinema HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/9965/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xstar-family-ua" tvg-name="Star Family HD" tvg-logo="https://ip-tv.dev/epg/icon/star-family.png"  tvg-rec="5" timeshift="5", Star Family HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/9963/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xfilmua-drama" tvg-name="FilmUA Drama" tvg-logo="https://ip-tv.dev/images/ico/filmua-drama.png"  tvg-rec="5" timeshift="5", FilmUA Drama
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/9937/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xromantichnoe" tvg-name="Романтичное HD" tvg-logo="https://ip-tv.dev/images/ico/romantichnoe-hd.png"  tvg-rec="5" timeshift="5", Романтичное HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/9903/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xbolt" tvg-name="Bolt HD" tvg-logo="https://ip-tv.dev/images/ico/bolt.png"  tvg-rec="5" timeshift="5", Bolt HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/1592/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrodnoe-kino" tvg-name="Родное кино" tvg-logo="https://ip-tv.dev/epg/icon/rodnoe-kino.png"  tvg-rec="5" timeshift="5", Родное кино
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/12/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkineko" tvg-name="КИНЕКО" tvg-logo="https://ip-tv.dev/images/ico/kineko.png"  tvg-rec="5" timeshift="5", КИНЕКО
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/6155/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsapfir" tvg-name="САПФИР" tvg-logo="https://ip-tv.dev/images/ico/sapfir.png"  tvg-rec="5" timeshift="5", САПФИР
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/6156/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xstart-air" tvg-name="START Air HD" tvg-logo="https://ip-tv.dev/images/ico/start-air.png"  tvg-rec="5" timeshift="5", START Air HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/6157/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xstart-world" tvg-name="START World HD" tvg-logo="https://ip-tv.dev/images/ico/start-world.png"  tvg-rec="5" timeshift="5", START World HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/6158/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdomkino-premium" tvg-name="Дом кино премиум HD" tvg-logo="https://ip-tv.dev/epg/icon/dom-kino-premium.png"  tvg-rec="5" timeshift="5", Дом кино премиум HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/931/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdomkino" tvg-name="Дом Кино" tvg-logo="https://ip-tv.dev/epg/icon/dom-kino.png"  tvg-rec="5" timeshift="5", Дом Кино
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/42/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xevrokino" tvg-name="Еврокино" tvg-logo="https://ip-tv.dev/epg/icon/eurokino.png"  tvg-rec="5" timeshift="5", Еврокино
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/96/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrussky-roman" tvg-name="Русский роман" tvg-logo="https://ip-tv.dev/epg/icon/russky-roman.png"  tvg-rec="5" timeshift="5", Русский роман
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/172/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrussky-illuzion" tvg-name="Русский Иллюзион" tvg-logo="https://ip-tv.dev/epg/icon/russky-illuzion.png"  tvg-rec="5" timeshift="5", Русский Иллюзион
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/201/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmosfilm" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="https://ip-tv.dev/images/ico/mosfilm.png"  tvg-rec="5" timeshift="5", Мосфильм. Золотая коллекция
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/9912/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmosfilm" tvg-name="Мосфильм HD" tvg-logo="https://ip-tv.dev/images/ico/Mosfilm_HD.jpg"  tvg-rec="5" timeshift="5", Мосфильм HD
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/4985/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xilluzion-plus" tvg-name="Иллюзион +" tvg-logo="https://ip-tv.dev/epg/icon/illuzion-plus.png"  tvg-rec="5" timeshift="5", Иллюзион +
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/202/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmuzhskoe-kino" tvg-name="Мужское кино" tvg-logo="https://ip-tv.dev/epg/icon/muzhskoe-kino.png"  tvg-rec="5" timeshift="5", Мужское кино
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/209/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="https://ip-tv.dev/epg/icon/nashe-novoe-kino.png"  tvg-rec="5" timeshift="5", Наше новое кино
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/35/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtrashtv" tvg-name="Trash TV" tvg-logo="https://ip-tv.dev/images/ico/trashtv.png"  tvg-rec="5" timeshift="5", Trash TV
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/4830/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsovkino" tvg-name="Советское кино" tvg-logo="https://ip-tv.dev/images/ico/sovkino.png"  tvg-rec="5" timeshift="5", Советское кино
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/9926/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xpobeda" tvg-name="Победа" tvg-logo="https://ip-tv.dev/epg/icon/pobeda.png"  tvg-rec="5" timeshift="5", Победа
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/3770/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrusskaya-komedia" tvg-name="Русская комедия" tvg-logo="https://ip-tv.dev/images/ico/russkaya-komedia.png"  tvg-rec="5" timeshift="5", Русская комедия
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/280/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrussky-bestseller" tvg-name="Русский бестселлер" tvg-logo="https://ip-tv.dev/epg/icon/russky-bestseller.png"  tvg-rec="5" timeshift="5", Русский бестселлер
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/281/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrussky-detektiv" tvg-name="Русский детектив" tvg-logo="https://ip-tv.dev/epg/icon/rus-detektiv.png"  tvg-rec="5" timeshift="5", Русский детектив
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/282/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkinomiks" tvg-name="Киномикс" tvg-logo="https://ip-tv.dev/epg/icon/kinomiks.png"  tvg-rec="5" timeshift="5", Киномикс
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/167/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkinoseria" tvg-name="Киносерия" tvg-logo="https://ip-tv.dev/epg/icon/kinoseria.png"  tvg-rec="5" timeshift="5", Киносерия
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/208/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xlubimoe-kino" tvg-name="Любимое кино" tvg-logo="https://ip-tv.dev/epg/icon/lubimoe-kino.png"  tvg-rec="5" timeshift="5", Любимое кино
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/342/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmir-seriala" tvg-name="Мир сериала" tvg-logo="https://ip-tv.dev/epg/icon/mir-seriala.png"  tvg-rec="5" timeshift="5", Мир сериала
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/291/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcinema-ru" tvg-name="Cinema" tvg-logo="https://ip-tv.dev/epg/icon/cinema.png"  tvg-rec="5" timeshift="5", Cinema
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/223/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xzee-tv" tvg-name="Zee TV" tvg-logo="https://ip-tv.dev/images/ico/zee-tv.png"  tvg-rec="5" timeshift="5", Zee TV
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/245/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xindiyskoe-kino" tvg-name="Индийское Кино" tvg-logo="https://ip-tv.dev/epg/icon/indijskoe-kino.png"  tvg-rec="5" timeshift="5", Индийское Кино
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/62/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xfeniks-plus-kino" tvg-name="Феникс+ Кино" tvg-logo="https://ip-tv.dev/epg/icon/feniks-plus-kino.png"  tvg-rec="5" timeshift="5", Феникс+ Кино
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/204/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtv3-ru" tvg-name="ТВ3" tvg-logo="https://ip-tv.dev/epg/icon/tv3.png"  tvg-rec="5" timeshift="5", ТВ3
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/66/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnst" tvg-name="НСТ" tvg-logo="https://ip-tv.dev/epg/icon/nst.png"  tvg-rec="5" timeshift="5", НСТ
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/93/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xshot-tv" tvg-name="Shot TV" tvg-logo="https://ip-tv.dev/epg/icon/shot-tv.png"  tvg-rec="5" timeshift="5", Shot TV
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/150/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xyurgan" tvg-name="Юрган" tvg-logo="https://ip-tv.dev/images/ico/yurgan.png"  tvg-rec="5" timeshift="5", Юрган
+#EXTGRP:Кино
+http://nl4.iptv.monster/play/191/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X9990" tvg-name="Kinoshka Premiere HD" tvg-logo="https://ip-tv.dev/images/ico/kinoshka-premiere.png"  tvg-rec="5" timeshift="5", Kinoshka Premiere HD
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/9990/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X9994" tvg-name="Kinoshka Comedy HD" tvg-logo="https://ip-tv.dev/images/ico/kinoshka-comedy.png"  tvg-rec="5" timeshift="5", Kinoshka Comedy HD
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/9994/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X9989" tvg-name="Kinoshka Drama HD" tvg-logo="https://ip-tv.dev/images/ico/kinoshka-drama.png"  tvg-rec="5" timeshift="5", Kinoshka Drama HD
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/9989/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X9992" tvg-name="Kinoshka Thriller HD" tvg-logo="https://ip-tv.dev/images/ico/kinoshka-thriller.png"  tvg-rec="5" timeshift="5", Kinoshka Thriller HD
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/9992/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X9995" tvg-name="Kinoshka Russian HD" tvg-logo="https://ip-tv.dev/images/ico/kinoshka-russian.png"  tvg-rec="5" timeshift="5", Kinoshka Russian HD
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/9995/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X9996" tvg-name="Kinoshka Mystic HD" tvg-logo="https://ip-tv.dev/images/ico/kinoshka-mystic.png"  tvg-rec="5" timeshift="5", Kinoshka Mystic HD
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/9996/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X9998" tvg-name="Kinoshka Action HD" tvg-logo="https://ip-tv.dev/images/ico/kinoshka-action.png"  tvg-rec="5" timeshift="5", Kinoshka Action HD
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/9998/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-grand	" tvg-name="YOSSO TV Grand" tvg-logo="https://ip-tv.dev/images/ico/yosso-grand.png"  tvg-rec="5" timeshift="5", YOSSO TV Grand
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/8779/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-vhs" tvg-name="YOSSO TV VHS" tvg-logo="https://ip-tv.dev/images/ico/yosso-vhs.png"  tvg-rec="5" timeshift="5", YOSSO TV VHS
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/8778/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-rusfilm" tvg-name="YOSSO TV Русские фильмы" tvg-logo="https://ip-tv.dev/images/ico/yosso-rusfilm.png"  tvg-rec="5" timeshift="5", YOSSO TV Русские фильмы
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/8776/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-sovfilm" tvg-name="YOSSO TV Советские фильмы" tvg-logo="https://ip-tv.dev/images/ico/yosso-sovfilm.png"  tvg-rec="5" timeshift="5", YOSSO TV Советские фильмы
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/8775/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-newkino" tvg-name="YOSSO TV New Кино" tvg-logo="https://ip-tv.dev/images/ico/yosso-newkino.png"  tvg-rec="5" timeshift="5", YOSSO TV New Кино
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/8773/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-tragic" tvg-name="YOSSO TV Трагичное" tvg-logo="https://ip-tv.dev/images/ico/yosso-tragic.png"  tvg-rec="5" timeshift="5", YOSSO TV Трагичное
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/8770/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-zabavno" tvg-name="YOSSO TV Забавное" tvg-logo="https://ip-tv.dev/images/ico/yosso-zabavno.png"  tvg-rec="5" timeshift="5", YOSSO TV Забавное
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/8780/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-best" tvg-name="YOSSO TV BEST" tvg-logo="https://ip-tv.dev/images/ico/yosso-best.png"  tvg-rec="5" timeshift="5", YOSSO TV BEST
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/8781/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-cowboy" tvg-name="YOSSO TV Ковбойское" tvg-logo="https://ip-tv.dev/images/ico/yosso-cowboy.png"  tvg-rec="5" timeshift="5", YOSSO TV Ковбойское
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/8782/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-adventure" tvg-name="YOSSO TV Adrenaline" tvg-logo="https://ip-tv.dev/images/ico/yosso-adrenalin.png"  tvg-rec="5" timeshift="5", YOSSO TV Adrenaline
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/8783/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-adventure" tvg-name="YOSSO TV Adventure" tvg-logo="https://ip-tv.dev/images/ico/yosso-adventure.png"  tvg-rec="5" timeshift="5", YOSSO TV Adventure
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/8769/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-oblivion" tvg-name="YOSSO TV OBLIVION" tvg-logo="https://ip-tv.dev/images/ico/yosso-oblivion.png"  tvg-rec="5" timeshift="5", YOSSO TV OBLIVION
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/8784/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-thriller" tvg-name="YOSSO TV Thriller" tvg-logo="https://ip-tv.dev/images/ico/yosso-thriller.png"  tvg-rec="5" timeshift="5", YOSSO TV Thriller
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/8785/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-4k" tvg-name="YOSSO-4K" tvg-logo="https://ip-tv.dev/images/ico/yosso-4k.png" , YOSSO-4K
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/8766/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xc-inquest-yosso" tvg-name="YOSSO-C-INQUEST" tvg-logo="https://ip-tv.dev/images/ico/c-inquest.png"  tvg-rec="5" timeshift="5", YOSSO-C-INQUEST
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/8767/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xc-comedy-yosso" tvg-name="YOSSO-C-COMEDY" tvg-logo="https://ip-tv.dev/images/ico/c-comedy.png"  tvg-rec="5" timeshift="5", YOSSO-C-COMEDY
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/8768/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xc-marvel-yosso" tvg-name="С-Marvel" tvg-logo="https://ip-tv.dev/images/ico/c-marvel.png"  tvg-rec="5" timeshift="5", С-Marvel
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/8764/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmagic-action" tvg-name="Magic Action" tvg-logo="https://ip-tv.dev/images/ico/magic-action.png"  tvg-rec="5" timeshift="5", Magic Action
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/6676/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmagic-comedy" tvg-name="Magic Comedy" tvg-logo="https://ip-tv.dev/images/ico/magic-comedy.png"  tvg-rec="5" timeshift="5", Magic Comedy
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/6672/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmagic-family" tvg-name="Magic Family" tvg-logo="https://ip-tv.dev/images/ico/magic-family.png"  tvg-rec="5" timeshift="5", Magic Family
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/6678/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmagic-galaxy" tvg-name="Magic Galaxy" tvg-logo="https://ip-tv.dev/images/ico/magic-galaxy.png"  tvg-rec="5" timeshift="5", Magic Galaxy
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/6674/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmagic-horror" tvg-name="Magic Horror" tvg-logo="https://ip-tv.dev/images/ico/magic-horror.png"  tvg-rec="5" timeshift="5", Magic Horror
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/6673/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmagic-karate" tvg-name="Magic Karate" tvg-logo="https://ip-tv.dev/images/ico/magic-karate.png"  tvg-rec="5" timeshift="5", Magic Karate
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/6671/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmagic-love" tvg-name="Magic Love" tvg-logo="https://ip-tv.dev/images/ico/magic-love.png"  tvg-rec="5" timeshift="5", Magic Love
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/6679/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmagic-thriller" tvg-name="Magic Thriller" tvg-logo="https://ip-tv.dev/images/ico/magic-thriller.png"  tvg-rec="5" timeshift="5", Magic Thriller
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/6677/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmagic-vhs" tvg-name="Magic VHS" tvg-logo="https://ip-tv.dev/images/ico/magic-vhs.png"  tvg-rec="5" timeshift="5", Magic VHS
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/6670/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="XMyTVmytv-0" tvg-name="MYTV" tvg-logo="https://ip-tv.dev/images/ico/MYTV.jpg"  tvg-rec="5" timeshift="5", MYTV
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/5150/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="XMyTVmytv2-1" tvg-name="MYTV 2" tvg-logo="https://ip-tv.dev/images/ico/MYTV_2.jpg"  tvg-rec="5" timeshift="5", MYTV 2
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/5151/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="XMyTVmytv3-2" tvg-name="MYTV 3" tvg-logo="https://ip-tv.dev/images/ico/MYTV_3.jpg"  tvg-rec="5" timeshift="5", MYTV 3
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/5152/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="XMyTVmytvhit-3" tvg-name="MYTV HIT" tvg-logo="https://ip-tv.dev/images/ico/MYTV_HIT.jpg"  tvg-rec="5" timeshift="5", MYTV HIT
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/5154/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcineman" tvg-name="CineMan" tvg-logo="https://ip-tv.dev/images/ico/cineman.png" , CineMan
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/13001/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcineman-action" tvg-name="CineMan Action" tvg-logo="https://ip-tv.dev/images/ico/cineman-action.png" , CineMan Action
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/13002/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcineman-comedy" tvg-name="CineMan Комедия" tvg-logo="https://ip-tv.dev/images/ico/cineman-comedy.png" , CineMan Комедия
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/13003/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcineman-katastrofy" tvg-name="CineMan Катастрофы" tvg-logo="https://ip-tv.dev/images/ico/cineman-katastrofy.png" , CineMan Катастрофы
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/13004/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcineman-lesnik" tvg-name="CineMan Лесник" tvg-logo="https://ip-tv.dev/images/ico/cineman-lesnik.png" , CineMan Лесник
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/13005/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcineman-marvel" tvg-name="CineMan Marvel" tvg-logo="https://ip-tv.dev/images/ico/cineman-marvel.png" , CineMan Marvel
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/13006/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcineman-melodrama" tvg-name="CineMan Melodrama" tvg-logo="https://ip-tv.dev/images/ico/cineman-melodrama.png" , CineMan Melodrama
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/13007/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcineman-musw" tvg-name="CineMan Ментовские Войны" tvg-logo="https://ip-tv.dev/images/ico/cineman-musw.png" , CineMan Ментовские Войны
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/13008/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcineman-miniseries" tvg-name="CineMan MiniSeries" tvg-logo="https://ip-tv.dev/images/ico/cineman-miniseries.png" , CineMan MiniSeries
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/13009/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcineman-pes" tvg-name="CineMan Пёс" tvg-logo="https://ip-tv.dev/images/ico/cineman-pes.png" , CineMan Пёс
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/13010/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcineman-premium" tvg-name="CineMan Premium" tvg-logo="https://ip-tv.dev/images/ico/cineman-premium.png" , CineMan Premium
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/13011/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcineman-rukino" tvg-name="CineMan РуКино" tvg-logo="https://ip-tv.dev/images/ico/cineman-rukino.png" , CineMan РуКино
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/13012/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcineman-simps" tvg-name="CineMan Симпсоны" tvg-logo="https://ip-tv.dev/images/ico/cineman-simps.png" , CineMan Симпсоны
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/13013/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcineman-skorpom" tvg-name="CineMan Скорая помощь" tvg-logo="https://ip-tv.dev/images/ico/cineman-skorpom.png" , CineMan Скорая помощь
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/13014/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcineman-svaty" tvg-name="CineMan Сваты" tvg-logo="https://ip-tv.dev/images/ico/cineman-svaty.png" , CineMan Сваты
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/13015/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcineman-thriller" tvg-name="CineMan Thriller" tvg-logo="https://ip-tv.dev/images/ico/cineman-thriller.png" , CineMan Thriller
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/13016/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcineman-top" tvg-name="CineMan Top" tvg-logo="https://ip-tv.dev/images/ico/cineman-top.png" , CineMan Top
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/13017/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcineman-uzhasy" tvg-name="CineMan Ужасы" tvg-logo="https://ip-tv.dev/images/ico/cineman-uzhasy.png" , CineMan Ужасы
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/13018/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcineman-vhs" tvg-name="CineMan VHS" tvg-logo="https://ip-tv.dev/images/ico/cineman-vhs.png" , CineMan VHS
+#EXTGRP:Кинозалы
+http://nl4.iptv.monster/play/13019/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-tv" tvg-name="Матч ТВ" tvg-logo="https://ip-tv.dev/epg/icon/match.png"  tvg-rec="5" timeshift="5", Матч ТВ
+#EXTGRP:Спорт
+http://nl4.iptv.monster/play/5/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-tv" tvg-name="Матч! HD" tvg-logo="https://ip-tv.dev/epg/icon/match.png"  tvg-rec="5" timeshift="5", Матч! HD
+#EXTGRP:Спорт
+http://nl4.iptv.monster/play/397/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xbst" tvg-name="BT Sport ESPN HD" tvg-logo="https://ip-tv.dev/images/ico/bt-sport-espn.png" , BT Sport ESPN HD
+#EXTGRP:Спорт
+http://nl4.iptv.monster/play/933/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdiscovery-science" tvg-name="Discovery Science HD" tvg-logo="https://ip-tv.dev/epg/icon/discovery-science.png"  tvg-rec="5" timeshift="5", Discovery Science HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/391/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdiscovery-channel" tvg-name="Discovery Channel" tvg-logo="https://ip-tv.dev/epg/icon/discovery-channel.png"  tvg-rec="5" timeshift="5", Discovery Channel HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/147/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xid-xtra-ru" tvg-name="ID Xtra HD" tvg-logo="https://ip-tv.dev/epg/icon/idxtra.png"  tvg-rec="5" timeshift="5", ID Xtra HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/392/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xid-xtra-eu" tvg-name="Investigation Discovery" tvg-logo="https://ip-tv.dev/epg/icon/idxtra.png"  tvg-rec="5" timeshift="5", Investigation Discovery
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/362/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnational-geographic-cee" tvg-name="National Geographic HD" tvg-logo="https://ip-tv.dev/epg/icon/national-geographic-hd.png"  tvg-rec="5" timeshift="5", National Geographic HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/143/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnational-geographic" tvg-name="National Geographic" tvg-logo="https://ip-tv.dev/epg/icon/national-geographic-hd.png"  tvg-rec="5" timeshift="5", National Geographic
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/31/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnat-geo-wild" tvg-name="Nat Geo Wild HD" tvg-logo="https://ip-tv.dev/epg/icon/nat-geo-wild-hd.png"  tvg-rec="5" timeshift="5", Nat Geo Wild HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/162/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xanimal-planet" tvg-name="Animal Planet HD" tvg-logo="https://ip-tv.dev/epg/icon/animal-planet.png"  tvg-rec="5" timeshift="5", Animal Planet HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/175/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdocubox-hd" tvg-name="DocuBox HD" tvg-logo="https://ip-tv.dev/images/ico/docubox-hd.png"  tvg-rec="5" timeshift="5", DocuBox HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/9898/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xhd-life" tvg-name="HD Life" tvg-logo="https://ip-tv.dev/epg/icon/hdlife.png"  tvg-rec="5" timeshift="5", HD Life
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/142/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xviasat-explore" tvg-name="Viasat Explore" tvg-logo="https://ip-tv.dev/epg/icon/viasat-explore.png"  tvg-rec="5" timeshift="5", Viasat Explore
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/79/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xviasat-history" tvg-name="Viasat History" tvg-logo="https://ip-tv.dev/epg/icon/viasat-history.png"  tvg-rec="5" timeshift="5", Viasat History
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/78/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xviasat-nature" tvg-name="Viasat Nature" tvg-logo="https://ip-tv.dev/epg/icon/viasat-nature.png"  tvg-rec="5" timeshift="5", Viasat Nature
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/119/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtlc" tvg-name="TLC HD" tvg-logo="https://ip-tv.dev/epg/icon/tlc.png"  tvg-rec="5" timeshift="5", TLC HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/189/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtravel-channel" tvg-name="Travel Channel HD" tvg-logo="https://ip-tv.dev/epg/icon/travel-channel.png"  tvg-rec="5" timeshift="5", Travel Channel HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/190/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrtg-hd" tvg-name="RTG HD" tvg-logo="https://ip-tv.dev/_front/channel/300109.gif"  tvg-rec="5" timeshift="5", RTG HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/186/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xhistory-ru" tvg-name="History HD" tvg-logo="https://ip-tv.dev/epg/icon/history-hd.png"  tvg-rec="5" timeshift="5", History HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/188/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xviasat-history" tvg-name="Viasat History HD" tvg-logo="https://ip-tv.dev/epg/icon/viasat-history.png"  tvg-rec="5" timeshift="5", Viasat History HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/491/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xh2" tvg-name="H2 HD" tvg-logo="https://ip-tv.dev/images/ico/h2.png"  tvg-rec="5" timeshift="5", H2 HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/161/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtravel-adventure" tvg-name="Travel+Adventure HD" tvg-logo="https://ip-tv.dev/epg/icon/travel-adventure.png"  tvg-rec="5" timeshift="5", Travel+Adventure HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/180/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xglazami-turista" tvg-name="Глазами туриста HD" tvg-logo="https://ip-tv.dev/epg/icon/glazami-turista.png"  tvg-rec="5" timeshift="5", Глазами туриста HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/494/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xprikluchenia-hd" tvg-name="Приключения HD" tvg-logo="https://ip-tv.dev/epg/icon/prikluchenia-hd.png"  tvg-rec="5" timeshift="5", Приключения HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/140/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xbolshaya-azia" tvg-name="Большая Азия HD" tvg-logo="https://ip-tv.dev/images/ico/bolshaya-azia.png"  tvg-rec="5" timeshift="5", Большая Азия HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/3994/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xpoexali" tvg-name="Поехали HD" tvg-logo="https://ip-tv.dev/images/ico/poexali.png"  tvg-rec="5" timeshift="5", Поехали HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/297/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xzhivaya-priroda" tvg-name="Живая природа HD" tvg-logo="https://ip-tv.dev/epg/icon/zhivaya-priroda.png"  tvg-rec="5" timeshift="5", Живая природа HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/324/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xzhivaya-planeta" tvg-name="Живая планета" tvg-logo="https://ip-tv.dev/epg/icon/zhivaya-planeta.png"  tvg-rec="5" timeshift="5", Живая планета
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/390/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xoxotnik-i-rybolov-hd" tvg-name="Охотник и рыболов HD" tvg-logo="https://ip-tv.dev/images/ico/oxotnik-i-rybolov-hd.png"  tvg-rec="5" timeshift="5", Охотник и рыболов HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/364/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xoxota-i-rybalka" tvg-name="Охота и Рыбалка" tvg-logo="https://ip-tv.dev/epg/icon/oxota-i-rybalka.png"  tvg-rec="5" timeshift="5", Охота и Рыбалка
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/88/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrybalka" tvg-name="Рыбалка HD" tvg-logo="https://ip-tv.dev/images/ico/rybalka.png"  tvg-rec="5" timeshift="5", Рыбалка HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/9967/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdialogi-o-rybalke" tvg-name="Диалоги о рыбалке" tvg-logo="https://ip-tv.dev/epg/icon/dialogi-o-rybalke.png"  tvg-rec="5" timeshift="5", Диалоги о рыбалке
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/4370/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdikaya-oxota-hd" tvg-name="Дикая охота HD" tvg-logo="https://ip-tv.dev/epg/icon/dikaya-oxota-hd.png"  tvg-rec="5" timeshift="5", Дикая охота HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/3742/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdikaya-rybalka-hd" tvg-name="Дикая рыбалка HD" tvg-logo="https://ip-tv.dev/epg/icon/dikaya-rybalka-hd.png"  tvg-rec="5" timeshift="5", Дикая рыбалка HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/3743/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtrofey" tvg-name="Трофей HD" tvg-logo="https://ip-tv.dev/epg/icon/trofey.png"  tvg-rec="5" timeshift="5", Трофей HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/9939/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xzagorodnaya-zhizn" tvg-name="Загородная Жизнь" tvg-logo="https://ip-tv.dev/epg/icon/zagorodnaya-zhizn.png"  tvg-rec="5" timeshift="5", Загородная Жизнь
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/303/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xzagorodny" tvg-name="Загородный" tvg-logo="https://ip-tv.dev/images/ico/zagorodny.png"  tvg-rec="5" timeshift="5", Загородный
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/385/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xusadba" tvg-name="Усадьба" tvg-logo="https://ip-tv.dev/epg/icon/usadba.png"  tvg-rec="5" timeshift="5", Усадьба
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/80/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="6 соток" tvg-logo="https://ip-tv.dev/images/ico/6sotok.png" , 6 соток
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/7192/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdacha" tvg-name="Дача HD" tvg-logo="https://ip-tv.dev/images/ico/dacha.png"  tvg-rec="5" timeshift="5", Дача HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/8795/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdikiy" tvg-name="Дикий" tvg-logo="https://ip-tv.dev/epg/icon/dikiy.png"  tvg-rec="5" timeshift="5", Дикий
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/600/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xarsenaltv" tvg-name="Арсенал HD" tvg-logo="https://ip-tv.dev/epg/icon/arsenaltv.png"  tvg-rec="5" timeshift="5", Арсенал HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/387/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmuzhskoy" tvg-name="Мужской" tvg-logo="https://ip-tv.dev/images/ico/muzhskoy.png"  tvg-rec="5" timeshift="5", Man TV
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/229/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnauka-20" tvg-name="Наука 2.0" tvg-logo="https://ip-tv.dev/epg/icon/nauka-20.png"  tvg-rec="5" timeshift="5", Наука 2.0
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/155/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmoya-planeta" tvg-name="Моя Планета" tvg-logo="https://ip-tv.dev/epg/icon/moya-planeta.png"  tvg-rec="5" timeshift="5", Моя Планета
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/135/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtayna" tvg-name="Тайна" tvg-logo="https://ip-tv.dev/images/ico/tayna.png" , Тайна
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/6201/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmoya-planeta" tvg-name="Планета HD" tvg-logo="https://ip-tv.dev/epg/icon/moya-planeta.png"  tvg-rec="5" timeshift="5", Планета HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/374/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsovsek" tvg-name="Совершенно секретно" tvg-logo="https://ip-tv.dev/_front/channel/100024.gif"  tvg-rec="5" timeshift="5", Совершенно секретно
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/224/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkto-est-kto" tvg-name="Кто есть кто" tvg-logo="https://ip-tv.dev/epg/icon/kto-est-kto.png"  tvg-rec="5" timeshift="5", Кто есть кто
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/214/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xistoria" tvg-name="История" tvg-logo="https://ip-tv.dev/epg/icon/istoria.png"  tvg-rec="5" timeshift="5", История
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/273/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X365-dnej" tvg-name="365 дней ТВ" tvg-logo="https://ip-tv.dev/epg/icon/365-dnej.png"  tvg-rec="5" timeshift="5", 365 дней ТВ
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/207/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-obrazovatelny" tvg-name="Первый образовательный" tvg-logo="https://ip-tv.dev/epg/icon/pervy-obrazovatelny.png"  tvg-rec="5" timeshift="5", Первый образовательный
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/263/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xpsixologia-21" tvg-name="Психология 21" tvg-logo="https://ip-tv.dev/epg/icon/psy21.png"  tvg-rec="5" timeshift="5", Психология 21
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/122/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xvoprosy-i-otvety" tvg-name="Вопросы и ответы" tvg-logo="https://ip-tv.dev/epg/icon/voprosy-i-otvety.png"  tvg-rec="5" timeshift="5", Вопросы и ответы
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/123/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X360-podmoskovie" tvg-name="360°" tvg-logo="https://ip-tv.dev/images/ico/360-lv.png"  tvg-rec="5" timeshift="5", 360°
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/233/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X36-6-tv" tvg-name="36.6 HD" tvg-logo="https://ip-tv.dev/images/ico/36-6-tv.png"  tvg-rec="5" timeshift="5", 36.6 HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/8794/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xoruzhie" tvg-name="Оружие" tvg-logo="https://ip-tv.dev/epg/icon/oruzhie.png"  tvg-rec="5" timeshift="5", Оружие
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/366/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdomashnie-zhivotnye" tvg-name="Домашние Животные" tvg-logo="https://ip-tv.dev/epg/icon/domashnie-zhivotnye.png"  tvg-rec="5" timeshift="5", Домашние Животные
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/121/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xocean-tv" tvg-name="Ocean TV" tvg-logo="https://ip-tv.dev/epg/icon/ocean-tv.png"  tvg-rec="5" timeshift="5", Ocean TV
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/264/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsea-tv" tvg-name="Sea TV HD" tvg-logo="https://ip-tv.dev/images/ico/sea-tv.png"  tvg-rec="5" timeshift="5", Sea TV HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/8793/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xgalaxy-tv" tvg-name="Galaxy" tvg-logo="https://ip-tv.dev/epg/icon/galaxy-tv.png"  tvg-rec="5" timeshift="5", Galaxy
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/288/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmorskoy" tvg-name="Морской" tvg-logo="https://ip-tv.dev/epg/icon/morskoy.png"  tvg-rec="5" timeshift="5", Морской
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/337/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xteleputeshestvia" tvg-name="Телепутешествия" tvg-logo="https://ip-tv.dev/_front/channel/662.gif"  tvg-rec="5" timeshift="5", Телепутешествия
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/247/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xv-mire-zhivotnyx-hd" tvg-name="В мире животных HD" tvg-logo="https://ip-tv.dev/epg/icon/v-mire-zhivotnyx.png"  tvg-rec="5" timeshift="5", В мире животных HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/372/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xepoque" tvg-name="Эпоха" tvg-logo="https://ip-tv.dev/images/ico/epoque.png"  tvg-rec="5" timeshift="5", Эпоха
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/7188/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnauka" tvg-name="Наука" tvg-logo="https://ip-tv.dev/images/ico/nauka.png"  tvg-rec="5" timeshift="5", Наука
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/7189/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xterra" tvg-name="Терра" tvg-logo="https://ip-tv.dev/images/ico/tera.png"  tvg-rec="5" timeshift="5", Терра
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/7190/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xfauna" tvg-name="Фауна" tvg-logo="https://ip-tv.dev/images/ico/fauna.png"  tvg-rec="5" timeshift="5", Фауна
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/7191/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Масон ТВ" tvg-logo="https://ip-tv.dev/images/ico/mason.png" , Масон ТВ
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/7194/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdtx" tvg-name="DTX HD" tvg-logo="https://ip-tv.dev/epg/icon/dtx.png"  tvg-rec="5" timeshift="5", DTX HD
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/25/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcctv-ru" tvg-name="CGTN Русский" tvg-logo="https://ip-tv.dev/images/ico/cctv-ru.png"  tvg-rec="5" timeshift="5", CGTN Русский
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/8760/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="BRODILO.TV" tvg-logo="https://ip-tv.dev/images/ico/brodilo.png" , BRODILO.TV
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/7181/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xege-tv" tvg-name="ЕГЭ ТВ" tvg-logo="https://ip-tv.dev/epg/icon/ege-tv.png"  tvg-rec="5" timeshift="5", ЕГЭ ТВ
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/89/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdrive" tvg-name="Драйв" tvg-logo="https://ip-tv.dev/epg/icon/drive.png"  tvg-rec="5" timeshift="5", Драйв
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/97/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtexno-24" tvg-name="Т24" tvg-logo="https://ip-tv.dev/epg/icon/texno-24.png"  tvg-rec="5" timeshift="5", Т24
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/101/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrtg-tv" tvg-name="RTG TV" tvg-logo="https://ip-tv.dev/_front/channel/300109.gif"  tvg-rec="5" timeshift="5", RTG TV
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/106/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xzoopark" tvg-name="Зоопарк" tvg-logo="https://ip-tv.dev/epg/icon/zoopark.png"  tvg-rec="5" timeshift="5", Зоопарк
+#EXTGRP:Познавательные
+http://nl4.iptv.monster/play/108/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X9993" tvg-name="Kinoshka Kids HD" tvg-logo="https://ip-tv.dev/images/ico/kinoshka-kids.png"  tvg-rec="5" timeshift="5", Kinoshka Kids HD
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/9993/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnickelodeon-hd" tvg-name="Nickelodeon HD" tvg-logo="https://ip-tv.dev/epg/icon/nickelodeon-hd.png"  tvg-rec="5" timeshift="5", Nickelodeon HD
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/174/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnickelodeon-ru" tvg-name="Nickelodeon" tvg-logo="https://ip-tv.dev/epg/icon/nickelodeon.png"  tvg-rec="5" timeshift="5", Nickelodeon
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/21/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnicktoons" tvg-name="Nicktoons" tvg-logo="https://ip-tv.dev/epg/icon/nicktoons.png"  tvg-rec="5" timeshift="5", Nicktoons
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/9941/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnick-jr" tvg-name="Nick Jr." tvg-logo="https://ip-tv.dev/epg/icon/nick-jr.png"  tvg-rec="5" timeshift="5", Nick Jr.
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/240/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xgulli-girl" tvg-name="Gulli" tvg-logo="https://ip-tv.dev/epg/icon/gulligirl.png"  tvg-rec="5" timeshift="5", Gulli
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/217/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xjimjam" tvg-name="Jim Jam" tvg-logo="https://ip-tv.dev/epg/icon/jimjam.png"  tvg-rec="5" timeshift="5", Jim Jam
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/166/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xboomerang" tvg-name="Boomerang" tvg-logo="https://ip-tv.dev/epg/icon/boomerang.png"  tvg-rec="5" timeshift="5", Boomerang
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/286/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtiji" tvg-name="Tiji TV" tvg-logo="https://ip-tv.dev/_front/channel/100054.gif"  tvg-rec="5" timeshift="5", Tiji TV
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/218/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xducktv" tvg-name="Duck TV" tvg-logo="https://ip-tv.dev/images/ico/ducktv.png"  tvg-rec="5" timeshift="5", Duck TV
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/9899/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcartoon-network" tvg-name="Cartoon Network" tvg-logo="https://ip-tv.dev/epg/icon/cartoon_network.png"  tvg-rec="5" timeshift="5", Cartoon Network
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/52/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xbaby-tv" tvg-name="Baby TV" tvg-logo="https://ip-tv.dev/epg/icon/baby-tv.png"  tvg-rec="5" timeshift="5", Baby TV
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/360/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsts-kids-hd" tvg-name="СТС kids" tvg-logo="https://ip-tv.dev/epg/icon/sts-kids-hd.png"  tvg-rec="5" timeshift="5", СТС kids
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/522/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xniki-kids" tvg-name="NIKI Kids" tvg-logo="https://ip-tv.dev/epg/icon/niki-kids.png"  tvg-rec="5" timeshift="5", NIKI Kids
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/2893/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xniki-junior" tvg-name="NIKI Junior" tvg-logo="https://ip-tv.dev/epg/icon/niki-junior.png"  tvg-rec="5" timeshift="5", NIKI Junior
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/2894/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdetsky-mir" tvg-name="Детский мир" tvg-logo="https://ip-tv.dev/epg/icon/detsky-mir.png"  tvg-rec="5" timeshift="5", Детский мир
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/32/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdetsky" tvg-name="Детский" tvg-logo="https://ip-tv.dev/epg/icon/unikum.png"  tvg-rec="5" timeshift="5", Детский
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/98/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmagic-disney" tvg-name="Magic Disney" tvg-logo="https://ip-tv.dev/images/ico/magic-disney.png"  tvg-rec="5" timeshift="5", Magic Disney
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/6680/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsovmultf" tvg-name="Советские мультфильмы" tvg-logo="https://ip-tv.dev/images/ico/sovmultf.png"  tvg-rec="5" timeshift="5", Советские мультфильмы
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/9927/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-soyuzmult" tvg-name="YOSSO TV Союзмульт" tvg-logo="https://ip-tv.dev/images/ico/yosso-soyuzmult.png"  tvg-rec="5" timeshift="5", YOSSO TV Союзмульт
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/8872/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-kids" tvg-name="YOSSO TV Kids" tvg-logo="https://ip-tv.dev/images/ico/yosso-kids.png"  tvg-rec="5" timeshift="5", YOSSO TV Kids
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/8777/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xc-cartoon-yosso" tvg-name="С-Cartoon" tvg-logo="https://ip-tv.dev/images/ico/c-cartoon.png" , С-Cartoon
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/8765/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkarusel" tvg-name="Карусель" tvg-logo="https://ip-tv.dev/epg/icon/karusel.png"  tvg-rec="5" timeshift="5", Карусель
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/40/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmult" tvg-name="Мульт" tvg-logo="https://ip-tv.dev/epg/icon/mult.png"  tvg-rec="5" timeshift="5", Мульт
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/200/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmultimania" tvg-name="Мультимания" tvg-logo="https://ip-tv.dev/epg/icon/multimania.png"  tvg-rec="5" timeshift="5", Мультимания
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/116/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmalysh" tvg-name="Малыш" tvg-logo="https://ip-tv.dev/epg/icon/malysh.png"  tvg-rec="5" timeshift="5", Малыш
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/788/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xv-gostiax-u-skazki" tvg-name="В гостях у сказки" tvg-logo="https://ip-tv.dev/epg/icon/v-gostiax-u-skazki.png"  tvg-rec="5" timeshift="5", В гостях у сказки
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/193/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xpixel" tvg-name="Пиксель HD" tvg-logo="https://ip-tv.dev/epg/icon/pixel.png"  tvg-rec="5" timeshift="5", Пиксель HD
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/8839/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xpixel" tvg-name="Пиксель" tvg-logo="https://ip-tv.dev/epg/icon/pixel.png"  tvg-rec="5" timeshift="5", Пиксель
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/409/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="XMyTVmytvkids-4" tvg-name="MYTV  Kids" tvg-logo="https://ip-tv.dev/images/ico/mytvkids.png"  tvg-rec="5" timeshift="5", MYTV  Kids
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/5155/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xplusplus" tvg-name="Плюс Плюс" tvg-logo="https://ip-tv.dev/epg/icon/plusplus.png"  tvg-rec="5" timeshift="5", Плюс Плюс
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/9981/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xda-vinci" tvg-name="Da Vinci Learning" tvg-logo="https://ip-tv.dev/epg/icon/da-vinci.png"  tvg-rec="5" timeshift="5", Da Vinci Learning
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/120/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xani" tvg-name="Ani" tvg-logo="https://ip-tv.dev/epg/icon/ani.png"  tvg-rec="5" timeshift="5", Ani
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/393/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xginger-hd" tvg-name="Капитан Фантастика" tvg-logo="https://ip-tv.dev/epg/icon/capfantast.png"  tvg-rec="5" timeshift="5", Капитан Фантастика
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/384/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X2na2" tvg-name="2x2" tvg-logo="https://ip-tv.dev/epg/icon/2x2.png"  tvg-rec="5" timeshift="5", 2x2
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/100/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkinokazka" tvg-name="KinoKazka" tvg-logo="https://ip-tv.dev/images/ico/kinokazka.png"  tvg-rec="5" timeshift="5", KinoKazka
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/9891/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmama" tvg-name="Мама" tvg-logo="https://ip-tv.dev/epg/icon/mama.png"  tvg-rec="5" timeshift="5", Мама
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/90/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xchizhik" tvg-name="Чижик" tvg-logo="https://ip-tv.dev/images/ico/chizhik.png"  tvg-rec="5" timeshift="5", Чижик
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/7309/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xradost-moya" tvg-name="Радость моя" tvg-logo="https://ip-tv.dev/_front/channel/595.gif"  tvg-rec="5" timeshift="5", Радость моя
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/300/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xo_" tvg-name="О!" tvg-logo="https://ip-tv.dev/epg/icon/o_.png"  tvg-rec="5" timeshift="5", О!
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/182/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmaliatko-tv" tvg-name="Малятко TV" tvg-logo="https://ip-tv.dev/images/ico/maliatko-tv.png" , Малятко TV
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/5163/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="xlale" tvg-name="Lale" tvg-logo="https://ip-tv.dev/images/ico/lale.png"  tvg-rec="5" timeshift="5", Lale
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/8114/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcartoons-90" tvg-name="Cartoons 90" tvg-logo="https://ip-tv.dev/images/ico/cartoons-90.png" , Cartoons 90
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/13022/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcartoons-short" tvg-name="Cartoons Short" tvg-logo="https://ip-tv.dev/images/ico/cartoons-short.png" , Cartoons Short
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/13023/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcartoons-big" tvg-name="Cartoons Big" tvg-logo="https://ip-tv.dev/images/ico/cartoons-big.png" , Cartoons Big
+#EXTGRP:Детские
+http://nl4.iptv.monster/play/13024/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkvn-tv" tvg-name="КВН ТВ" tvg-logo="https://ip-tv.dev/epg/icon/kvn-tv.png"  tvg-rec="5" timeshift="5", КВН ТВ
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/3452/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="7D7TV" tvg-logo="https://ip-tv.dev/images/ico/7D7.png" , 7D7TV
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/9880/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="R1 Media" tvg-logo="https://ip-tv.dev/images/ico/r1new.png" , R1 Media
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/6151/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtelekafe" tvg-name="Телекафе" tvg-logo="https://ip-tv.dev/images/ico/telekafe.png" , Телекафе
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/114/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xluxury-hd" tvg-name="Luxury HD" tvg-logo="https://ip-tv.dev/images/ico/luxury.png"  tvg-rec="5" timeshift="5", Luxury HD
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/322/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Новороссия HD" tvg-logo="https://ip-tv.dev/images/ico/novoros.png" , Новороссия HD
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/9933/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xntv-pravo" tvg-name="НТВ Право" tvg-logo="https://ip-tv.dev/epg/icon/ntv-pravo.png"  tvg-rec="5" timeshift="5", НТВ Право
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/785/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xbobior" tvg-name="Бобер" tvg-logo="https://ip-tv.dev/epg/icon/bober.png"  tvg-rec="5" timeshift="5", Бобер
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/396/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Закон" tvg-logo="https://ip-tv.dev/images/ico/zakon.png" , Закон
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/7193/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X8kanal-eu" tvg-name="8 канал" tvg-logo="https://ip-tv.dev/images/ico/8kanal-eu.png"  tvg-rec="5" timeshift="5", 8 канал
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/9920/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xfashion-tv" tvg-name="Fashion TV HD" tvg-logo="https://ip-tv.dev/epg/icon/fashion-tv.png" , Fashion TV HD
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/227/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xfashionbox-hd" tvg-name="FashionBox HD" tvg-logo="https://ip-tv.dev/images/ico/fashionbox-hd.png" , FashionBox HD
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/2610/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdoktor" tvg-name="Доктор" tvg-logo="https://ip-tv.dev/epg/icon/doktor.png"  tvg-rec="5" timeshift="5", Доктор
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/58/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xzdorovoe-tv" tvg-name="Здоровое ТВ" tvg-logo="https://ip-tv.dev/epg/icon/zdorovoe-tv.png"  tvg-rec="5" timeshift="5", Здоровое ТВ
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/99/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xzdorovie" tvg-name="Здоровье" tvg-logo="https://ip-tv.dev/epg/icon/zdorovie.png"  tvg-rec="5" timeshift="5", Здоровье
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/252/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xteatr" tvg-name="Театр" tvg-logo="https://ip-tv.dev/epg/icon/teatr.png"  tvg-rec="5" timeshift="5", Театр
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/333/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkuxnia-tv" tvg-name="Кухня ТВ" tvg-logo="https://ip-tv.dev/epg/icon/kuhnia.png" , Кухня ТВ
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/38/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xeda-hd" tvg-name="FoodTime" tvg-logo="https://ip-tv.dev/epg/icon/eda-hd.png"  tvg-rec="5" timeshift="5", FoodTime
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/141/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-vegetariansky" tvg-name="Первый вегетарианский" tvg-logo="https://ip-tv.dev/epg/icon/pervy-vegetariansky.png" , Первый вегетарианский
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/335/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xfood-network" tvg-name="Food Network HD" tvg-logo="https://ip-tv.dev/epg/icon/food-network.png" , Food Network HD
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/9942/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsoyuz" tvg-name="Союз" tvg-logo="https://ip-tv.dev/_front/channel/300006.gif"  tvg-rec="5" timeshift="5", Союз
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/70/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xretro-tv" tvg-name="Ретро" tvg-logo="https://ip-tv.dev/epg/icon/retro-tv.png"  tvg-rec="5" timeshift="5", Ретро
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/87/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtbn-ru" tvg-name="ТБН" tvg-logo="https://ip-tv.dev/images/ico/tbn-ru.png" , ТБН
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/216/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xuspex" tvg-name="Успех" tvg-logo="https://ip-tv.dev/epg/icon/uspex.png" , Успех
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/210/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnostalgia" tvg-name="Ностальгия" tvg-logo="https://ip-tv.dev/epg/icon/nostalgia.png"  tvg-rec="5" timeshift="5", Ностальгия
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/206/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtdk-ru" tvg-name="ТДК" tvg-logo="https://ip-tv.dev/epg/icon/tdk.png"  tvg-rec="5" timeshift="5", ТДК
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/168/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xzhivi" tvg-name="Живи!" tvg-logo="https://ip-tv.dev/epg/icon/zhivi.png" , Живи!
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/112/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsarafan" tvg-name="Сарафан" tvg-logo="https://ip-tv.dev/_front/channel/300035.gif"  tvg-rec="5" timeshift="5", Сарафан
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/117/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xspas" tvg-name="Телеканал СПАС" tvg-logo="https://ip-tv.dev/_front/channel/222.gif" , Телеканал СПАС
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/60/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xe-tv" tvg-name="E!" tvg-logo="https://ip-tv.dev/epg/icon/e-tv.png"  tvg-rec="5" timeshift="5", E!
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/221/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtochka-tv" tvg-name="Точка ТВ" tvg-logo="https://ip-tv.dev/images/ico/tochka-tv.png"  tvg-rec="5" timeshift="5", Точка ТВ
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/251/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xenglish-club-tv" tvg-name="English Club TV" tvg-logo="https://ip-tv.dev/epg/icon/englishclub.png" , English Club TV
+#EXTGRP:Разное
+http://nl4.iptv.monster/play/157/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcnn" tvg-name="CNN" tvg-logo="https://ip-tv.dev/epg/icon/cnn.png"  tvg-rec="5" timeshift="5", CNN
+#EXTGRP:Новости
+http://nl4.iptv.monster/play/104/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrussia-today" tvg-name="Russia Today Doc HD" tvg-logo="https://ip-tv.dev/images/ico/Russia_Today_Doc_HD.jpg"  tvg-rec="5" timeshift="5", Russia Today Doc HD
+#EXTGRP:Новости
+http://nl4.iptv.monster/play/244/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xeuronews" tvg-name="Euronews" tvg-logo="https://ip-tv.dev/epg/icon/euronews.png"  tvg-rec="5" timeshift="5", Euronews
+#EXTGRP:Новости
+http://nl4.iptv.monster/play/17/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xbbc" tvg-name="BBC World News" tvg-logo="https://ip-tv.dev/epg/icon/bbc.png"  tvg-rec="5" timeshift="5", BBC World News
+#EXTGRP:Новости
+http://nl4.iptv.monster/play/105/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Fox News" tvg-logo="https://ip-tv.dev/images/ico/foxnews.png" , Fox News
+#EXTGRP:Новости
+http://nl4.iptv.monster/play/6077/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrtd-ru" tvg-name="RT Doc" tvg-logo="https://ip-tv.dev/images/ico/RT_Doc.jpg"  tvg-rec="5" timeshift="5", RT Doc
+#EXTGRP:Новости
+http://nl4.iptv.monster/play/249/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmir-24" tvg-name="Мир 24" tvg-logo="https://ip-tv.dev/epg/icon/mir24.png"  tvg-rec="5" timeshift="5", Мир 24
+#EXTGRP:Новости
+http://nl4.iptv.monster/play/236/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrussia-today" tvg-name="Russia Today" tvg-logo="https://ip-tv.dev/images/ico/russia-today.png"  tvg-rec="5" timeshift="5", Russia Today
+#EXTGRP:Новости
+http://nl4.iptv.monster/play/203/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmtv-hits" tvg-name="MTV Hits" tvg-logo="https://ip-tv.dev/epg/icon/mtv_hits.png" , MTV Hits
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/238/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmtv-europe" tvg-name="MTV Europe" tvg-logo="https://ip-tv.dev/images/ico/mtv-europe.png" , MTV Europe
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/237/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmtv-rocks" tvg-name="MTV 90s" tvg-logo="https://ip-tv.dev/epg/icon/mtv_rocks.png" , MTV 90s
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/239/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xvh1-european" tvg-name="MTV 00s" tvg-logo="https://ip-tv.dev/epg/icon/vh1.png" , MTV 00s
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/278/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmtv-dance" tvg-name="MTV club" tvg-logo="https://ip-tv.dev/images/ico/mtv-dance.png" , MTV club
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/46/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmtv-live-hd" tvg-name="MTV Live HD" tvg-logo="https://ip-tv.dev/epg/icon/mtv_live_hd.png" , MTV Live HD
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/144/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmtv-russia" tvg-name="MTV Россия HD" tvg-logo="https://ip-tv.dev/epg/icon/mtv-russia.png" , MTV Россия HD
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/3736/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xzhara" tvg-name="Жара HD" tvg-logo="https://ip-tv.dev/images/ico/zhara.png" , Жара HD
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/3734/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmuztv" tvg-name="МУЗ" tvg-logo="https://ip-tv.dev/epg/icon/muztv.png" , МУЗ
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/10/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtnt-music" tvg-name="ТНТ MUSIC" tvg-logo="https://ip-tv.dev/epg/icon/tnt-music.png" , ТНТ MUSIC
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/71/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xeuropa-plus-tv" tvg-name="Европа Плюс ТВ" tvg-logo="https://ip-tv.dev/epg/icon/europa-plus.png" , Европа Плюс ТВ
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/160/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtrace-urban" tvg-name="Trace Urban HD" tvg-logo="https://ip-tv.dev/images/ico/trace-urban.png" , Trace Urban HD
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/960/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xviva-rus" tvg-name="VIVA Russia" tvg-logo="https://ip-tv.dev/images/ico/viva-rus.png" , VIVA Russia
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/8799/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X4ever-music" tvg-name="4ever Music HD" tvg-logo="https://ip-tv.dev/images/ico/4ever-music.png" , 4ever Music HD
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/9938/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmegogo-live" tvg-name="Megogo Live HD" tvg-logo="https://ip-tv.dev/images/ico/megogolive.png" , Megogo Live HD
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/6203/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xbridge-hd" tvg-name="BRIDGE HD" tvg-logo="https://ip-tv.dev/epg/icon/bridge-hd.png" , BRIDGE HD
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/154/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xinrating" tvg-name="InRating TV HD" tvg-logo="https://ip-tv.dev/images/ico/inrating.png" , InRating TV HD
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/9911/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Muzvar HD" tvg-logo="https://ip-tv.dev/images/ico/muzvar.png" , Muzvar HD
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/8849/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmezzo" tvg-name="Mezzo HD" tvg-logo="https://ip-tv.dev/images/ico/mezzo-live-hd.png" , Mezzo HD
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/165/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xshanson-tv" tvg-name="Шансон ТВ" tvg-logo="https://ip-tv.dev/epg/icon/shanson-tv.png" , Шансон ТВ
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/67/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmultimuzyka" tvg-name="Мультимузыка" tvg-logo="https://ip-tv.dev/images/ico/multimuzyka.png" , Мультимузыка
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/156/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xru-tv" tvg-name="RU.TV" tvg-logo="https://ip-tv.dev/epg/icon/rutv.png" , RU.TV
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/63/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmuzyka-pervogo" tvg-name="Музыка" tvg-logo="https://ip-tv.dev/epg/icon/muzyka-pervogo.png" , Музыка
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/133/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmusicbox" tvg-name="Music Box" tvg-logo="https://ip-tv.dev/epg/icon/musicbox.png" , Music Box
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/230/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xm1-ua" tvg-name="М1" tvg-logo="https://ip-tv.dev/epg/icon/m1-ua.png" , М1
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/909/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xm1-ua" tvg-name="M1 HD" tvg-logo="https://ip-tv.dev/epg/icon/m1-ua.png" , M1 HD
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/9980/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xm2-ua" tvg-name="M2 HD" tvg-logo="https://ip-tv.dev/epg/icon/m2-ua.png" , M2 HD
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/9979/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xo2tv" tvg-name="О2ТВ" tvg-logo="https://ip-tv.dev/epg/icon/o2tv.png" , О2ТВ
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/305/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xla-minor" tvg-name="Ля-минор" tvg-logo="https://ip-tv.dev/epg/icon/la-minor.png" , Ля-минор
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/222/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xbridge-tv-ruxit" tvg-name="Bridge TV русский хит" tvg-logo="https://ip-tv.dev/epg/icon/bridge-tv-ruxit.png" , Bridge TV русский хит
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/158/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmcm-top" tvg-name="MCM Top" tvg-logo="https://ip-tv.dev/epg/icon/mcm-top.png" , MCM Top
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/45/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnashe" tvg-name="Наше music HD" tvg-logo="https://ip-tv.dev/images/ico/nashe-music-hd.png" , Наше music HD
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/7184/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="EU Music HD" tvg-logo="https://ip-tv.dev/images/ico/EU_Music_HD.jpg" , EU Music HD
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/7186/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-musichits" tvg-name="YOSSO TV Music Hits" tvg-logo="https://ip-tv.dev/images/ico/yosso-musichits.png" , YOSSO TV Music Hits
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/8771/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Planeta BG" tvg-logo="https://ip-tv.dev/images/ico/Planeta_BG.jpg" , Planeta BG
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/1409/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xonemuz" tvg-name="Первый Музыкальный BY" tvg-logo="https://ip-tv.dev/images/ico/Pervyj_Muzykalnyj_BY.jpg" , Первый Музыкальный BY
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/9928/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Етно HD" tvg-logo="https://ip-tv.dev/images/ico/etno.png" , Етно HD
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/1595/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Happy Radio" tvg-logo="https://ip-tv.dev/images/ico/happyradio.png" , Happy Radio
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/8807/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X" tvg-name="EChannel" tvg-logo="https://ip-tv.dev/images/ico/e.png" , EChannel
+#EXTGRP:Музыкальные
+http://nl4.iptv.monster/play/6150/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xbelarus1" tvg-name="Беларусь 1" tvg-logo="https://ip-tv.dev/epg/icon/belarus1.png"  tvg-rec="5" timeshift="5", Беларусь 1
+#EXTGRP:BY
+http://nl4.iptv.monster/play/1460/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xbelarus2" tvg-name="Беларусь 2" tvg-logo="https://ip-tv.dev/epg/icon/belarus2.png"  tvg-rec="5" timeshift="5", Беларусь 2
+#EXTGRP:BY
+http://nl4.iptv.monster/play/1465/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xbelarus3" tvg-name="Беларусь 3" tvg-logo="https://ip-tv.dev/epg/icon/belarus3.png"  tvg-rec="5" timeshift="5", Беларусь 3
+#EXTGRP:BY
+http://nl4.iptv.monster/play/1466/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xbelarus5" tvg-name="Беларусь 5" tvg-logo="https://ip-tv.dev/epg/icon/belarus5.png" , Беларусь 5
+#EXTGRP:BY
+http://nl4.iptv.monster/play/1467/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xbelarus24" tvg-name="Беларусь 24" tvg-logo="https://ip-tv.dev/epg/icon/belarus24.png" , Беларусь 24
+#EXTGRP:BY
+http://nl4.iptv.monster/play/341/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xstv-by" tvg-name="СТВ" tvg-logo="https://ip-tv.dev/epg/icon/stv-by.png"  tvg-rec="5" timeshift="5", СТВ
+#EXTGRP:BY
+http://nl4.iptv.monster/play/1462/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xont-by" tvg-name="ОНТ" tvg-logo="https://ip-tv.dev/epg/icon/ont-by.png"  tvg-rec="5" timeshift="5", ОНТ
+#EXTGRP:BY
+http://nl4.iptv.monster/play/1461/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Б-Кінозал", Б-Кінозал
+#EXTGRP:BY
+http://nl4.iptv.monster/play/3794/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcinema" tvg-name="Cinema HD" tvg-rec="5" timeshift="5", Cinema HD
+#EXTGRP:BY
+http://nl4.iptv.monster/play/3793/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtv1-lt" tvg-name="TV1", TV1
+#EXTGRP:LT
+http://nl4.iptv.monster/play/875/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtv3-lt" tvg-name="TV3", TV3
+#EXTGRP:LT
+http://nl4.iptv.monster/play/865/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtv6-lt" tvg-name="TV6", TV6
+#EXTGRP:LT
+http://nl4.iptv.monster/play/866/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtv8-lt" tvg-name="TV8", TV8
+#EXTGRP:LT
+http://nl4.iptv.monster/play/872/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xbtv" tvg-name="BTV HD" tvg-logo="https://ip-tv.dev/epg/icon/btv.png" , BTV HD
+#EXTGRP:LT
+http://nl4.iptv.monster/play/878/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xlnk" tvg-name="LNK HD" tvg-logo="https://ip-tv.dev/epg/icon/lnk.png" , LNK HD
+#EXTGRP:LT
+http://nl4.iptv.monster/play/6960/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xlrt-tv" tvg-name="LRT Televizija" tvg-logo="https://ip-tv.dev/epg/icon/lrt-tv.png" , LRT Televizija
+#EXTGRP:LT
+http://nl4.iptv.monster/play/873/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xlietuvos-ryto-televizija" tvg-name="Lietuvos Rytas", Lietuvos Rytas
+#EXTGRP:LT
+http://nl4.iptv.monster/play/877/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="TV3 Plus", TV3 Plus
+#EXTGRP:LT
+http://nl4.iptv.monster/play/6963/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xlnt" tvg-name="TV3 Life", TV3 Life
+#EXTGRP:LT
+http://nl4.iptv.monster/play/6965/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xlrt-kultura" tvg-name="LRT Plius", LRT Plius
+#EXTGRP:LT
+http://nl4.iptv.monster/play/6961/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtv1000-action" tvg-name="TV1000 Action HD", TV1000 Action HD
+#EXTGRP:LT
+http://nl4.iptv.monster/play/6967/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="TV1000 HD", TV1000 HD
+#EXTGRP:LT
+http://nl4.iptv.monster/play/6968/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="TV1000 WORLD KINO HD", TV1000 WORLD KINO HD
+#EXTGRP:LT
+http://nl4.iptv.monster/play/6993/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Epic Drama", Epic Drama
+#EXTGRP:LT
+http://nl4.iptv.monster/play/6997/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Fox Life", Fox Life
+#EXTGRP:LT
+http://nl4.iptv.monster/play/6996/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkidzone" tvg-name="Kidzone" tvg-logo="https://ip-tv.dev/epg/icon/kidzone.png" , Kidzone
+#EXTGRP:LT
+http://nl4.iptv.monster/play/868/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnational-geographic-baltic" tvg-name="National Geographic HD", National Geographic HD
+#EXTGRP:LT
+http://nl4.iptv.monster/play/6969/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xviasat-explore" tvg-name="Viasat Explore HD", Viasat Explore HD
+#EXTGRP:LT
+http://nl4.iptv.monster/play/6970/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xviasat-nature-history-hd" tvg-name="Viasat Nature", Viasat Nature
+#EXTGRP:LT
+http://nl4.iptv.monster/play/6972/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Viasat History HD", Viasat History HD
+#EXTGRP:LT
+http://nl4.iptv.monster/play/6998/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xltv1" tvg-name="LTV1", LTV1
+#EXTGRP:LV
+http://nl4.iptv.monster/play/869/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xltv7" tvg-name="LTV7", LTV7
+#EXTGRP:LV
+http://nl4.iptv.monster/play/871/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X3-plus-latvia" tvg-name="3+" tvg-logo="https://ip-tv.dev/epg/icon/3plus.png" , 3+
+#EXTGRP:LV
+http://nl4.iptv.monster/play/862/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtv3-lv" tvg-name="TV3", TV3
+#EXTGRP:LV
+http://nl4.iptv.monster/play/861/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtv6-lv" tvg-name="TV6", TV6
+#EXTGRP:LV
+http://nl4.iptv.monster/play/864/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xlnt" tvg-name="TV3 Life" tvg-logo="https://ip-tv.dev/epg/icon/lnt.png" , TV3 Life
+#EXTGRP:LV
+http://nl4.iptv.monster/play/867/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtv1000-premium" tvg-name="TV3 Film", TV3 Film
+#EXTGRP:LV
+http://nl4.iptv.monster/play/6976/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkidzone" tvg-name="Kidzone", Kidzone
+#EXTGRP:LV
+http://nl4.iptv.monster/play/6977/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="DISNEY VIASAT EU", DISNEY VIASAT EU
+#EXTGRP:LV
+http://nl4.iptv.monster/play/6890/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="NICK JR EU", NICK JR EU
+#EXTGRP:LV
+http://nl4.iptv.monster/play/6991/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="TV1000 WORLD KINO MOVIE HD", TV1000 WORLD KINO MOVIE HD
+#EXTGRP:LV
+http://nl4.iptv.monster/play/6980/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="TV1000 ACTION", TV1000 ACTION
+#EXTGRP:LV
+http://nl4.iptv.monster/play/6988/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="TV1000 HD", TV1000 HD
+#EXTGRP:LV
+http://nl4.iptv.monster/play/6994/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="National Geographic LV", National Geographic LV
+#EXTGRP:LV
+http://nl4.iptv.monster/play/6981/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="MTV HITS", MTV HITS
+#EXTGRP:LV
+http://nl4.iptv.monster/play/6984/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="MTV '00s", MTV '00s
+#EXTGRP:LV
+http://nl4.iptv.monster/play/6992/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xetv-ee" tvg-name="ETV", ETV
+#EXTGRP:EE
+http://nl4.iptv.monster/play/6402/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xetv2-ee" tvg-name="ETV 2", ETV 2
+#EXTGRP:EE
+http://nl4.iptv.monster/play/6403/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xetv-plus-ee" tvg-name="ETV+ HD", ETV+ HD
+#EXTGRP:EE
+http://nl4.iptv.monster/play/6973/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkanal-2-ee" tvg-name="Kanal 2", Kanal 2
+#EXTGRP:EE
+http://nl4.iptv.monster/play/6404/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtv3-ee" tvg-name="TV3" tvg-logo="https://ip-tv.dev/images/ico/brodilo.png" , TV3
+#EXTGRP:EE
+http://nl4.iptv.monster/play/7181/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtv6-ee" tvg-name="TV6", TV6
+#EXTGRP:EE
+http://nl4.iptv.monster/play/7182/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtvplay-sports" tvg-name="TVPlay Sports", TVPlay Sports
+#EXTGRP:EE
+http://nl4.iptv.monster/play/7183/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtvplay-sports-plus" tvg-name="TVPlay Sports+" tvg-logo="https://ip-tv.dev/images/ico/nashe-music-hd.png" , TVPlay Sports+
+#EXTGRP:EE
+http://nl4.iptv.monster/play/7184/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkidzone" tvg-name="Kidzone Mini", Kidzone Mini
+#EXTGRP:EE
+http://nl4.iptv.monster/play/6974/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrtl" tvg-name="RTL HD DE" tvg-rec="5" timeshift="5", RTL HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/801/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsuper-rtl-hd" tvg-name="Super RTL HD DE" tvg-rec="5" timeshift="5", Super RTL HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/803/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xrtl2" tvg-name="RTL 2 HD DE" tvg-rec="5" timeshift="5", RTL 2 HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/805/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="829" tvg-name="RTL Crime DE", RTL Crime DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/829/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="804" tvg-name="RTL Living HD DE", RTL Living HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/804/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-hd1" tvg-name="Sky Sport 1 HD DE" tvg-rec="5" timeshift="5", Sky Sport 1 HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/833/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-hd2" tvg-name="Sky Sport 2 HD DE" tvg-rec="5" timeshift="5", Sky Sport 2 HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/834/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-bl1" tvg-name="Sky Sport Bundesliga 1 HD DE" tvg-rec="5" timeshift="5", Sky Sport Bundesliga 1 HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/836/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="802" tvg-name="n-tv HD DE", n-tv HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/802/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsat1" tvg-name="Sat.1 HD DE", Sat.1 HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/806/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="809" tvg-name="N24 HD DE", N24 HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/809/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-aus" tvg-name="Sky Sport Austria HD DE", Sky Sport Austria HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/5129/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="831" tvg-name="Eurosport HD DE" tvg-rec="5" timeshift="5", Eurosport HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/831/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="5136" tvg-name="Eurosport 2 HD DE" tvg-rec="5" timeshift="5", Eurosport 2 HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/5136/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-news" tvg-name="Sky Sport News HD DE", Sky Sport News HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/832/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sports-f1" tvg-name="SKY Sports F1", SKY Sports F1
+#EXTGRP:DE
+http://nl4.iptv.monster/play/9923/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="818" tvg-name="Sport 1 HD DE" tvg-rec="5" timeshift="5", Sport 1 HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/818/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="5126" tvg-name="Sky Krimi DE", Sky Krimi DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/5126/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsky-cinema-nostalg" tvg-name="Sky Cinema Premieren", Sky Cinema Premieren
+#EXTGRP:DE
+http://nl4.iptv.monster/play/5125/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Sky Cinema Thriller DE", Sky Cinema Thriller DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/5130/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsky-cinema-family" tvg-name="Sky Cinema Family HD DE", Sky Cinema Family HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/5101/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsky-atlantic" tvg-name="Sky Atlantic HD DE" tvg-rec="5" timeshift="5", Sky Atlantic HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/918/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsky-cinema-hitssky-" tvg-name="Sky Hits HD DE", Sky Hits HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/849/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsky-cinema" tvg-name="Sky Cinema Classics HD DE", Sky Cinema Classics HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/847/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xsky-cinema-action" tvg-name="Sky Cinema Action HD DE", Sky Cinema Action HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/844/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="5138" tvg-name="Comedy Central HD DE", Comedy Central HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/5138/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="5107" tvg-name="Universal TV HD DE", Universal TV HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/5107/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="921" tvg-name="FOX HD DE", FOX HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/921/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="917" tvg-name="Syfy HD DE", Syfy HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/917/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xvox" tvg-name="VOX HD DE", VOX HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/813/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtnt-serie-de" tvg-name="TNT Serie HD DE", TNT Serie HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/842/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtnt-film-de" tvg-name="TNT Film HD DE" tvg-rec="5" timeshift="5", TNT Film HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/841/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="843" tvg-name="AXN HD DE", AXN HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/843/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="VIVA/Comedy DE", VIVA/Comedy DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/822/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Discovery HD DE", Discovery HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/5140/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Nat Geo Wild HD DE", Nat Geo Wild HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/5134/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="National Geographic HD", National Geographic HD
+#EXTGRP:DE
+http://nl4.iptv.monster/play/824/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="History HD DE", History HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/5137/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Nickelodeon HD DE", Nickelodeon HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/859/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Disney Cinemagic HD DE", Disney Cinemagic HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/848/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Nick Jr. HD DE", Nick Jr. HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/5123/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Boomerang DE", Boomerang DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/5102/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Cartoon Network DE", Cartoon Network DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/5103/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Disney Jr DE", Disney Jr DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/821/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Disney HD DE", Disney HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/819/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xdas-erste" tvg-name="Das Erste HD DE" tvg-logo="https://ip-tv.dev/epg/icon/das-erste.png" , Das Erste HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/814/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xarte-hd" tvg-name="arte HD DE" tvg-logo="https://ip-tv.dev/epg/icon/arte-hd.png" , arte HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/812/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xzdf" tvg-name="ZDF HD DE", ZDF HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/811/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="T502021" tvg-name="SIXX HD DE", SIXX HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/810/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkabel-1" tvg-name="Kabel Eins HD DE" tvg-logo="https://ip-tv.dev/epg/icon/kabel-1.png" , Kabel Eins HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/808/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xprosieben" tvg-name="ProSieben HD DE", ProSieben HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/807/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="WELT HD DE", WELT HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/5139/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Spiegel Geschichte HD DE", Spiegel Geschichte HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/5132/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Romance TV DE", Romance TV DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/5131/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkinowelt" tvg-name="Kinowelt TV DE", Kinowelt TV DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/5124/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="DAZN 1 DE", DAZN 1 DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/3556/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="DAZN 2 DE", DAZN 2 DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/3557/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="DMAX HD DE", DMAX HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/920/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X13-strt" tvg-name="13th Street HD DE" tvg-logo="https://ip-tv.dev/epg/icon/13-strt.png" , 13th Street HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/919/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="NDR HD DE", NDR HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/839/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="HR HD DE", HR HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/838/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Anixe HD DE", Anixe HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/830/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="BR HD", BR HD
+#EXTGRP:DE
+http://nl4.iptv.monster/play/5005/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="ORF 2N HD DE", ORF 2N HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/827/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="826" tvg-name="ORF 1 HD DE", ORF 1 HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/826/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="ATV DE", ATV DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/825/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="T502002" tvg-name="KIKA HD DE", KIKA HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/823/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xprosieben-maxx" tvg-name="ProSieben Maxx HD DE", ProSieben Maxx HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/817/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="3sat HD DE", 3sat HD DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/816/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="WDR HD Aachen DE", WDR HD Aachen DE
+#EXTGRP:DE
+http://nl4.iptv.monster/play/815/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Channel 1 HD", Channel 1 HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1546/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Channel 8 HD", Channel 8 HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1541/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Channel 9 HD", Channel 9 HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1547/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X9kanal-israel" tvg-name="Channel 9", Channel 9
+#EXTGRP:IL
+http://nl4.iptv.monster/play/472/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Channel 11", Channel 11
+#EXTGRP:IL
+http://nl4.iptv.monster/play/473/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Channel 12", Channel 12
+#EXTGRP:IL
+http://nl4.iptv.monster/play/470/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Channel 13", Channel 13
+#EXTGRP:IL
+http://nl4.iptv.monster/play/471/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="KHAN 11", KHAN 11
+#EXTGRP:IL
+http://nl4.iptv.monster/play/6917/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="HOT DRAMA HD", HOT DRAMA HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1510/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="HOT3 HD", HOT3 HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1537/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="BollyWood HD", BollyWood HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/6995/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xyes-action" tvg-name="HOT ACTION HD", HOT ACTION HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1513/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xyes-comedy" tvg-name="Yes COMEDY HD", Yes COMEDY HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1512/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Yes DOCU HD", Yes DOCU HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1511/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Yes Israeli Cinema", Yes Israeli Cinema
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1509/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="ONE HD", ONE HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1506/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="ZOOM", ZOOM
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1528/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="ZONE HD", ZONE HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1529/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="DRAMA HD", DRAMA HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1526/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="FUN HD", FUN HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1525/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Good Life", Good Life
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1524/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="PLUS+ HD", PLUS+ HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1523/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Yam Tihoni 25", Yam Tihoni 25
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1567/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Viva plus", Viva plus
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1556/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Viva", Viva
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1563/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="i24", i24
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1562/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Prime", Prime
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1561/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Yaldut", Yaldut
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1559/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Mikan", Mikan
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1555/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Kabala", Kabala
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1554/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Yes E", Yes E
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1553/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Health", Health
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1552/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Food Channel", Food Channel
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1551/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Ego Total", Ego Total
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1550/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Big Brother", Big Brother
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1549/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="GOLD HD", GOLD HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1545/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="ACTION HD", ACTION HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1544/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Baby", Baby
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1542/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Hop! Childhood", Hop! Childhood
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1538/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Junior", Junior
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1536/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Logi", Logi
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1535/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Luli", Luli
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1534/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Nickelodeon", Nickelodeon
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1532/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Travel Channel", Travel Channel
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1530/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Home Plus", Home Plus
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1503/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="hop", hop
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1502/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Nick Jr", Nick Jr
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1501/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Disney HD", Disney HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/476/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Disney Jr HD", Disney Jr HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/474/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="HOT A+ Kids", HOT A+ Kids
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1564/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Sport 1 HD", Sport 1 HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1522/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Sport  2 HD", Sport  2 HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1521/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Sport 3 HD" tvg-rec="5" timeshift="5", Sport 3 HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1565/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Sport 4 HD" tvg-rec="5" timeshift="5", Sport 4 HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1566/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Sport 5 HD", Sport 5 HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1507/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Sport 5 " tvg-rec="5" timeshift="5", Sport 5 
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1569/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Sport 5 Live HD" tvg-rec="5" timeshift="5", Sport 5 Live HD
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1531/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="music 24", music 24
+#EXTGRP:IL
+http://nl4.iptv.monster/play/1505/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xtvp-info" tvg-name="TVP INFO HD", TVP INFO HD
+#EXTGRP:PL
+http://nl4.iptv.monster/play/9052/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xpolsat2" tvg-name="Polsat 2 HD PL" tvg-logo="https://ip-tv.dev/epg/icon/polsat2.png" , Polsat 2 HD PL
+#EXTGRP:PL
+http://nl4.iptv.monster/play/1913/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="HBO 2 HD PL", HBO 2 HD PL
+#EXTGRP:PL
+http://nl4.iptv.monster/play/1928/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="TV4 HD PL", TV4 HD PL
+#EXTGRP:PL
+http://nl4.iptv.monster/play/1918/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Eleven HD PL" tvg-rec="5" timeshift="5", Eleven HD PL
+#EXTGRP:PL
+http://nl4.iptv.monster/play/1903/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Sport Klub PL", Sport Klub PL
+#EXTGRP:PL
+http://nl4.iptv.monster/play/1925/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xcanal-pl-sport-2" tvg-name="Canal+ sport 2 HD PL" tvg-logo="https://ip-tv.dev/epg/icon/canal-pl-sport-2.png"  tvg-rec="5" timeshift="5", Canal+ sport 2 HD PL
+#EXTGRP:PL
+http://nl4.iptv.monster/play/1901/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Eleven Sports HD PL" tvg-rec="5" timeshift="5", Eleven Sports HD PL
+#EXTGRP:PL
+http://nl4.iptv.monster/play/1904/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Fightklub HD PL" tvg-rec="5" timeshift="5", Fightklub HD PL
+#EXTGRP:PL
+http://nl4.iptv.monster/play/1905/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkinopolskamuz-int" tvg-name="Kino Polska Muzyka PL" tvg-logo="https://ip-tv.dev/epg/icon/kinopolskamuz-int.png" , Kino Polska Muzyka PL
+#EXTGRP:PL
+http://nl4.iptv.monster/play/1920/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xpolsat-film" tvg-name="Polsat Film HD PL" tvg-logo="https://ip-tv.dev/epg/icon/polsat-film.png"  tvg-rec="5" timeshift="5", Polsat Film HD PL
+#EXTGRP:PL
+http://nl4.iptv.monster/play/1915/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xpolsat-play" tvg-name="Polsat Play HD PL" tvg-logo="https://ip-tv.dev/epg/icon/polsat-play.png" , Polsat Play HD PL
+#EXTGRP:PL
+http://nl4.iptv.monster/play/1916/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Kuchnia+ HD PL", Kuchnia+ HD PL
+#EXTGRP:PL
+http://nl4.iptv.monster/play/1937/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Discovery Historia PL", Discovery Historia PL
+#EXTGRP:PL
+http://nl4.iptv.monster/play/1921/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Planete+ HD PL", Planete+ HD PL
+#EXTGRP:PL
+http://nl4.iptv.monster/play/1936/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Teletoon+ HD PL", Teletoon+ HD PL
+#EXTGRP:PL
+http://nl4.iptv.monster/play/1935/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Canal+ Film HD PL", Canal+ Film HD PL
+#EXTGRP:PL
+http://nl4.iptv.monster/play/1933/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Canal+ Family HD PL", Canal+ Family HD PL
+#EXTGRP:PL
+http://nl4.iptv.monster/play/1934/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Canal+ Seriale HD PL", Canal+ Seriale HD PL
+#EXTGRP:PL
+http://nl4.iptv.monster/play/1939/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Ale Kino+ HD PL", Ale Kino+ HD PL
+#EXTGRP:PL
+http://nl4.iptv.monster/play/1938/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="1 TV", 1 TV
+#EXTGRP:GE
+http://nl4.iptv.monster/play/416/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Imedi TV", Imedi TV
+#EXTGRP:GE
+http://nl4.iptv.monster/play/421/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Mtavari", Mtavari
+#EXTGRP:GE
+http://nl4.iptv.monster/play/425/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Saperavi TV", Saperavi TV
+#EXTGRP:GE
+http://nl4.iptv.monster/play/419/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Maestro", Maestro
+#EXTGRP:GE
+http://nl4.iptv.monster/play/418/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="GDS TV", GDS TV
+#EXTGRP:GE
+http://nl4.iptv.monster/play/417/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xajara-tv" tvg-name="Ajara TV" tvg-logo="https://ip-tv.dev/epg/icon/ajara-tv.png" , Ajara TV
+#EXTGRP:GE
+http://nl4.iptv.monster/play/427/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Obieqtivi TV", Obieqtivi TV
+#EXTGRP:GE
+http://nl4.iptv.monster/play/426/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Pirveli", Pirveli
+#EXTGRP:GE
+http://nl4.iptv.monster/play/423/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmoldova-1" tvg-name="Moldova 1 HD", Moldova 1 HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/8945/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmoldova-2" tvg-name="Moldova 2 HD", Moldova 2 HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/8946/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="10 TV", 10 TV
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11001/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Accent TV", Accent TV
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11003/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Agro", Agro
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11004/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="ATV HD", ATV HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11005/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="BTV HD", BTV HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11006/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Busuioc", Busuioc
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11007/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Canal 2 HD", Canal 2 HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11008/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Canal 3 HD", Canal 3 HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11009/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Canal 5", Canal 5
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11002/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="CTC", CTC
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11010/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="CTC kids HD", CTC kids HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11012/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Drokia TV", Drokia TV
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11011/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Elita TV", Elita TV
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11013/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="FAMILIA DOMASHNIY HD", FAMILIA DOMASHNIY HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11014/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="GRT", GRT
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11015/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Gurinel HD", Gurinel HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11016/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="ITV", ITV
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11017/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Jurnal TV HD", Jurnal TV HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11018/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Media TV", Media TV
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11019/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Mult", Mult
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11020/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="N4", N4
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11021/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Noroc HD", Noroc HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11022/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="NTS", NTS
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11023/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="NTV Moldova", NTV Moldova
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11024/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Orhei TV", Orhei TV
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11025/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Orizont TV HD", Orizont TV HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11026/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Popas TV", Popas TV
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11027/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Prime HD", Prime HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11028/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Primul Moldova HD", Primul Moldova HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11029/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Pro TV HD", Pro TV HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11030/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Publica HD", Publica HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11031/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Regional", Regional
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11032/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Ren TV HD", Ren TV HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11033/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Rlive HD", Rlive HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11034/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="RTR HD", RTR HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11035/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Ru TV", Ru TV
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11036/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Sor TV", Sor TV
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11037/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="STV", STV
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11038/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="TeleMoldova+", TeleMoldova+
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11039/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Televiziunea Centrala HD", Televiziunea Centrala HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11040/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Tezaur HD", Tezaur HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11041/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="TNT Exclusive", TNT Exclusive
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11042/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="TV Prim", TV Prim
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11043/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="TV8 HD", TV8 HD
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11044/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="TVC21", TVC21
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11045/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="TVR", TVR
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11046/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Vocea Basarabiei", Vocea Basarabiei
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11047/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Zona M", Zona M
+#EXTGRP:MD
+http://nl4.iptv.monster/play/11048/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="A7 HD", A7 HD
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11050/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Agro", Agro
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11051/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Alfa omega", Alfa omega
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11052/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Animal Planet HD RO", Animal Planet HD RO
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11139/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="AMC", AMC
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11053/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Animal Planet", Animal Planet
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11054/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Antena 1", Antena 1
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11131/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Antena 1 HD RO", Antena 1 HD RO
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11132/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Antena 3 HD RO", Antena 3 HD RO
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11133/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Antena 3", Antena 3
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11055/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Antena Stars HD RO", Antena Stars HD RO
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11134/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Antena stars", Antena stars
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11056/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="AXN Whit", AXN Whit
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11057/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="B1", B1
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11058/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Boomerang", Boomerang
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11060/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Bucuresti TV HD", Bucuresti TV HD
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11061/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Kanal D HD RO", Kanal D HD RO
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11135/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Kanal D", Kanal D
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11062/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Cartoon Network", Cartoon Network
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11063/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="CBS Reality", CBS Reality
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11064/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Cinemax 2", Cinemax 2
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11065/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Credo TV", Credo TV
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11066/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Digi Animal World", Digi Animal World
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11067/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Digi sport 1 HD", Digi sport 1 HD
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11068/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Digi sport 2 HD", Digi sport 2 HD
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11069/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="DIGI Sport 3 HD RO", DIGI Sport 3 HD RO
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11145/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Digi sport 3", Digi sport 3
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11070/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Digi sport 4", Digi sport 4
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11071/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Digi24", Digi24
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11072/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Discovery", Discovery
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11073/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Discovery Science HD RO", Discovery Science HD RO
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11146/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Discovery Science", Discovery Science
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11074/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Disney channel", Disney channel
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11075/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Disney Junio", Disney Junio
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11076/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Docubox HD", Docubox HD
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11077/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="DTX HD", DTX HD
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11078/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Duck", Duck
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11079/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="E! Entertainment HD RO", E! Entertainment HD RO
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11149/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Etho", Etho
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11080/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Eurosport 2", Eurosport 2
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11081/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Eurosport 2 HD", Eurosport 2 HD
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11082/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Eurosport HD", Eurosport HD
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11083/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Film Cafe", Film Cafe
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11084/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Filmbox Prem", Filmbox Prem
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11087/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Happy Channel HD RO", Happy Channel HD RO
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11136/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Happy Channel", Happy Channel
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11088/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="HBO AXN", HBO AXN
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11089/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="AXN Black", AXN Black
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11090/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="HBO HD", HBO HD
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11091/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="HBO2", HBO2
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11092/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="HBO3", HBO3
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11093/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="IDXtra HD", IDXtra HD
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11094/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Jim Jam Ro", Jim Jam Ro
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11095/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="CBS Reality RO", CBS Reality RO
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11140/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="CineMax RO", CineMax RO
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11141/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="CineMax HD", CineMax HD
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11142/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="CineMax 2 RO", CineMax 2 RO
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11143/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="CineMax 2 HD RO", CineMax 2 HD RO
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11144/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Cinemax 1", Cinemax 1
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11096/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Kiss", Kiss
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11097/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Look Sport RO", Look Sport RO
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11147/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Minimax", Minimax
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11102/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Mooz Dance HD", Mooz Dance HD
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11103/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Music Channel", Music Channel
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11104/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="N24", N24
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11105/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="National Geograpfic", National Geograpfic
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11106/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="National TV", National TV
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11107/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Nick JR", Nick JR
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11108/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Nickelodeon", Nickelodeon
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11109/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Prima TV RO", Prima TV RO
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11148/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="P", P
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11110/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Pro 2 HD RO", Pro 2 HD RO
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11137/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Pro 2", Pro 2
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11111/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Pro-Gold", Pro-Gold
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11112/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="ProTV", ProTV
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11113/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="ProTV HD", ProTV HD
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11114/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="ProTV International", ProTV International
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11115/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="PRO X HD", PRO X HD
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11138/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="ProX", ProX
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11116/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Realitatea+", Realitatea+
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11117/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Romania TV", Romania TV
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11118/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Speranta", Speranta
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11119/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Tataf", Tataf
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11120/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="TDC HD", TDC HD
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11121/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Telestar 1", Telestar 1
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11122/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="TFavorit", TFavorit
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11123/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Travel mix HD", Travel mix HD
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11124/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Trinitas", Trinitas
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11125/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="TV paprika", TV paprika
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11126/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="TVR1 HD", TVR1 HD
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11127/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="TVR2", TVR2
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11128/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="TVR3", TVR3
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11129/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="ZU", ZU
+#EXTGRP:RO
+http://nl4.iptv.monster/play/11130/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="EPT NEWS HD", EPT NEWS HD
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5925/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="EPT 1", EPT 1
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5901/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="ERT World", ERT World
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5928/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Extra", Extra
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5902/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Kontra HD", Kontra HD
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5903/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Mad", Mad
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5904/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Action 24", Action 24
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5906/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Attica", Attica
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5907/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="BluSky", BluSky
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5908/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Ch9", Ch9
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5909/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Rise ", Rise 
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5910/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Nick", Nick
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5911/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Alert", Alert
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5912/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Smile", Smile
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5913/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="ERT 1", ERT 1
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5914/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="ERT 2", ERT 2
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5915/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="ERT 3", ERT 3
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5916/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Vouli", Vouli
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5917/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Alpha", Alpha
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5918/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="ANT 1", ANT 1
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5919/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="E", E
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5920/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Makedonia", Makedonia
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5921/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Mega", Mega
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5922/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Skai", Skai
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5923/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Star", Star
+#EXTGRP:GR
+http://nl4.iptv.monster/play/5924/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Казахстан KZ", Казахстан KZ
+#EXTGRP:KZ
+http://nl4.iptv.monster/play/447/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xktk-kz" tvg-name="КТК KZ" tvg-logo="https://ip-tv.dev/epg/icon/ktk-kz.png" , КТК KZ
+#EXTGRP:KZ
+http://nl4.iptv.monster/play/448/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-kanal-eurasia-kz" tvg-name="Первый канал Евразия KZ" tvg-logo="https://ip-tv.dev/_front/channel/710.gif" , Первый канал Евразия KZ
+#EXTGRP:KZ
+http://nl4.iptv.monster/play/449/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X7kanal-kz" tvg-name="Седьмой канал KZ" tvg-logo="https://ip-tv.dev/epg/icon/7kanal-kz.png" , Седьмой канал KZ
+#EXTGRP:KZ
+http://nl4.iptv.monster/play/450/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xastana" tvg-name="Astana TV KZ" tvg-logo="https://ip-tv.dev/epg/icon/astana.png" , Astana TV KZ
+#EXTGRP:KZ
+http://nl4.iptv.monster/play/451/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkazakh-tv" tvg-name="Kazakh TV KZ" tvg-logo="https://ip-tv.dev/epg/icon/kazakh-tv.png" , Kazakh TV KZ
+#EXTGRP:KZ
+http://nl4.iptv.monster/play/454/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xnovoe-televidenie" tvg-name="Новое телевидение KZ" tvg-logo="https://ip-tv.dev/epg/icon/novoe-televidenie.png" , Новое телевидение KZ
+#EXTGRP:KZ
+http://nl4.iptv.monster/play/455/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="X31-kanal-kz" tvg-name="31 канал KZ" tvg-logo="https://ip-tv.dev/epg/icon/31-kanal-kz.png" , 31 канал KZ
+#EXTGRP:KZ
+http://nl4.iptv.monster/play/456/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xntk-kz" tvg-name="НТК KZ" tvg-logo="https://ip-tv.dev/epg/icon/ntk-kz.png" , НТК KZ
+#EXTGRP:KZ
+http://nl4.iptv.monster/play/457/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xstv-kz" tvg-name="СТВ KZ" tvg-logo="https://ip-tv.dev/_front/channel/1516.gif" , СТВ KZ
+#EXTGRP:KZ
+http://nl4.iptv.monster/play/458/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="ТАН KZ", ТАН KZ
+#EXTGRP:KZ
+http://nl4.iptv.monster/play/459/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="5 канал KZ", 5 канал KZ
+#EXTGRP:KZ
+http://nl4.iptv.monster/play/460/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Казахстан Караганда KZ", Казахстан Караганда KZ
+#EXTGRP:KZ
+http://nl4.iptv.monster/play/461/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xxabar" tvg-name="Хабар KZ" tvg-logo="https://ip-tv.dev/epg/icon/xabar.png" , Хабар KZ
+#EXTGRP:KZ
+http://nl4.iptv.monster/play/462/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xxabar24" tvg-name="Хабар 24" tvg-logo="https://ip-tv.dev/epg/icon/xabar24.png" , Хабар 24
+#EXTGRP:KZ
+http://nl4.iptv.monster/play/464/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="24kz KZ", 24kz KZ
+#EXTGRP:KZ
+http://nl4.iptv.monster/play/465/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xhit-tv" tvg-name="Hit TV KZ" tvg-logo="https://ip-tv.dev/epg/icon/hit-tv.png" , Hit TV KZ
+#EXTGRP:KZ
+http://nl4.iptv.monster/play/466/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xmuzzone" tvg-name="MuzzOne KZ" tvg-logo="https://ip-tv.dev/epg/icon/muzzone.png" , MuzzOne KZ
+#EXTGRP:KZ
+http://nl4.iptv.monster/play/467/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xasyl-arna" tvg-name="Асыл Арна KZ" tvg-logo="https://ip-tv.dev/epg/icon/asyl-arna.png" , Асыл Арна KZ
+#EXTGRP:KZ
+http://nl4.iptv.monster/play/468/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-id="Xkazsport" tvg-name="KazSport KZ" tvg-logo="https://ip-tv.dev/epg/icon/kazsport.png" , KazSport KZ
+#EXTGRP:KZ
+http://nl4.iptv.monster/play/463/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="InterAz AZ", InterAz AZ
+#EXTGRP:AZ/TJ
+http://nl4.iptv.monster/play/442/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Azad TV AZ", Azad TV AZ
+#EXTGRP:AZ/TJ
+http://nl4.iptv.monster/play/441/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Xazar TV AZ", Xazar TV AZ
+#EXTGRP:AZ/TJ
+http://nl4.iptv.monster/play/440/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Medeniyyet AZ", Medeniyyet AZ
+#EXTGRP:AZ/TJ
+http://nl4.iptv.monster/play/438/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="CBC AZ", CBC AZ
+#EXTGRP:AZ/TJ
+http://nl4.iptv.monster/play/437/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Ictimai TV AZ", Ictimai TV AZ
+#EXTGRP:AZ/TJ
+http://nl4.iptv.monster/play/436/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="AzTV AZ", AzTV AZ
+#EXTGRP:AZ/TJ
+http://nl4.iptv.monster/play/435/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Space TV AZ", Space TV AZ
+#EXTGRP:AZ/TJ
+http://nl4.iptv.monster/play/430/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="CBC Sport AZ", CBC Sport AZ
+#EXTGRP:AZ/TJ
+http://nl4.iptv.monster/play/434/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Idman AZ", Idman AZ
+#EXTGRP:AZ/TJ
+http://nl4.iptv.monster/play/439/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Tojikistan HD TJ", Tojikistan HD TJ
+#EXTGRP:AZ/TJ
+http://nl4.iptv.monster/play/911/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Safina HD TJ", Safina HD TJ
+#EXTGRP:AZ/TJ
+http://nl4.iptv.monster/play/912/2AC1608981D40DE/video.m3u8
+#EXTINF:0 tvg-name="Bakhoristan HD TJ", Bakhoristan HD TJ
+#EXTGRP:AZ/TJ
+http://nl4.iptv.monster/play/913/2AC1608981D40DE/video.m3u8

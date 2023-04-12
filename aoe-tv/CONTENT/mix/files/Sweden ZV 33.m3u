@@ -1,0 +1,282 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",SVT1 HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672692
+#EXTINF:0 tvg-id="SVT1.se" group-title="Channels",SVT1 HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7063
+#EXTINF:0 tvg-id="ext" group-title="Channels",SVT2 HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672678
+#EXTINF:0 tvg-id="SVT2.se" group-title="Channels",SVT2 HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7062
+#EXTINF:0 tvg-id="ext" group-title="Channels",SVT24 Barn HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672710
+#EXTINF:0 tvg-id="ext" group-title="Channels",SVT24 Barn SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7061
+#EXTINF:0 tvg-id="TV3.se" group-title="Channels",TV3 FHD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7434
+#EXTINF:0 tvg-id="TV3.se" group-title="Channels",TV3 HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7055
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV4 FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/13216
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV4 HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672733
+#EXTINF:0 tvg-id="TV4.se" group-title="Channels",TV4 HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7052
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV4 Fakta HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672732
+#EXTINF:0 tvg-id="TV4Fakta.se" group-title="Channels",TV4 Fakta  SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/13215
+#EXTINF:0 tvg-id="TV4Fakta.se" group-title="Channels",TV4 Fakta SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7054
+#EXTINF:0 tvg-id="Kanal5.se" group-title="Channels",Kanal 5 FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/6477
+#EXTINF:0 tvg-id="Kanal5.se" group-title="Channels",Kanal 5 HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/678723
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV6 FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672731
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV6 HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/13214
+#EXTINF:0 tvg-id="ext" group-title="Channels",SJuan HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672691
+#EXTINF:0 tvg-id="ext" group-title="Channels",SJuan HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/683223
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV8 FHD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/13213
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV8 HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672734
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal 9 FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7067
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal 9 HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672689
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV10 FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7057
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV10 HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672720
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal 11 FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/6474
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal 11 HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672727
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV12 FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/6427
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV12 HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672721
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? SE News ???
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/687961
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/687958
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? SE Sports ???
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/678927
+#EXTINF:0 tvg-id="ext" group-title="Channels",VSport 1 FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/687938
+#EXTINF:0 tvg-id="ext" group-title="Channels",VSport 1 HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/687939
+#EXTINF:0 tvg-id="ext" group-title="Channels",VSport Premium FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672694
+#EXTINF:0 tvg-id="ext" group-title="Channels",VSport Premium HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672722
+#EXTINF:0 tvg-id="ext" group-title="Channels",VSport Football FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672737
+#EXTINF:0 tvg-id="ext" group-title="Channels",VSport Football HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/13217
+#EXTINF:0 tvg-id="ext" group-title="Channels",VSport Motor FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672753
+#EXTINF:0 tvg-id="ext" group-title="Channels",VSport Motor HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/687943
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sportkanalen HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672736
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sportkanalen  HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/691744
+#EXTINF:0 tvg-id="CMoreSport.se" group-title="Channels",C More Sport FHD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7443
+#EXTINF:0 tvg-id="CMoreSport.se" group-title="Channels",C More Sport SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/6503
+#EXTINF:0 tvg-id="ext" group-title="Channels",C More Fotboll FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672696
+#EXTINF:0 tvg-id="ext" group-title="Channels",C More Fotboll VIP HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/687993
+#EXTINF:0 tvg-id="ext" group-title="Channels",VSport Vinter FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/687936
+#EXTINF:0 tvg-id="ext" group-title="Channels",VSport Vinter HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672697
+#EXTINF:0 tvg-id="ext" group-title="Channels",C More Hockey FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672745
+#EXTINF:0 tvg-id="ext" group-title="Channels",C More Hockey HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/687994
+#EXTINF:0 tvg-id="ext" group-title="Channels",C More Hockey SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672706
+#EXTINF:0 tvg-id="ext" group-title="Channels",C More Mix FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/687769
+#EXTINF:0 tvg-id="ext" group-title="Channels",C More Mix HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/687770
+#EXTINF:0 tvg-id="ext" group-title="Channels",VGolf FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/687937
+#EXTINF:0 tvg-id="ext" group-title="Channels",VGolf HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672752
+#EXTINF:0 tvg-id="ext" group-title="Channels",C More Live FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672746
+#EXTINF:0 tvg-id="CMoreLive.se" group-title="Channels",C More Live FHD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7445
+#EXTINF:0 tvg-id="CMoreLive.se" group-title="Channels",C More Live HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7076
+#EXTINF:0 tvg-id="ext" group-title="Channels",C More Live 2 HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672747
+#EXTINF:0 tvg-id="ext" group-title="Channels",C More Live 2 SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/13205
+#EXTINF:0 tvg-id="ext" group-title="Channels",C More Live 3 HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672748
+#EXTINF:0 tvg-id="CMoreLive3.se" group-title="Channels",C More Live 3 HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/8471
+#EXTINF:0 tvg-id="ext" group-title="Channels",C More Live 4 HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672749
+#EXTINF:0 tvg-id="CMoreLive4.se" group-title="Channels",C More Live 4 HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672705
+#EXTINF:0 tvg-id="ext" group-title="Channels",C More Live 5 HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672750
+#EXTINF:0 tvg-id="ext" group-title="Channels",EuroSport 1 FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672686
+#EXTINF:0 tvg-id="ext" group-title="Channels",EuroSport 2 FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672687
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATG Live VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672679
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery+ 1 [Match Time] FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/688600
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery+ 2 [Match Time] FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/688601
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery+ 3 [Match Time] FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/688602
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery+ 4 [Match Time] FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/688603
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery+ 5 [Match Time] FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/688604
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery+ 6 [Match Time] FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/688605
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery+ 7 [Match Time] FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/688606
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery+ 8 [Match Time] FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/688607
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery+ 9 [Match Time] FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/688609
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery+ 10 [Match Time] FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/688610
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? SE Movies & Series ???
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/678928
+#EXTINF:0 tvg-id="ext" group-title="Channels",C More First VIP FHD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7449
+#EXTINF:0 tvg-id="CMoreFirst.se" group-title="Channels",C More First HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7081
+#EXTINF:0 tvg-id="ext" group-title="Channels",C More Hits FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/20044
+#EXTINF:0 tvg-id="CMoreHits.se" group-title="Channels",C More Hits HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7078
+#EXTINF:0 tvg-id="ext" group-title="Channels",C More Stars FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/6504
+#EXTINF:0 tvg-id="CMoreStars.se" group-title="Channels",C More Stars HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7450
+#EXTINF:0 tvg-id="ext" group-title="Channels",VFilm Action FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672755
+#EXTINF:0 tvg-id="ext" group-title="Channels",VFilm Action HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7045
+#EXTINF:0 tvg-id="ext" group-title="Channels",VFilm Family HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672756
+#EXTINF:0 tvg-id="ext" group-title="Channels",VFilm Family HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/6422
+#EXTINF:0 tvg-id="ext" group-title="Channels",VFilm Hits FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672757
+#EXTINF:0 tvg-id="ext" group-title="Channels",VFilm Hits HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/6421
+#EXTINF:0 tvg-id="ext" group-title="Channels",VFilm Premiere FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672758
+#EXTINF:0 tvg-id="ext" group-title="Channels",VFilm Premiere HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/678937
+#EXTINF:0 tvg-id="ext" group-title="Channels",SF Kanalen VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/11021
+#EXTINF:0 tvg-id="SFKanalen.se" group-title="Channels",SF Kanalen SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/53560
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV4 Film HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672723
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV4 Guld HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672724
+#EXTINF:0 tvg-id="TV4Guld.se" group-title="Channels",TV4 Guld SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/6447
+#EXTINF:0 tvg-id="ext" group-title="Channels",VSeries FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672759
+#EXTINF:0 tvg-id="ext" group-title="Channels",VSeries HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/20054
+#EXTINF:0 tvg-id="ext" group-title="Channels",C More Series FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/6505
+#EXTINF:0 tvg-id="CMoreSeries.se" group-title="Channels",C More Series HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7075
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672715
+#EXTINF:0 tvg-id="ext" group-title="Channels",Paramount Network HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/687966
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? SE Documentary ???
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/678929
+#EXTINF:0 tvg-id="AnimalPlanet.se" group-title="Channels",Animal Planet FHD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/13207
+#EXTINF:0 tvg-id="ext" group-title="Channels",Animal Planet HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672740
+#EXTINF:0 tvg-id="AnimalPlanet.se" group-title="Channels",Animal Planet HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/13206
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC Brit FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672741
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC Earth HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672680
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC Earth FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/20036
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Channel FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672682
+#EXTINF:0 tvg-id="DiscoveryChannel.se" group-title="Channels",Discovery Channel HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7072
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Science FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/20037
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Science HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672683
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLC FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672719
+#EXTINF:0 tvg-id="ext" group-title="Channels",Himlen TV 7 VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/17025
+#EXTINF:0 tvg-id="ext" group-title="Channels",History FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/687965
+#EXTINF:0 tvg-id="ext" group-title="Channels",History2 FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672726
+#EXTINF:0 tvg-id="ext" group-title="Channels",Horse & Country TV SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/53557
+#EXTINF:0 tvg-id="InvestigationDiscovery.se" group-title="Channels",Investigation Discovery SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/6479
+#EXTINF:0 tvg-id="ext" group-title="Channels",National Geographic FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672716
+#EXTINF:0 tvg-id="ext" group-title="Channels",National Geographic Wild FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672728
+#EXTINF:0 tvg-id="ext" group-title="Channels",National Geo Wild FHD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7437
+#EXTINF:0 tvg-id="ext" group-title="Channels",E! FHD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7417
+#EXTINF:0 tvg-id="ext" group-title="Channels",Viasat History FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672693
+#EXTINF:0 tvg-id="ext" group-title="Channels",Viasat History HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7039
+#EXTINF:0 tvg-id="ext" group-title="Channels",Viasat Nature FHD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672754
+#EXTINF:0 tvg-id="ext" group-title="Channels",Viasat Nature HD SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7423
+#EXTINF:0 tvg-id="ext" group-title="Channels",Viasat Explore HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/7046
+#EXTINF:0 tvg-id="ext" group-title="Channels",SVT Kunskapskanalen HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/678936
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? SE Children ???
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/678934
+#EXTINF:0 tvg-id="ext" group-title="Channels",Boomerang HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672711
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cartoon Network HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672681
+#EXTINF:0 tvg-id="ext" group-title="Channels",Disney Channel HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672684
+#EXTINF:0 tvg-id="ext" group-title="Channels",Disney Jr HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/687955
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nick Jr HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672717
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nicktoons HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/687956
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nickelodeon HD VIP SE
+http://mytv.fun:80/6z3pnydx4/6zgf552b3t/672690
+

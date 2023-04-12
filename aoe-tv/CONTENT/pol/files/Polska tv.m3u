@@ -1,0 +1,374 @@
+#EXTM3U
+#EXTINF:0 tvg-id="TVP1.pl" group-title="Channels",TVP 1 FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5227
+#EXTINF:0 tvg-id="TVP1.pl" group-title="Channels",TVP 1 HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7271
+#EXTINF:0 tvg-id="TVP2.pl" group-title="Channels",TVP 2 FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5226
+#EXTINF:0 tvg-id="TVP2.pl" group-title="Channels",TVP 2 HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7270
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVP 3 Warszawa VIP PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9845
+#EXTINF:0 tvg-id="TVPHD.pl" group-title="Channels",TVP FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9893
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVP Polonia FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9843
+#EXTINF:0 tvg-id="Polsat.pl" group-title="Channels",Polsat FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7286
+#EXTINF:0 tvg-id="Polsat2.pl" group-title="Channels",Polsat 2 FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7285
+#EXTINF:0 tvg-id="Polsat2.pl" group-title="Channels",Polsat 2 PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5255
+#EXTINF:0 tvg-id="SuperPolsat.pl" group-title="Channels",Super Polsat FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9897
+#EXTINF:0 tvg-id="TVN.pl" group-title="Channels",TVN FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5229
+#EXTINF:0 tvg-id="TVN.pl" group-title="Channels",TVN HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7274
+#EXTINF:0 tvg-id="TV4.pl" group-title="Channels",TV 4 FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7278
+#EXTINF:0 tvg-id="TV6.pl" group-title="Channels",TV6 FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9822
+#EXTINF:0 tvg-id="TVN7.pl" group-title="Channels",TVN 7 FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7276
+#EXTINF:0 tvg-id="TVPInfo.pl" group-title="Channels",TVP Info FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7269
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nowa TV FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9850
+#EXTINF:0 tvg-id="PolsatNews.pl" group-title="Channels",Polsat News HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7282
+#EXTINF:0 tvg-id="PolsatNews2.pl" group-title="Channels",Polsat News 2 PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5250
+#EXTINF:0 tvg-id="TVN24.pl" group-title="Channels",TVN 24 FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5224
+#EXTINF:0 tvg-id="TVPuls.pl" group-title="Channels",TV Puls FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7277
+#EXTINF:0 tvg-id="TVPuls.pl" group-title="Channels",TV Puls HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9895
+#EXTINF:0 tvg-id="TVPuls2.pl" group-title="Channels",Puls 2 PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9899
+#EXTINF:0 tvg-id="TVS.pl" group-title="Channels",TVS PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9890
+#EXTINF:0 tvg-id="ext" group-title="Channels",Trwam TV PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9884
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? PL Sports ???
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/683432
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal+ Sport 1 FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7300
+#EXTINF:0 tvg-id="CanalplusSport2.pl" group-title="Channels",Canal+ Sport 2 FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7304
+#EXTINF:0 tvg-id="CanalplusSport2.pl" group-title="Channels",Canal+ Sport 2 HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7299
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal+ Sport 3 FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/690799
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal+ Sport 4 FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/690800
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal+ Sport 5 FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5238
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",Eleven Sports 1 FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/524331
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",Eleven Sports 2 FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/99803
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Channels",Eleven Sports 3 FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/99930
+#EXTINF:0 tvg-id="ElevenSports4.pl" group-title="Channels",Eleven Sports 4 HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/167186
+#EXTINF:0 tvg-id="Eurosport.pl" group-title="Channels",Eurosport 1 HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9878
+#EXTINF:0 tvg-id="Eurosport2.pl" group-title="Channels",Eurosport 2 FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9877
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fight Box FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5239
+#EXTINF:0 tvg-id="ExtremeSports.pl" group-title="Channels",Extreme Sports FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5240
+#EXTINF:0 tvg-id="GolfChannel.pl" group-title="Channels",Golf Channel FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9873
+#EXTINF:0 tvg-id="ext" group-title="Channels",Motowizja FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9904
+#EXTINF:0 tvg-id="ext" group-title="Channels",Motowizja HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9851
+#EXTINF:0 tvg-id="PolsatSport.pl" group-title="Channels",Polsat Sport FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/625236
+#EXTINF:0 tvg-id="PolsatSportPremium1.pl" group-title="Channels",Polsat Sport Premium 1 FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/694759
+#EXTINF:0 tvg-id="PolsatSportPremium1.pl" group-title="Channels",Polsat Sport Premium 1 HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/53159
+#EXTINF:0 tvg-id="PolsatSportPremium2.pl" group-title="Channels",Polsat Sport Premium 2 HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/531582
+#EXTINF:0 tvg-id="PolsatSportPpv3.pl" group-title="Channels",Polsat Sport Premium 3 PPV FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/620683
+#EXTINF:0 tvg-id="PolsatSportPpv4.pl" group-title="Channels",Polsat Sport Premium 4 PPV FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/620682
+#EXTINF:0 tvg-id="PolsatSportPpv5.pl" group-title="Channels",Polsat Sport Premium 5 PPV FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/694066
+#EXTINF:0 tvg-id="PolsatSportPpv6.pl" group-title="Channels",Polsat Sport Premium 6 PPV FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/620680
+#EXTINF:0 tvg-id="PolsatSportExtra.pl" group-title="Channels",Polsat Sport Extra FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/625232
+#EXTINF:0 tvg-id="PolsatSportExtra.pl" group-title="Channels",Polsat Sport Extra HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/625230
+#EXTINF:0 tvg-id="PolsatSportFight.pl" group-title="Channels",Polsat Sport Fight FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5247
+#EXTINF:0 tvg-id="PolsatSportNews.pl" group-title="Channels",Polsat Sport News FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9869
+#EXTINF:0 tvg-id="TVPSport.pl" group-title="Channels",TVP Sport FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5225
+#EXTINF:0 tvg-id="TVPSport.pl" group-title="Channels",TVP Sport HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7267
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sportklub HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9819
+#EXTINF:0 tvg-id="ext" group-title="Channels",KSW PPV FHD [Match Time] PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/624946
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? PL Movies & Series ???
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/683433
+#EXTINF:0 tvg-id="HBO.pl" group-title="Channels",HBO FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5223
+#EXTINF:0 tvg-id="HBO.pl" group-title="Channels",HBO HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7293
+#EXTINF:0 tvg-id="HBO2.pl" group-title="Channels",HBO 2 FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7292
+#EXTINF:0 tvg-id="HBO3.pl" group-title="Channels",HBO 3 FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7291
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinemax FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5246
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinemax 2 FHD VIP PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5245
+#EXTINF:0 tvg-id="CanalplusFamily.pl" group-title="Channels",Canal+ Family HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7305
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal+ Premium FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7302
+#EXTINF:0 tvg-id="CanalplusFilm.pl" group-title="Channels",Canal+ Film FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5243
+#EXTINF:0 tvg-id="CanalplusFilm.pl" group-title="Channels",Canal+ Film HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7303
+#EXTINF:0 tvg-id="CanalplusFilm2.pl" group-title="Channels",Canal+ Seriale HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9913
+#EXTINF:0 tvg-id="ext" group-title="Channels",Film Box Extra HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9876
+#EXTINF:0 tvg-id="ext" group-title="Channels",Film Box Premium FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5230
+#EXTINF:0 tvg-id="ext" group-title="Channels",Film Box Premium HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7297
+#EXTINF:0 tvg-id="ext" group-title="Channels",Film Box Family PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5231
+#EXTINF:0 tvg-id="FilmboxAction.pl" group-title="Channels",Filmbox Action PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7296
+#EXTINF:0 tvg-id="PolsatFilm.pl" group-title="Channels",Polsat Film FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5253
+#EXTINF:0 tvg-id="PolsatFilm.pl" group-title="Channels",Polsat Film HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7283
+#EXTINF:0 tvg-id="KinoPolska.pl" group-title="Channels",Kino Polska PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5237
+#EXTINF:0 tvg-id="AMC.pl" group-title="Channels",AMC PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/641401
+#EXTINF:0 tvg-id="ext" group-title="Channels",WarnerTV FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9866
+#EXTINF:0 tvg-id="ext" group-title="Channels",VOD 205 PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9889
+#EXTINF:0 tvg-id="ext" group-title="Channels",VOD 206 PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9888
+#EXTINF:0 tvg-id="ext" group-title="Channels",VOD 207 PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9887
+#EXTINF:0 tvg-id="ext" group-title="Channels",VOD 208 PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9886
+#EXTINF:0 tvg-id="TVPSeriale.pl" group-title="Channels",TVP Seriale PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7268
+#EXTINF:0 tvg-id="TVPHistoria.pl" group-title="Channels",TVP Historia PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9836
+#EXTINF:0 tvg-id="TVPKultura.pl" group-title="Channels",TVP Kultura PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9892
+#EXTINF:0 tvg-id="TVNFabula.pl" group-title="Channels",TVN Fabula FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7275
+#EXTINF:0 tvg-id="TVPRozrywka.pl" group-title="Channels",TVP Rozrywka PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9891
+#EXTINF:0 tvg-id="Fox.pl" group-title="Channels",Fox FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9874
+#EXTINF:0 tvg-id="FoxComedy.pl" group-title="Channels",Fox Comedy HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9875
+#EXTINF:0 tvg-id="ComedyCentral.pl" group-title="Channels",Comedy Central FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5242
+#EXTINF:0 tvg-id="13Ulica.pl" group-title="Channels",13 ulica FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5260
+#EXTINF:0 tvg-id="AXN.pl" group-title="Channels",AXN FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7306
+#EXTINF:0 tvg-id="AXNSpinHD.pl" group-title="Channels",AXN Spin FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5220
+#EXTINF:0 tvg-id="AXNBlack.pl" group-title="Channels",AXN Black PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9915
+#EXTINF:0 tvg-id="AXNWhite.pl" group-title="Channels",AXN White PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9914
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC First FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9861
+#EXTINF:0 tvg-id="CBSEuropa.pl" group-title="Channels",CBS Europa FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9881
+#EXTINF:0 tvg-id="CBSEuropa.pl" group-title="Channels",CBS Europa HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9912
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ale Kino FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5259
+#EXTINF:0 tvg-id="Lifetime.pl" group-title="Channels",Lifetime FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9871
+#EXTINF:0 tvg-id="Paramount.pl" group-title="Channels",Paramount Channel FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9829
+#EXTINF:0 tvg-id="ext" group-title="Channels",Romance TV FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9826
+#EXTINF:0 tvg-id="SciFi.pl" group-title="Channels",SciFi Universal PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9868
+#EXTINF:0 tvg-id="StopklatkaTV.pl" group-title="Channels",Stopklatka TV PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9898
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sundance TV PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9867
+#EXTINF:0 tvg-id="ZoomTV.pl" group-title="Channels",Zoom TV PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9839
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? PL Documentary ???
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/683434
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7298
+#EXTINF:0 tvg-id="DiscoveryScience.pl" group-title="Channels",Discovery Science FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5234
+#EXTINF:0 tvg-id="DiscoveryLife.pl" group-title="Channels",Discovery Life FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5235
+#EXTINF:0 tvg-id="DiscoveryHistoria.pl" group-title="Channels",Discovery Historia PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5236
+#EXTINF:0 tvg-id="History.pl" group-title="Channels",History FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/692791
+#EXTINF:0 tvg-id="ext" group-title="Channels",Crime and Investigation PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5221
+#EXTINF:0 tvg-id="AnimalPlanetHD.pl" group-title="Channels",Animal Planet FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5257
+#EXTINF:0 tvg-id="AnimalPlanetHD.pl" group-title="Channels",Animal Planet HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7307
+#EXTINF:0 tvg-id="ext" group-title="Channels",National Geographic FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7288
+#EXTINF:0 tvg-id="NatGeoWildHD.pl" group-title="Channels",Nat Geo Wild FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7289
+#EXTINF:0 tvg-id="NatGeoPeople.pl" group-title="Channels",Nat Geo People FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9883
+#EXTINF:0 tvg-id="BBCEarth.pl" group-title="Channels",BBC Earth HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9862
+#EXTINF:0 tvg-id="DaVinciLearning.pl" group-title="Channels",Da Vinci Learning PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5218
+#EXTINF:0 tvg-id="DiscoveryTurboXtra.pl" group-title="Channels",DTX FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9824
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS Reality FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9911
+#EXTINF:0 tvg-id="ext" group-title="Channels",Food Network FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9815
+#EXTINF:0 tvg-id="HGTV.pl" group-title="Channels",HGTV HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9906
+#EXTINF:0 tvg-id="FokusTV.pl" group-title="Channels",Fokus TV PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9853
+#EXTINF:0 tvg-id="Adventure.pl" group-title="Channels",Adventure FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9917
+#EXTINF:0 tvg-id="Metro.pl" group-title="Channels",Metro PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9818
+#EXTINF:0 tvg-id="ext" group-title="Channels",Domo + HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/648339
+#EXTINF:0 tvg-id="PLANETE.pl" group-title="Channels",Planete+ HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9903
+#EXTINF:0 tvg-id="ViasatExplorer.pl" group-title="Channels",Polsat Viasat Explore FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9900
+#EXTINF:0 tvg-id="ViasatHistory.pl" group-title="Channels",Polsat Viasat History FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9811
+#EXTINF:0 tvg-id="ViasatNature.pl" group-title="Channels",Polsat Viasat Nature PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9810
+#EXTINF:0 tvg-id="PolsatDoku.pl" group-title="Channels",Polsat Doku FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9813
+#EXTINF:0 tvg-id="PolsatPlay.pl" group-title="Channels",Polsat Play FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5252
+#EXTINF:0 tvg-id="PolsatPlay.pl" group-title="Channels",Polsat Play HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7281
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal+ Kuchnia FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9905
+#EXTINF:0 tvg-id="TVNTurbo.pl" group-title="Channels",TVN Turbo FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5228
+#EXTINF:0 tvg-id="TVNTurbo.pl" group-title="Channels",TVN Turbo HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7272
+#EXTINF:0 tvg-id="TVrepublika.pl" group-title="Channels",TV Republika PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5249
+#EXTINF:0 tvg-id="WP.pl" group-title="Channels",WP PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9840
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? PL Entertainment ???
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/683435
+#EXTINF:0 tvg-id="BBCBrit.pl" group-title="Channels",BBC Brit FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/648338
+#EXTINF:0 tvg-id="FamilySport.pl" group-title="Channels",Active Family PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9817
+#EXTINF:0 tvg-id="ext" group-title="Channels",E! Entertainment FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9879
+#EXTINF:0 tvg-id="TLC.pl" group-title="Channels",TLC FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7279
+#EXTINF:0 tvg-id="PolsatCafe.pl" group-title="Channels",Polsat Cafe FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5254
+#EXTINF:0 tvg-id="PolsatGames.pl" group-title="Channels",Polsat Games FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/628998
+#EXTINF:0 tvg-id="TVNStyle.pl" group-title="Channels",TVN Style HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/7273
+#EXTINF:0 tvg-id="TVNStyle.pl" group-title="Channels",TVN Style FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/5219
+#EXTINF:0 tvg-id="TTV.PL" group-title="Channels",TTV FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9808
+#EXTINF:0 tvg-id="TTV.PL" group-title="Channels",TTV HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/683438
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? PL Children ???
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/683436
+#EXTINF:0 tvg-id="BabyTV.pl" group-title="Channels",Baby TV PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/15950
+#EXTINF:0 tvg-id="ext" group-title="Channels",Boomerang HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9860
+#EXTINF:0 tvg-id="CartoonNetwork.pl" group-title="Channels",Cartoon Network FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9882
+#EXTINF:0 tvg-id="DisneyChannel.pl" group-title="Channels",Disney Channel HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9918
+#EXTINF:0 tvg-id="DisneyJr.pl" group-title="Channels",Disney Junior PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9880
+#EXTINF:0 tvg-id="DisneyXD.pl" group-title="Channels",Disney XD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9910
+#EXTINF:0 tvg-id="ext" group-title="Channels",MiniMini FHD VIP PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9870
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nick Jr Polska PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9831
+#EXTINF:0 tvg-id="NickPolska.pl" group-title="Channels",Nickelodeon PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9830
+#EXTINF:0 tvg-id="ext" group-title="Channels",Polsat Jim Jam PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9848
+#EXTINF:0 tvg-id="TVPABC.pl" group-title="Channels",TVP ABC PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9894
+#EXTINF:0 tvg-id="Teletoon.pl" group-title="Channels",TeleToon+ FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9896
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? PL Music ???
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/683437
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV Polska FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9838
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV Polska HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9832
+#EXTINF:0 tvg-id="MTVNHD.pl" group-title="Channels",MTV Live FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9833
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV 00s PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9827
+#EXTINF:0 tvg-id="4fun.pl" group-title="Channels",4Fun TV PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9825
+#EXTINF:0 tvg-id="4FunDance.pl" group-title="Channels",4Fun Dance PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9864
+#EXTINF:0 tvg-id="4FunGoldHits.pl" group-title="Channels",4Fun Gold Hits PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9863
+#EXTINF:0 tvg-id="VoxMusicTV.pl" group-title="Channels",Vox Music TV PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9885
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nuta TV PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9849
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eska TV HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9807
+#EXTINF:0 tvg-id="EskaTV.pl" group-title="Channels",Eska TV PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9857
+#EXTINF:0 tvg-id="EskaROCK.pl" group-title="Channels",Eska Rock TV HD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9858
+#EXTINF:0 tvg-id="DiscoPoloMusic.pl" group-title="Channels",Disco Polo Music PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9816
+#EXTINF:0 tvg-id="ext" group-title="Channels",Polo TV FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9814
+#EXTINF:0 tvg-id="PolsatMusic.pl" group-title="Channels",Polsat Music FHD PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9847
+#EXTINF:0 tvg-id="PowerTV.pl" group-title="Channels",Power TV PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9846
+#EXTINF:0 tvg-id="StarsTV.pl" group-title="Channels",Stars TV PL
+http://mytv.fun:8080/d8k9h42j2b/q309oio149/9820
+

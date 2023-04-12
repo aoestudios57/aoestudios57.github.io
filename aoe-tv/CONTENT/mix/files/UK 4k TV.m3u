@@ -1,0 +1,2567 @@
+#EXTM3U
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="UK | HD GENERAL",UK | BBC 1
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12374
+#EXTINF:0 tvg-id="BBC2.uk" group-title="UK | HD GENERAL",UK | BBC 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12420
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | BBC 3/CBBC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12376
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | BBC 4
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12377
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | BBC SCOTLAND
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197549
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | ITV 1
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12381
+#EXTINF:0 tvg-id="ITV2.uk" group-title="UK | HD GENERAL",UK | ITV 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12382
+#EXTINF:0 tvg-id="ITV3.uk" group-title="UK | HD GENERAL",UK | ITV 3
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197550
+#EXTINF:0 tvg-id="ITV4.uk" group-title="UK | HD GENERAL",UK | ITV 4
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12384
+#EXTINF:0 tvg-id="ITVBe.uk" group-title="UK | HD GENERAL",UK | ITV BE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113732
+#EXTINF:0 tvg-id="Channel4.uk" group-title="UK | HD GENERAL",UK | CHANNEL 4
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12386
+#EXTINF:0 tvg-id="Channel5.uk" group-title="UK | HD GENERAL",UK | CHANNEL 5
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190831
+#EXTINF:0 tvg-id="E4.uk" group-title="UK | HD GENERAL",UK | E4
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113730
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | CBBC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/63065
+#EXTINF:0 tvg-id="4Seven.uk" group-title="UK | HD GENERAL",UK | 4SEVEN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113731
+#EXTINF:0 tvg-id="Alibi.uk" group-title="UK | HD GENERAL",UK | ALIBI
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12392
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="UK | HD GENERAL",UK | BBC NEWS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/63049
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | BBC WORLD NEWS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197552
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | BLOOMBERG EU
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113740
+#EXTINF:0 tvg-id="CNN.nws" group-title="UK | HD GENERAL",UK | CNN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113741
+#EXTINF:0 tvg-id="Euronews.nws" group-title="UK | HD GENERAL",UK | EURONEWS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113750
+#EXTINF:0 tvg-id="FOXNews.uk" group-title="UK | HD GENERAL",UK | FOX NEWS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197553
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | FRANCE 24
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113744
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | AL JAZEERA EN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113742
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="UK | HD GENERAL",UK | SKY NEWS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113749
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | SKY NEWS EXTRA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187174
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | STV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/225555
+#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="UK | HD GENERAL",UK | FOOD NETWORK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197554
+#EXTINF:0 tvg-id="BBCAlba.uk" group-title="UK | HD GENERAL",UK | BBC ALBA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/225556
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | BBC ONE SCOT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113767
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | BBC ONE WALES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197557
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | BBC ONE LONDON
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197555
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | BBC ONE NORTHERN IRELAND
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197556
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | BBC TWO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197561
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | BBC BRIT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197558
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | BBC EARTH
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197560
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | BBC LIFESTYLE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197559
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | BBC PARLIAMENT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197551
+#EXTINF:0 tvg-id="CITV.uk" group-title="UK | HD GENERAL",UK | CITV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113734
+#EXTINF:0 tvg-id="RTENewsNow.ie" group-title="UK | HD GENERAL",UK | RTE NEWS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113747
+#EXTINF:0 tvg-id="Eden.uk" group-title="UK | HD GENERAL",UK | EDEN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113819
+#EXTINF:0 tvg-id="BLAZE.uk" group-title="UK | HD GENERAL",UK | BLAZE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113820
+#EXTINF:0 tvg-id="Universal.uk" group-title="UK | HD GENERAL",UK | UNIVERSAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113822
+#EXTINF:0 tvg-id="TCM.uk" group-title="UK | HD GENERAL",UK | TCM
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113823
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | LIFE TIME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113824
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | UTV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113826
+#EXTINF:0 tvg-id="AMC.uk" group-title="UK | HD GENERAL",UK | AMC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113827
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | WWE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113828
+#EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="UK | HD GENERAL",UK | DMAX
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113838
+#EXTINF:0 tvg-id="Quest.uk" group-title="UK | HD GENERAL",UK | QUEST
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113846
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | ARISE NEWS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187096
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | BLOOMBERG+ 4K
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187099
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | CGTN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187104
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | CLUBBING TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187105
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | CNN INT. (UK)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187106
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | CRIME TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187109
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187113
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | FILMON 360
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187120
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | GUSTOTV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187125
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | HALA LONDON
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187126
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | HORSE AND COUNTRY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187127
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | INSIGHT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187130
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | INTROUBLE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187131
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | INWILD
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187132
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | INWONDER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187133
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | MY5 GP'S
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187154
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | REAL STORIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187163
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | SOFY TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187175
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | SPARK TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187177
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | SPOTLIGHT TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187180
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | TIME LINE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187192
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | RTE ONE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190827
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | RTE TWO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190828
+#EXTINF:0 tvg-id="Sky2.uk" group-title="UK | HD GENERAL",UK | SKY 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190860
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | PICK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190861
+#EXTINF:0 tvg-id="ext" group-title="UK | HD GENERAL",UK | TG4
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190862
+#EXTINF:0 tvg-id="CITV.uk" group-title="UK | HD GENERAL",UK | CITV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190863
+
+#EXTINF:0 tvg-id="PBS.uk" group-title="US | USA PBS NETWORK",UK | PBS AMERICA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187156
+
+#EXTINF:0 tvg-id="ext" group-title="UK | HD ENTERTAINMENT",UK | ## |ENTERTAINMENT| ##
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/182545
+#EXTINF:0 tvg-id="ext" group-title="UK | HD ENTERTAINMENT",UK | 5 SELECT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197566
+#EXTINF:0 tvg-id="5star.uk" group-title="UK | HD ENTERTAINMENT",UK | 5 STAR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113829
+#EXTINF:0 tvg-id="ext" group-title="UK | HD ENTERTAINMENT",UK | 5 USA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113833
+#EXTINF:0 tvg-id="CBSAction.uk" group-title="UK | HD ENTERTAINMENT",UK | CBS ACTION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197569
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="UK | HD ENTERTAINMENT",UK | CBS DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113854
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="UK | HD ENTERTAINMENT",UK | CBS DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197568
+#EXTINF:0 tvg-id="CBSReality.uk" group-title="UK | HD ENTERTAINMENT",UK | CBS REALITY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113855
+#EXTINF:0 tvg-id="CBSReality.uk" group-title="UK | HD ENTERTAINMENT",UK | CBS REALITY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197567
+#EXTINF:0 tvg-id="ext" group-title="UK | HD ENTERTAINMENT",UK | CBS JUSTICE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113853
+#EXTINF:0 tvg-id="Challenge.uk" group-title="UK | HD ENTERTAINMENT",UK | CHALLENGE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113859
+#EXTINF:0 tvg-id="Dave.uk" group-title="UK | HD ENTERTAINMENT",UK | DAVE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12437
+#EXTINF:0 tvg-id="ext" group-title="UK | HD ENTERTAINMENT",UK | GOLD
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12440
+#EXTINF:0 tvg-id="E.uk" group-title="UK | HD ENTERTAINMENT",UK | E!
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12442
+#EXTINF:0 tvg-id="ext" group-title="UK | HD ENTERTAINMENT",UK | MORE 4
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12443
+#EXTINF:0 tvg-id="PBS.uk" group-title="UK | HD ENTERTAINMENT",UK | PBS AMERICA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113840
+#EXTINF:0 tvg-id="PickTV.uk" group-title="UK | HD ENTERTAINMENT",UK | PICK TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197570
+#EXTINF:0 tvg-id="Quest.uk" group-title="UK | HD ENTERTAINMENT",UK | QUEST
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/80313
+#EXTINF:0 tvg-id="ext" group-title="UK | HD ENTERTAINMENT",UK | QUEST RED
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113847
+#EXTINF:0 tvg-id="Really.uk" group-title="UK | HD ENTERTAINMENT",UK | REALLY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113863
+#EXTINF:0 tvg-id="ext" group-title="UK | HD ENTERTAINMENT",UK | SONY MOVIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113881
+#EXTINF:0 tvg-id="ext" group-title="UK | HD ENTERTAINMENT",UK | TRUE MOVIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190864
+#EXTINF:0 tvg-id="Universal.uk" group-title="UK | HD ENTERTAINMENT",UK | UNIVERSAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197564
+#EXTINF:0 tvg-id="ext" group-title="UK | HD ENTERTAINMENT",UK | UTV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/80316
+#EXTINF:0 tvg-id="W.uk" group-title="UK | HD ENTERTAINMENT",UK | WATCH
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197565
+#EXTINF:0 tvg-id="Yesterday.uk" group-title="UK | HD ENTERTAINMENT",UK | YESTERDAY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113858
+#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="UK | HD ENTERTAINMENT",UK | SKY ATLANTIC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/62147
+#EXTINF:0 tvg-id="ext" group-title="UK | HD ENTERTAINMENT",UK | SKY ARTS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113884
+#EXTINF:0 tvg-id="ext" group-title="UK | HD ENTERTAINMENT",UK | SKY WITNESS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12448
+#EXTINF:0 tvg-id="QVC.uk" group-title="UK | HD ENTERTAINMENT",UK | QVC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197571
+#EXTINF:0 tvg-id="QVCExtra.uk" group-title="UK | HD ENTERTAINMENT",UK | QVC EXTRA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197572
+#EXTINF:0 tvg-id="QVCStyle.uk" group-title="UK | HD ENTERTAINMENT",UK | QVC STYLE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197573
+#EXTINF:0 tvg-id="TLC.uk" group-title="UK | HD ENTERTAINMENT",UK | TLC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12449
+#EXTINF:0 tvg-id="ext" group-title="UK | HD ENTERTAINMENT",UK | BBC ENTERTAINMENT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/18634
+#EXTINF:0 tvg-id="FX.uk" group-title="UK | HD ENTERTAINMENT",UK | FOX
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12439
+#EXTINF:0 tvg-id="ext" group-title="UK | HD ENTERTAINMENT",UK | S4C
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/80314
+#EXTINF:0 tvg-id="ext" group-title="UK | HD ENTERTAINMENT",UK | DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113857
+#EXTINF:0 tvg-id="ext" group-title="UK | HD ENTERTAINMENT",UK | MAGIC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113860
+#EXTINF:0 tvg-id="ext" group-title="UK | HD ENTERTAINMENT",UK | WONDER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187199
+#EXTINF:0 tvg-id="ext" group-title="UK | HD ENTERTAINMENT",UK | FASHION TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187119
+#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="UK | HD ENTERTAINMENT",UK | FOOD NETWORK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190832
+#EXTINF:0 tvg-id="ext" group-title="UK | HD ENTERTAINMENT",UK | PARAMOUNT NETWORK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/80312
+#EXTINF:0 tvg-id="ext" group-title="UK | HD ENTERTAINMENT",UK | CRIME & INVESTIGATION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/80318
+
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MOVIES",UK | ## |MOVIES| ##
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/182546
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MOVIES",UK | SKY CINEMA ACTION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113865
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MOVIES",UK | SKY COMEDY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12472
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MOVIES",UK | SKY FAMILY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12474
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MOVIES",UK | SKY CINEMA PREMIERE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12476
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MOVIES",UK | SKY SCI-FI & HORROR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12480
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MOVIES",UK | SKY DISNEY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12473
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MOVIES",UK | HORROR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113888
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MOVIES",UK | SKY THRILLER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113868
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MOVIES",UK  | SKY DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190865
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MOVIES",UK | SKY DRAMA & ROMANCE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/63062
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MOVIES",UK | SKY HITS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/80309
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MOVIES",UK | TCM HD
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197574
+#EXTINF:0 tvg-id="Film4.uk" group-title="UK | HD MOVIES",UK | FILM 4
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113887
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MOVIES",UK | SKY SELECT/OSCARS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113867
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MOVIES",UK | SKY ONE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113885
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MOVIES",UK | GOLD
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113886
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MOVIES",UK | COMEDY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187107
+
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",## PLUTO ##
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/215606
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANDROMEDA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190105
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIME ALL DAY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190106
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | AWESOMENESS TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190108
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BEAUTY AND THE GEEK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190109
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BEVERLY HILLBILLIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190110
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CHEDDAR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190111
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CLUBBING TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190112
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DOG THE BOUNTY HUNTER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190114
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FAILARMY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190116
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FEAR FACTOR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190117
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FIFTH GEAR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190118
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GET.FACTUAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190120
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GLORY KICKBOXING
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190121
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GUSTO TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190122
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | HOMES UNDER HAMMER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190124
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | HUNTER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190125
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | INSIGHT TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190128
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | JUDGE NOSEY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190130
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MINECRAFTV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190133
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MST3K
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190134
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MY5 CRIME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190136
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NATURESCAPE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190137
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PEOPLE ARE AWESOME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190139
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PLUTO TV ACTION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190140
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PLUTO TV ANIMALS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190141
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PLUTO TV CONSPIRACY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190147
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PLUTO TV DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190152
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PLUTO TV HER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190159
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PLUTO TV HISTORY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190160
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PLUTO TV ROMANCE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190171
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PLUTO TV SCI-FI
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190172
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PLUTO TV SPORTS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190175
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PLUTO TV WEDDINGS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190180
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | STRONGMAN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190184
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | VOYAGER DOCUMENTARIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190192
+#EXTINF:0 tvg-id="History.uk" group-title="UK | HD PLUTO TV",UK | HISTORY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238127
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PARANORMAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238128
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIME ALL DAY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238129
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MY5 GP'S
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238130
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TV CONSPIRACY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238131
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TV NICK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238132
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TV Crime
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238133
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TV MOTOR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238134
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TV FOOD
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238135
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | RETRO DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238136
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | RETRO DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238137
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MY5 DOCUMENTARIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238138
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TV FOOD
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238139
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TV CRIME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238140
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CRIME INVESTIGATION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238141
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV CRIBS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238142
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV ORIGINALS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238143
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV CATFISH
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238144
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV CRIBS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238145
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TV CINE DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238146
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CINE COMDIA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238147
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK |  TV CRIME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238149
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIM ALL DAY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238150
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PARANORMAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238151
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | INVESTIGAO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238152
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | VIDA REAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238153
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FILMES AO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238154
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CINE FAMLIA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238155
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",Cine Drama
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238156
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NATUREZA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238157
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CINE COMDIA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238158
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238160
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NICK UKRAINE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238163
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PLUTO 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238164
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | G4 SELECT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238166
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MOVIE CHANNEL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238177
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | EN DIRECTO EN VIVO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238178
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK |  RETR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238179
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK |  SRIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238180
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK |  SONY CANAL COMEDIAS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238181
+#EXTINF:0 tvg-id="History.uk" group-title="UK | HD PLUTO TV",UK |  HISTORY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238182
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK |  JUNIOR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238183
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK |  MTV CRIBS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238184
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK |  PARANORMAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238185
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK |  TRULY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238186
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK |  CRIME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238187
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK |  PRIVACY POLICY 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238188
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK |  PRIVACY POLICY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238189
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK |  ESR 24/7
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238190
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | AFTER SCHOOL CARTOONS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238191
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",70S CINEMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238192
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | 80S REWIND UK |
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238193
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PLUTO 80S REWIND
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238194
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | 90S THROWBACK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238195
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | 90120
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238196
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PLUTO ADVENTURE TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238197
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | AFV TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238198
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PLUTO ALL REALITY BY WE TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238199
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ALL REALITY BY WE TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238200
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | AMERICAN GLADIATORS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238201
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | AMERICAN GLADIATORS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238202
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | AMERICA'S TEST KITCHEN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238203
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",AMERICA'S TEST KITCHEN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238204
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | AMERICA'S TEST KITCHEN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238205
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANA Y LOS 7
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238206
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIME ALL DAY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238207
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIME ALL DAY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238208
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANTIQUES ROADSHOW UK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238209
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANTIQUES ROADSHOW UK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238210
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | AUTO MOTOR SPORT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238211
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | AUTO MOTOR SPORT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238212
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | AWESOMENESS TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238213
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | AWESOMENESS TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238214
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | AWESOMENESS TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238215
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BAYWATCH
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238216
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BAYWATCH
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238217
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",BBC DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238218
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BBC FOOD
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238219
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BBC HOME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238220
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BELLATOR MMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238221
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BELLATOR MMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238222
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BET CLASSICS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238223
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BET CLASSICS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238224
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BET
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238225
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BET
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238226
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BET
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238227
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BET HER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238228
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BET HER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238229
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BEVERLY HILLBILLIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238230
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BEVERLY HILLBILLIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238231
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BEYBLADE BURST NICK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238232
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BEYBLADE BURST NICK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238233
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BLACK CINEMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238234
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BLACK CINEMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238235
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BLACK CINEMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238236
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BLACK INK CREW
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238237
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BLACK INK CREW
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238238
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BLACK NEWS CHANNEL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238239
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BLAZE LIVE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238240
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BLAZE NICK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238241
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BLAZE NICK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238242
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BLOOMBERG TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238243
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BLUE'S CLUES NICK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238244
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BLUE'S CLUES NICK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238245
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",BOB L'PONGE+
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238246
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BOB L'PONGE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238247
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BOB L'PONGE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238248
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",BOUNCE XL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238249
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BUZZR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238250
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BUZZR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238251
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",CATS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238252
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",CATS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238253
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",CATS (UK)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238254
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CBSN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238255
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CBSN BAY AREA CA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238256
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CBSN BOSTON MA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238257
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CBSN CHICAGO IL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238258
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CBSN DENVER CO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238259
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CBSN LOS ANGELES CA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238260
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CBSN MINNESOTA MN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238261
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CBSN NEW YORK NY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238262
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CBSN PHILLY PA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238263
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CBSN PITTSBURGH PA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238264
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CHASSY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238265
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CHASSY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238266
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",CHEDDAR NEWS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238267
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CHEDDAR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238268
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CHEDDAR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238269
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CINE TERROR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238270
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CINE TERROR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238271
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CINE TERROR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238272
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CLASSIC MOVIES (ENGLAND)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238273
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CLASSIC MOVIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238274
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CLASSIC MOVIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238275
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CLASSIC TOONS TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238276
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CLASSIC TOONS TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238277
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CLASSIC TV COMEDY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238278
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CLASSIC TV COMEDY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238279
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CLASSIC TV DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238280
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CLASSIC TV DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238281
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CLASSIC TV DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238282
+#EXTINF:0 tvg-id="ClubbingTV.pt" group-title="UK | HD PLUTO TV",CLUBBING TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238283
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CLUBBING TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238284
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CLUBBING TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238285
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CMT EQUAL PLAY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238286
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CMT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238287
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CMT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238288
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CMT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238289
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CMT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238290
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CNET
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238291
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CNET
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238292
+#EXTINF:0 tvg-id="CNN.nws" group-title="UK | HD PLUTO TV",UK | CNN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238293
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COLD CASE FILES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238294
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COLD CASE FILES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238295
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COMBATE WORLD
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238296
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COMBATE WORLD
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238297
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",COMEDIA MADE IN SPAIN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238298
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COMEDIA (MADE IN SPAIN)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238299
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COMEDY CENTRAL ANIMATION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238300
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",COMEDY CENTRAL EAST
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238301
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COMEDY CENTRAL (MADE IN GERMANY)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238302
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COMEDY CENTRAL (MADE IN GERMANY)+
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238303
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COMEDY CENTRAL (MADE IN GERMANY)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238304
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="UK | HD PLUTO TV",UK | COMEDY CENTRAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238305
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COMEDY CENTRAL +
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238306
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="UK | HD PLUTO TV",UK | COMEDY CENTRAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238307
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="UK | HD PLUTO TV",UK | COMEDY CENTRAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238308
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COPS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238309
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COPS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238310
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COURT TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238311
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",CRIBS MAISONS DE STAR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238312
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CSI
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238313
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CSI
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238314
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",DALLAS COWBOY CHEERLEADERS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238315
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DALLAS COWBOYS CHEERLEADERS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238316
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DALLAS COWBOYS CHEERLEADERS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238317
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DARK SHADOWS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238318
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DARK SHADOWS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238319
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DEAL OR NO DEAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238320
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DEAL OR NO DEAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238321
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DEGRASSI
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238322
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DEGRASSI
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238323
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DEMAND AFRICA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238324
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",DOCTOR WHO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238325
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DOCTOR WHO CLASSIC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238326
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DOCTOR WHO CLASSIC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238327
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DOGS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238328
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DOGS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238329
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DOGS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238330
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DOGS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238331
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DOGS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238332
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DOG THE BOUNTY HUNTER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238333
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DOG THE BOUNTY HUNTER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238334
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DOG THE BOUNTY HUNTER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238335
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DORA TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238336
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DORA TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238337
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DORA TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238338
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DORA TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238339
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DORA TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238340
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DORA TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238341
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",DRAMA LIFE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238342
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NICK EMMA EINFACH MAGISCH!
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238343
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NICK EMMA EINFACH MAGISCH!
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238344
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ET LIVE (1080P)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238345
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ET LIVE (1080P)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238346
+#EXTINF:0 tvg-id="Euronews.nws" group-title="UK | HD PLUTO TV",UK | EURONEWS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238347
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FAILARMY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238348
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FAILARMY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238349
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FAILARMY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238350
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FAILARMY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238351
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FAILARMY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238352
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FAILARMY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238353
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FAILARMY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238354
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FAITH TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238355
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FUEL TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238377
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FUEL TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238378
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FUNNY AF
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238379
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FUNNY AF
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238380
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GAME SHOW CENTRAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238381
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GAME SHOW CENTRAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238382
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GAMESPOT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238383
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GAMESPOT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238384
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GORDON RAMSAY'S KITCHEN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238385
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GORDON RAMSAY'S KITCHEN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238386
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | HELL'S KITCHEN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238387
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GUSTO TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238388
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | HAPPY DAYS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238389
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | HER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238390
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | HILLSONG CHANNEL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238391
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | HILLSONG CHANNEL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238392
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ICARLY+
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238393
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ICARLY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238394
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ICARLY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238395
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ICARLY NICK (GERMANY)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238396
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ICARLY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238397
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ICARLY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238398
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ICARLY+
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238399
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | IGN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238400
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | IGN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238401
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | IGN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238402
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | IGN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238403
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | IGN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238404
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | IGN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238405
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | IGN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238406
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | IMPACT WRESTLING
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238407
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | IMPACT WRESTLING
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238408
+#EXTINF:0 tvg-id="insight-tv-hd" group-title="UK | HD PLUTO TV",INSIGHT TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238409
+#EXTINF:0 tvg-id="insight-tv-hd" group-title="UK | HD PLUTO TV",INSIGHT TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238410
+#EXTINF:0 tvg-id="insight-tv-hd" group-title="UK | HD PLUTO TV",INSIGHT TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238411
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",INSTANT SAGA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238412
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",INWONDER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238413
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | JOHNNY CARSON TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238414
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | JOHNNY CARSON TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238415
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | JUDGE NOSEY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238416
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | JUDGE NOSEY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238417
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",JUSTE POUR RIRE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238418
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | KEVIN HART LOL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238419
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | KEVIN HART LOL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238420
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LITTLE BABY BUM
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238421
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LIVELY PLACE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238422
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LIVELY PLACE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238423
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LIVE MUSIC REPLAY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238424
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LIVE MUSIC REPLAY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238425
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LIVE MUSIC REPLAY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238426
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LOGO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238427
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LOGO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238428
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",LOVE AND HIP HOP
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238429
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LOVE & HIP HOP
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238430
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LOVE & HIP HOP
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238431
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LOVE NATURE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238432
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LUCHA LIBRE AAA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238433
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LUCHA LIBRE AAA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238434
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MIDSOMER MURDERS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238435
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MINECRAFTV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238436
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MINECRAFTV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238437
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MINECRAFTV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238438
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",MINECRAFTV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238439
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MINECRAFTV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238440
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MISSION: IMPOSSIBLE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238441
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MLB
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238442
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MLS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238443
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MLS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238444
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MLS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238445
+#EXTINF:0 tvg-id="MotorVision.de" group-title="UK | HD PLUTO TV",MOTORVISION TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238446
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MST3K
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238447
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MST3K
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238448
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MST3K
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238449
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV BIGGEST POP
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238450
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV BIGGEST POP
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238451
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV BIGGEST POP
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238452
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV BIGGEST POP
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238453
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV BLOCK PARTY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238454
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV BLOCK PARTY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238455
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV BLOCK PARTY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238456
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV BLOCK PARTY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238457
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV DATING
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238458
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV DATING
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238459
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV DATING
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238460
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV DATING
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238461
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV DATING
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238462
+#EXTINF:0 tvg-id="MTV.uk" group-title="UK | HD PLUTO TV",UK | MTV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238463
+#EXTINF:0 tvg-id="MTV.uk" group-title="UK | HD PLUTO TV",UK | MTV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238464
+#EXTINF:0 tvg-id="MTV.uk" group-title="UK | HD PLUTO TV",UK | MTV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238465
+#EXTINF:0 tvg-id="MTV.uk" group-title="UK | HD PLUTO TV",UK | MTV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238466
+#EXTINF:0 tvg-id="MTV.uk" group-title="UK | HD PLUTO TV",UK | MTV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238467
+#EXTINF:0 tvg-id="MTV.uk" group-title="UK | HD PLUTO TV",UK | MTV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238468
+#EXTINF:0 tvg-id="MTV.uk" group-title="UK | HD PLUTO TV",UK | MTV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238469
+#EXTINF:0 tvg-id="MTV.uk" group-title="UK | HD PLUTO TV",UK | MTV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238470
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV SPANKIN' NEW
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238471
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV SPANKIN' NEW
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238472
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | N24 DOKU
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238473
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NARCOS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238474
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NARUTO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238475
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NARUTO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238476
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NARUTO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238477
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NATURESCAPE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238478
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NATURESCAPE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238479
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NATURESCAPE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238480
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NBC NEWS NOW
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238481
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NBC NEWS NOW
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238482
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NFL CHANNEL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238483
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NFL CHANNEL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238484
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NICK CLSICO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238485
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CLASSIC NICK (BRAZIL)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238486
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NICK JR. CLUB
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238487
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NICK JR. LATINO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238488
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NICK LATINO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238489
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NICK JR. LATINO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238490
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="UK | HD PLUTO TV",UK | NICK JR.
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238491
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="UK | HD PLUTO TV",UK | NICK JR.
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238492
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="UK | HD PLUTO TV",UK | NICK JR.
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238493
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="UK | HD PLUTO TV",UK | NICK JR.
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238494
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NICK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238495
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NICK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238496
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NICK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238497
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NICK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238498
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NICK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238499
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NICK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238500
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NICK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238501
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NICK REWIND (GERMANY)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238502
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NICK REWIND
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238503
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NICKREWIND+
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238504
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NICK REWIND
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238505
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NOSEY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238506
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NOSEY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238507
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NOSEY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238508
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NUESTRA VISION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238509
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NUESTRA VISION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238510
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ONE PIECE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238511
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",PARAMOUNT MOVIE CHANNEL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238512
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PARAMOUNT MOVIE CHANNEL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238513
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PARAMOUNT MOVIE CHANNEL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238514
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PARAMOUNT+ PICKS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238515
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PEOPLE ARE AWESOME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238516
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PEOPLE ARE AWESOME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238517
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PEOPLE ARE AWESOME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238518
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PEOPLE ARE AWESOME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238519
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",PEOPLE ARE AWESOME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238520
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PEOPLE ARE AWESOME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238521
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PEOPLE ARE AWESOME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238522
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PEOPLE ARE AWESOME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238523
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PEOPLE TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238524
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PGA TOUR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238525
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PGA TOUR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238526
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ACTION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238527
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ACTION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238528
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ACTION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238529
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ACTION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238530
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ACTION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238531
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PLUTO ACTION SPORTS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238532
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ACTION SPORTS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238533
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ACTION SPORTS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238534
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ACTION SPORTS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238535
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ACTION SPORTS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238536
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANDROMEDA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238537
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANDRMEDA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238538
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIMAKIDS (SPAIN)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238539
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIMAKIDS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238540
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIMAKIDS PLUS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238541
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIMALS (ENGLAND)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238542
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIMALS+
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238543
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIMALS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238544
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIMALS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238545
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIMALS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238546
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIMALS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238547
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIMALS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238548
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIMAUX
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238549
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIME ALL AGES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238550
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIME ALL AGES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238551
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIME CLSICO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238552
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ARCHIVOS FORENSES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238553
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ASESINATOS DE MIDSOMER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238554
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | AS PISTAS DE BLUE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238555
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | AVATAR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238556
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | A VIDA MODERNA DE ROCKO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238557
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BACKCOUNTRY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238558
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BACKCOUNTRY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238559
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BEAUTY AND THE GEEK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238560
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BEST LIFE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238561
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BEST LIFE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238562
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BIG TIME RUSH
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238563
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BIOGRAPHY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238564
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BOB ESPONJA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238565
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BOB ESPONJA PLUS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238566
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BOXING
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238567
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BRITISH TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238568
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BRITISH TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238569
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BUBBLE GUPPIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238570
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | BUBBLE GUPPIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238571
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CARS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238572
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CARS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238573
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CATFISH
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238574
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CATFISH
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238575
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CATFISH
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238576
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",CATS (DE)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238577
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",CATS (DE)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238578
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CELEBRITY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238579
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CELEBRITY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238580
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CHEFKOCH
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238581
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CHEFKOCH
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238582
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CIENCIA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238583
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CINE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238584
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CINE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238585
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CIN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238586
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CIN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238587
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CINE ACCIN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238588
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CINE ACCIN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238589
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CINE ACCIN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238590
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CINE CLSICO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238591
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CINE ESTELAR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238592
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CINE ESTELAR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238593
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CINE ESTELAR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238594
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CIN+
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238595
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CIN RTRO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238596
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CIN RTRO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238597
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CLASSIC TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238598
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CLASSIC TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238599
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CMT WESTERNS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238600
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COCINA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238601
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COCINA (SPAIN)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238602
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COCINA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238603
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COCINA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238604
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COMDIE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238605
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COMDIE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238606
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COMEDY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238607
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COMEDY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238608
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COMEDY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238609
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COMEDY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238610
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COMEDY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238611
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COMEDY CENTRAL LATINO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238612
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | COMEDY CENTRAL LATINO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238613
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CRIME DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238614
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CRIME DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238615
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CRIME INVESTIGATION 360
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238616
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CRIME MOVIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238617
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CUISINE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238618
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CUISINE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238619
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CULT FILMS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238620
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CULT FILMS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238621
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CULT FILMS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238622
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CURRO JIMNEZ
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238623
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DARK MATTER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238624
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DARK MATTER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238625
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DATING
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238626
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DEADLY WOMEN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238627
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DOCUMENTARIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238628
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DOCUMENTARIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238629
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DOCUMENTARIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238630
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DOCUMENTARIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238631
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DOCUMENTARIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238632
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DOSSIERS FBI
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238633
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DOSSIERS FBI
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238634
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DOSSIERS FBI
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238635
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DRAMA+
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238636
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238637
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DRAMA+
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238638
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238639
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238640
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238641
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238642
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238643
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238644
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DRAMA LIFE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238645
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DRAMA LIFE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238646
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DRAMA (ENGLAND)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238647
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DUCK DYNASTY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238648
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | EL CONQUISTADOR DEL FIN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238649
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | EL ENCANTADOR DE PERROS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238650
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | EXPLORE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238651
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | EXTRME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238652
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | EXTRME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238653
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FAMILY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238654
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FANTASTIC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238655
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FANTASTIC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238656
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FANTASTIC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238657
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FASHION TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238658
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FBI FILES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238659
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FIFTH GEAR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238660
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FISHING
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238661
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FITNESS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238662
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FITNESS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238663
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FITNESS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238664
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FOCUS TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238665
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FOCUS TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238666
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FULL CUSTOM GARAGE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238667
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GAMER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238668
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GAMER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238669
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GAMING TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238670
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GAMING TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238671
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GARFIELD
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238672
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GET.FACTUAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238673
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GHOST DIMENSION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238674
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GHOST HUNTERS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238675
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GLORY KICKBOXING
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238676
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GLORY KICKBOXING
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238677
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GLORY KICKBOXING
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238678
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GLORY KICKBOXING
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238679
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GLORY KICKBOXING
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238680
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | GO DIEGO GO!
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238681
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | HEALTH
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238682
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | HLNE ET LES GARONS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238683
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | HOGAR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238684
+#EXTINF:0 tvg-id="Home.uk" group-title="UK | HD PLUTO TV",UK | HOME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238685
+#EXTINF:0 tvg-id="Home.uk" group-title="UK | HD PLUTO TV",UK | HOME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238686
+#EXTINF:0 tvg-id="Home.uk" group-title="UK | HD PLUTO TV",UK | HOME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238687
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | HOMES UNDER HAMMER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238688
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | HORROR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238689
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | HORROR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238690
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | HUNTER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238691
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ICE PILOTS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238692
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ICE PILOTS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238693
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ICE PILOTS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238694
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | INDIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238695
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | INDIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238696
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | INDIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238697
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | INSIDE (GERMANY)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238698
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | INSIDE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238699
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | INSIDE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238700
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | INSIDE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238701
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | INSPECTOR GADGET
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238702
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | INSPECTOR GADGET
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238703
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | INSPECTOR GADGET
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238704
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | INVESTIGA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238705
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | INVESTIGATION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238706
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | INVESTIGATION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238707
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | INVESTIGA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238708
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | INVESTIGATION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238709
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | KIDS ANIMATION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238710
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | KIDS ANIMATION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238711
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | KIDS ANIMATION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238712
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | KIDS ANIMATION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238713
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | KIDS COLLECTION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238714
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | KIDS COLLECTION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238715
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | KIDS SRIES+
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238716
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | KIDS SRIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238717
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | KIDS SRIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238718
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | KIDS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238719
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | KIDS (SPAIN)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238720
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | KIDS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238721
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | KIDS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238722
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | KIDS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238723
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | KIDS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238724
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | KIDS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238725
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | KIDS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238726
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LA CHICA INVISIBLE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238727
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LAS REGLAS DEL JUEGO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238728
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LE MIEL ET LES ABEILLES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238729
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LE MIRACLE DE L'AMOUR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238730
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LES CORDIER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238731
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LES CORDIER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238732
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LES FILLES D' CT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238733
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LES NOUVEAUX DETECTIVES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238734
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LES NOUVEAUX DETECTIVES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238735
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LIVE IN CONCERT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238736
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LIVES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238737
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LIVES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238738
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LIVES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238739
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LIVES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238740
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LIVES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238741
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LOS ARCHIVOS DEL FBI
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238742
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LOS NUEVOS DETECTIVES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238743
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LOUIS LA BROCANTE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238744
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LOUIS LA BROCANTE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238745
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LOVE STORIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238746
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LOVE STORIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238747
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MADE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238748
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MADE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238749
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MADE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238750
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MADE IN BRITAIN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238751
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MCLEOD'S DAUGHTERS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238752
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MILITARY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238753
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MILITARY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238754
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MOVIES+
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238755
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MOVIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238756
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MOVIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238757
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MOVIES (ENGLAND)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238758
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MOVIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238759
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MOVIES CH
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238760
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MOVIES (GERMANY)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238761
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV ARE YOU THE ONE?
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238762
+#EXTINF:0 tvg-id="MTVClassic.uk" group-title="UK | HD PLUTO TV",UK | MTV CLASSIC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238763
+#EXTINF:0 tvg-id="MTVClassic.uk" group-title="UK | HD PLUTO TV",UK | MTV CLASSIC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238764
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV EMBARAZADA A LOS 16
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238765
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV EN VIVO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238766
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV (GERMANY)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238767
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV LATINO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238768
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV LATINO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238769
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV LOVE MUSIC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238770
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV MUSIC MADE IN SPAIN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238771
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV ORIGINALS (SPAIN)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238772
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV REALITIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238773
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV RIDICULOUSNESS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238774
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV TATTOO A DOS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238775
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV TEEN MOM
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238776
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV TEEN MOM
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238777
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV THE HILLS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238778
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV THE HILLS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238779
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV THE SHORES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238780
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV THE SHORES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238781
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV UNPLUGGED
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238782
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MUNDO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238783
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MUNDO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238784
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MUNDO REAL (SPAIN)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238785
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MUNDO REAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238786
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MUTANTE X
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238787
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MUTANT X
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238788
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MY5 CRIME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238789
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MYTHBUSTERS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238790
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NATURALEZA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238791
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NATURALEZA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238792
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NATURE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238793
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NATURE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238794
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NATURE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238795
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NEWS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238796
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NEWS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238797
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NOVELAS DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238798
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NOVELAS DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238799
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NOVELAS DRAMAS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238800
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NOVELAS ROMANCE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238801
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NOVELAS ROMANCE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238802
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NOVELAS ROMANCE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238803
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NOVELAS THRILLER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238804
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NOVELAS THRILLER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238805
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PISTAS DE BLUE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238806
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PLANETA JUNIOR TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238807
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PLUS BELLE LA VIE+
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238808
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PLUS BELLE LA VIE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238809
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PLUS BELLE LA VIE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238810
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PORTA DOS FUNDOS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238811
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PRO WRESTLING
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238812
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | QWEST TV JAZZ & BEYOND
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238813
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | REALITIES ESP
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238814
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | REALITIES ESP
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238815
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | REALITY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238816
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | REALITY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238817
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | REALITY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238818
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | RETRO TOONS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238819
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | RETRO TOONS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238820
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | RETRO TOONS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238821
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | RETRO TOONS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238822
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ROMANCE (ENGLAND)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238823
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ROMANCE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238824
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ROMANCE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238825
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ROMANCE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238826
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ROMANCE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238827
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ROMANCE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238828
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ROMANCE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238829
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | RUGRATS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238830
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SABRINA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238831
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SABRINA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238832
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SABRINA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238833
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SAM & CAT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238834
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SCIENCE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238835
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SCIENCE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238836
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SCIENCE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238837
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SCI-FI
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238838
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SCI-FI
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238839
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SCI-FI
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238840
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SCI-FI
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238841
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SECRET DEALERS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238842
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SENSING MURDER
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238843
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SERIES COMEDIA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238844
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SHERLOCK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238845
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SITCOMS+
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238846
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SITCOMS (GERMANY)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238847
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SITCOMS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238848
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SITCOMS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238849
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SPACE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238850
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SPIKE AVENTURA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238851
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SPIKE AVENTURA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238852
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SPONGEBOB SCHWAMMKOPF (GERMANY)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238853
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SPONGEBOB SCHWAMMKOPF
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238854
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SPONGEBOB SCHWAMMKOPF
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238855
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SPORTS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238856
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SPORTS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238857
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SPORTS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238858
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SPORTS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238859
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SPORTS (ENGLAND)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238860
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SPORTS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238861
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SPORTS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238862
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SPOTLIGHT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238863
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SPOTLIGHT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238864
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | STAFF PICKS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238865
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | STAND UP
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238866
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | STAND UP
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238867
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | STAND UP
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238868
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | STORAGE WARS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238869
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | STORAGE WARS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238870
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | STRONGMAN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238871
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | STRONGMAN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238872
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | STRONGMAN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238873
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SURF
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238874
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SURF
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238875
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SUSPENSE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238876
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SUSPENSE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238877
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TEEN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238878
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TEEN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238879
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TEEN SERIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238880
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TEEN SERIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238881
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TEEN STARS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238882
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TELEMUNDO TELENOVELAS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238883
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TELEMUNDO TELENOVELAS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238884
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TELENOVELA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238885
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TELENOVELA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238886
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TELENOVELAS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238887
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TERROR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238888
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TERROR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238889
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE PRICE IS RIGHT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238890
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE SIMPLE LIFE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238891
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE STORY OF BEATCLUB
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238892
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE STORY OF BEATCLUB
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238893
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE WALKING DEAD ESP
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238894
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE WALKING DEAD ESP
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238895
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THRILLERS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238896
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THRILLERS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238897
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THRILLERS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238898
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THRILLERS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238899
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THRILLERS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238900
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THRILLERS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238901
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TOONS CLSICO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238902
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TORTUES NINJA TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238903
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TORTUES NINJA TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238904
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TRAVEL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238905
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TRAVEL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238906
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TRAVEL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238907
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TROL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238908
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TROL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238909
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TROL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238910
+#EXTINF:0 tvg-id="SonyCrimeChannel2.uk" group-title="UK | HD PLUTO TV",UK | TRUE CRIME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238911
+#EXTINF:0 tvg-id="SonyCrimeChannel2.uk" group-title="UK | HD PLUTO TV",UK | TRUE CRIME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238912
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TURMA DA MNICA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238913
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TWEEN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238914
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TWEEN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238915
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | UNBEATEN ESPORTS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238916
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | UNDERCOVER BOSS GLOBAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238917
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | VAYA SEMANITA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238918
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | VH1 CLASSICS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238919
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | VICTORIOUS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238920
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | WEDDINGS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238923
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | WEDDINGS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238924
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | WEDDINGS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238925
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | WESTERNS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238926
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | WESTERNS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238927
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | WESTERNS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238928
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | WINGS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238929
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | WIPEOUT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238930
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | WIPEOUT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238931
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | WIPEOUT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238932
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | YOGA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238933
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | YOGA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238934
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | YOGA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238935
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | YO! MTV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238936
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | YO! MTV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238937
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | YO! MTV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238938
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | YO! MTV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238939
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | POCKET.WATCH
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238940
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | POCKET.WATCH
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238941
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | POLICE WOMEN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238942
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PURSUIT UP
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238943
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | RESCUE 911
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238944
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | RESCUE 911
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238945
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | RIFFTRAX
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238946
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | RIFFTRAX
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238947
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | RIFFTRAX
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238948
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SHOUT! FACTORY TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238949
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SHOWTIME SELECT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238950
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SKILLS + THRILLS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238951
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SLIGHTLY OFF BY IFC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238952
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SLIGHTLY OFF BY IFC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238953
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SLOW TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238954
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SLOW TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238955
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SLOW TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238956
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SMITHSONIAN CHANNEL SELECTS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238957
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",SPIKE ADVENTURA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238958
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SPIKE OUTDOORS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238959
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SPIKE OUTDOORS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238960
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | STAR TREK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238961
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | QELLO CONCERTS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238962
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | STORIES BY AMC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238963
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | STORIES BY AMC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238964
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SURVIVOR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238965
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | SURVIVOR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238966
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TASTEMADE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238967
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TBN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238968
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TBN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238969
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TEENNICK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238970
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE ADDAMS FAMILY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238971
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE ADDAMS FAMILY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238972
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE AMAZING RACE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238973
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE AMAZING RACE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238974
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",THE ASYLUM
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238975
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",THE ASYLUM
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238976
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE ASYLUM
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238977
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE ASYLUM
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238978
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE ASYLUM
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238979
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE BOB ROSS CHANNEL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238980
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE CAROL BURNETT SHOW
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238981
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE CAROL BURNETT SHOW
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238982
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE CHALLENGE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238983
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE CHALLENGE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238984
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE DESIGN NETWORK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238985
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE FIRST
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238986
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE LOVE BOAT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238987
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",THE NEW DETECTIVES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238988
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE NEW DETECTIVES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238989
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE NEW DETECTIVES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238990
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE NEW DETECTIVES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238991
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",THE PET COLLECTIVE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238992
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE PET COLLECTIVE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238993
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE PET COLLECTIVE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238994
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE PET COLLECTIVE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238995
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE PET COLLECTIVE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238996
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE PET COLLECTIVE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238997
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE PET COLLECTIVE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238998
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE PET COLLECTIVE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/238999
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE RIFLEMAN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239000
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THE RIFLEMAN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239001
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THIS OLD HOUSE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239002
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THIS OLD HOUSE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239003
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THREE'S COMPANY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239004
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | THREE'S COMPANY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239005
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TINY HOUSE NATION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239006
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TODAY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239007
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TODAY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239008
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TOKUSHOUTSU
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239009
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TOKUSHOUTSU
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239010
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",TOP GEAR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239011
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TOSH.0
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239012
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TOSH.0
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239013
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TOTALLY TURTLES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239014
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TOTALLY TURTLES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239015
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TOTALLY TURTLES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239016
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TOTALLY TURTLES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239017
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TV LAND DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239018
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TV LAND DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239019
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TV LAND SITCOMS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239020
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TV LAND SITCOMS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239021
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | LAND SITCOMS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239022
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | TYT NETWORK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239023
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | UNSOLVED MYSTERIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239024
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | UNSOLVED MYSTERIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239025
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | UNSOLVED MYSTERIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239026
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | VEVO 2K
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239027
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | VEVO 70'S (1080P)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239028
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | VEVO 80'S (1080P)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239029
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | VEVO 90'S (1080P)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239030
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | VEVO COUNTRY (1080P)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239031
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | VEVO POP (1080P)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239032
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | VEVO POP (1080P)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239033
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | VEVO R&B (1080P)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239034
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | VEVO REGGEATON & TRAP (1080P)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239035
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | VH1 HIP HOP FAMILY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239036
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | VH1 HIP HOP FAMILY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239037
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | VH1 I LOVE REALITY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239038
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | VH1 I LOVE REALITY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239039
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | VOYAGER DOCUMENTARIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239040
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | VOYAGER DOCUMENTARIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239041
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | VOYAGER DOCUMENTARIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239042
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | WILD 'N OUT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239043
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | WILD 'N OUT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239044
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | WILD 'N OUT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239045
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | WORLD POKER TOUR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239046
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | WORLD POKER TOUR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239047
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | WORLD POKER TOUR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239048
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | WORLD POKER TOUR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239049
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | WORLD POKER TOUR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239050
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | WORLD POKER TOUR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239051
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | WORLD POKER TOUR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239052
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | YU-GI-OH
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239053
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MY5 GP'S (ENGLAND)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239054
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CRIME TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239055
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CONSPIRACY (ENGLAND)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239056
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PARANORMAL (ENGLAND)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239057
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | INSIDE (ENGLAND)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239058
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MOTOR (ENGLAND)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239059
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | RETRO DRAMA (ENGLAND)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239060
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MY5 DOCUMENTARIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239061
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CRIME (ENGLAND)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239062
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV CLASSICS+
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239063
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV CATFISH+
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239064
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CRIME+
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239065
+#EXTINF:0 tvg-id="History.uk" group-title="UK | HD PLUTO TV",UK | HISTORY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239066
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",INSIGHT+
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239067
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PARANORMAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239068
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MOVIES+ (CH)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239069
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="UK | HD PLUTO TV",UK | COMEDY CENTRAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239070
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIMALS (GERMANY)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239071
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | HISTORY (GERMANY)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239072
+#EXTINF:0 tvg-id="History.uk" group-title="UK | HD PLUTO TV",UK | HISTORY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239073
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV CATFISH (GERMANY)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239074
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV CATFISH
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239075
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | DRAMA (GERMANY)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239076
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | FOOD
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239077
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | EN DIRECTO EN VIVO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239078
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | RETRO DRAMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239079
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CRIME
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239080
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV CATFISH+
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239081
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV CRIBS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239082
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NICK (GERMANY)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239083
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV CRIBS+
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239084
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV CATFISH (SPAIN)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239085
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MTV CRIBS (SPAIN)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239086
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ROCKOS MODERN LIFE (BRAZIL)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239087
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | JUNIOR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239088
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | CINMA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239089
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | ANIM ALL DAY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239090
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PARANORMAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239091
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | NICK JR. CLUB (BRAZIL)
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239092
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PARANORMAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239093
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",PARAMOUNT PLUS PICKS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239094
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PLUTO AFTER SCHOOL CARTOONS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239095
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | JUNIOR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239096
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | JUNIOR
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239097
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PARANORMAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239098
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | PARANORMAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/239099
+#EXTINF:0 tvg-id="ext" group-title="UK | HD PLUTO TV",UK | MY5 DOCUMENTARIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187153
+
+#EXTINF:0 tvg-id="avi" group-title="UK | MOVIES",[ENG] Blow (2001)
+http://mag.abcdxyz.one:80/movie/lOKaeqL57z/4Kt7t4S7TM/254992.mkv
+
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",## SP?RT ##
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/215607
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SKY SPORTS NEWS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/104178
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="UK | 4K SPORTS",UK |  SKY SPORTS F1
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190839
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK |  SKY SPORTS F1 BACKUP 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/220721
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="UK | 4K SPORTS",UK | SKY SPORTS FOOTBALL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/104189
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="UK | 4K SPORTS",UK | SKY  SPORTS MIX
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190843
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="UK | 4K SPORTS",UK |  SKY SPORTS ARENA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190837
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SKY SPORTS NFL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190844
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="UK | 4K SPORTS",UK | SKY SPORTS MIX
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/104181
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SKY SPORTS GOLF
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201126
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SKY SPORTS GOLF BACKUP
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/220716
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SKY SPORTS GOLF BACKUP 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/220717
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SKY SPORTS RACING
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113499
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="UK | 4K SPORTS",UK | SKY SPORTS ARENA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/104199
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="UK | 4K SPORTS",UK | SKY SPORTS CRICKET
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201112
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="UK | 4K SPORTS",UK | SKY SPORTS ACTION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201118
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="UK | 4K SPORTS",UK | SKY SPORTS MAIN EVENT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/104183
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="UK | 4K SPORTS",UK | SKY SPORTS MAIN EVENT BACKUP
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/220719
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SKY SPORTS MAIN EVENT BACKUP 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/220720
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="UK | 4K SPORTS",UK | SKY SPORTS PREMIER LEAGUE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/104175
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SKY SPORTS RACING 1
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187171
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SKY SPORTS RACING 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187172
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="UK | 4K SPORTS",UK | BT SPORT ESPN
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/104169
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="UK | 4K SPORTS",UK | BT SPORT ESPN BACKUP
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201136
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | BT SPORTS 1
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/104162
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | BT SPORT 1
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201129
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | BT SPORT 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/104164
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | BT SPORT 3
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/104167
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | BT SPORT EXTRA 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201137
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | BT SPORT EXTRA 3
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201138
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | BT SPORT EXTRA 4
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201139
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | BT SPORT EXTRA 5
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201140
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SUPERSPORT PSL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201143
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SUPERSPORT ACTION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201151
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SUPERSPORT RUGBY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201153
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SUPERSPORT CRICKET
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201154
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SUPERSPORT BLITZ
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201156
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SUPERSPORT GOLF
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201159
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SUPERSPORT PLAY 1
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201160
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SUPERSPORT VARIETY 1
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201147
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SUPERSPORT VARIETY 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201148
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SUPERSPORT VARIETY 3
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201149
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SUPERSPORT VARIETY 4
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201150
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SUPERSPORT FOOTBALL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201152
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SUPERSPORT PREMIER LEAGUE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201144
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SUPERSPORT GRANDSTAND
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201145
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SUPERSPORT MOTORSPORT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201146
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SUPERSPORT MAXIMO 1
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201157
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SUPERSPORT LALIGA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201142
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="UK | 4K SPORTS",UK | EUROSPORT 1
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201089
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="UK | 4K SPORTS",UK | EUROSPORT 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/217052
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | PREMIER SPORTS 1
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/104172
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | PREMIER SPORTS 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113506
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | PREMIER SPORTS 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201095
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | FREE SPORTS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197596
+#EXTINF:0 tvg-id="eirSport1.ie" group-title="UK | 4K SPORTS",UK | EIR SPORT 1
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190846
+#EXTINF:0 tvg-id="eirSport2.ie" group-title="UK | 4K SPORTS",UK | EIR SPORT 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190847
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | MU TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190848
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | LFC TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201166
+#EXTINF:0 tvg-id="BoxNation.uk" group-title="UK | 4K SPORTS",UK | BOXNATION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113906
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | RACING TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190835
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | RED BULL TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187164
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | EDGE SPORT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187115
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | FREESPORT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201091
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | MOTOR TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201092
+#EXTINF:0 tvg-id="BoxNation.uk" group-title="UK | 4K SPORTS",UK | BOXNATION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201164
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | FREESPORTS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201165
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | SPORTS TONIGHT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187182
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | THE TENNIS CHANNEL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187191
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | BEIN SPORTS 1
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190196
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | BEIN SPORTS 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190197
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | BEIN SPORTS 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201075
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | BEIN SPORTS 3
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190198
+#EXTINF:0 tvg-id="ext" group-title="UK | 4K SPORTS",UK | BEIN SPORTS USA
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/201088
+
+#EXTINF:0 tvg-id="ext" group-title="UK | HD HORSE RACING",## HOURSE RACING ##
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/215608
+#EXTINF:0 tvg-id="ext" group-title="UK | HD HORSE RACING",UK | HORSE & COUNTRY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/209872
+#EXTINF:0 tvg-id="ext" group-title="UK | HD HORSE RACING",UK | DUBAI RACING 1
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/209873
+#EXTINF:0 tvg-id="ext" group-title="UK | HD HORSE RACING",UK | DUBAI RACING 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/209874
+#EXTINF:0 tvg-id="ext" group-title="UK | HD HORSE RACING",UK | DUBAI RACING 3
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/209875
+
+#EXTINF:0 tvg-id="ext" group-title="UK | VIAPLAY SPORT",## UK VIAPLAY ##
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/220840
+#EXTINF:0 tvg-id="ext" group-title="UK | VIAPLAY SPORT",UK | VIAPLAY NFL 1
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/220830
+#EXTINF:0 tvg-id="ext" group-title="UK | VIAPLAY SPORT",UK | VIAPLAY SPORT 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/220831
+#EXTINF:0 tvg-id="ext" group-title="UK | VIAPLAY SPORT",UK | VIAPLAY SPORT 3
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/220832
+#EXTINF:0 tvg-id="ext" group-title="UK | VIAPLAY SPORT",UK | VIAPLAY SPORT 4
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/220833
+#EXTINF:0 tvg-id="ext" group-title="UK | VIAPLAY SPORT",UK | VIAPLAY SPORT 5
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/220834
+#EXTINF:0 tvg-id="ext" group-title="UK | VIAPLAY SPORT",UK | VIAPLAY SPORT 6
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/220835
+#EXTINF:0 tvg-id="ext" group-title="UK | VIAPLAY SPORT",UK | VIAPLAY SPORT 7
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/220836
+#EXTINF:0 tvg-id="ext" group-title="UK | VIAPLAY SPORT",UK | VIAPLAY SPORT 8
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/220837
+#EXTINF:0 tvg-id="ext" group-title="UK | VIAPLAY SPORT",UK | VIAPLAY SPORT 9
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/220838
+#EXTINF:0 tvg-id="ext" group-title="UK | VIAPLAY SPORT",UK | VIAPLAY SPORT 10
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/220839
+
+#EXTINF:0 tvg-id="ext" group-title="UK | SPORT EVENTS",## SPFL & PPV ##
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/223147
+#EXTINF:0 tvg-id="ext" group-title="UK | SPORT EVENTS",UK | SPFL 1
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/223148
+#EXTINF:0 tvg-id="ext" group-title="UK | SPORT EVENTS",UK | SPFL 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/223149
+#EXTINF:0 tvg-id="ext" group-title="UK | SPORT EVENTS",UK | SPFL 3
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/223150
+#EXTINF:0 tvg-id="ext" group-title="UK | SPORT EVENTS",UK | SPFL 4
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/223151
+#EXTINF:0 tvg-id="ext" group-title="UK | SPORT EVENTS",UK | SPFL 5
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/223152
+#EXTINF:0 tvg-id="ext" group-title="UK | SPORT EVENTS",## BBC RED BUTTON ##
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/223160
+#EXTINF:0 tvg-id="ext" group-title="UK | SPORT EVENTS",UK | BBC RED BUTTON 1
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/223161
+#EXTINF:0 tvg-id="ext" group-title="UK | SPORT EVENTS",UK | BBC RED BUTTON 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/223162
+#EXTINF:0 tvg-id="ext" group-title="UK | SPORT EVENTS",UK | BBC RED BUTTON 3
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/223163
+#EXTINF:0 tvg-id="ext" group-title="UK | SPORT EVENTS",UK | BBC RED BUTTON 4
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/223164
+#EXTINF:0 tvg-id="ext" group-title="UK | SPORT EVENTS",UK | BBC RED BUTTON 5
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/223165
+
+#EXTINF:0 tvg-id="ext" group-title="HORSE RACING",HORSE | RACING TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/250607
+#EXTINF:0 tvg-id="ext" group-title="HORSE RACING",HORSE | HORSE AND COUNTRY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/250608
+#EXTINF:0 tvg-id="ext" group-title="HORSE RACING",HORSE | DUBAI RACING 1
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/250609
+#EXTINF:0 tvg-id="ext" group-title="HORSE RACING",HORSE | DUBAI RACING 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/250610
+#EXTINF:0 tvg-id="ext" group-title="HORSE RACING",HORSE | DUBAI RACING 3
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/250611
+#EXTINF:0 tvg-id="ext" group-title="HORSE RACING",HORSE | UNIRESAT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/250612
+#EXTINF:0 tvg-id="ext" group-title="HORSE RACING",HORSE | ATG LIVE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/250613
+#EXTINF:0 tvg-id="ext" group-title="HORSE RACING",HORSE | UNIRESAT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/250614
+#EXTINF:0 tvg-id="ext" group-title="HORSE RACING",HORSE | EQUIDIA LIVE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/250615
+#EXTINF:0 tvg-id="ext" group-title="HORSE RACING",HORSE | C MORE MAX
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/250616
+#EXTINF:0 tvg-id="ext" group-title="HORSE RACING",HORSE | BETFRED
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/250617
+#EXTINF:0 tvg-id="ext" group-title="HORSE RACING",HORSE | RIKSTOTO DIREKT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/250618
+
+#EXTINF:0 tvg-id="ext" group-title="UK | HD DOCUMENTARY",UK | ## |DOCUMENTARY| ##
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/182548
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="UK | HD DOCUMENTARY",UK | DISCOVERY TURBO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113898
+#EXTINF:0 tvg-id="DiscoveryHistory.uk" group-title="UK | HD DOCUMENTARY",UK | DISCOVERY HISTORY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12508
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="UK | HD DOCUMENTARY",UK | DISCOVERY SCIENCE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113896
+#EXTINF:0 tvg-id="Discovery.uk" group-title="UK | HD DOCUMENTARY",UK | DISCOVERY CHANNEL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12509
+#EXTINF:0 tvg-id="ext" group-title="UK | HD DOCUMENTARY",UK | NAT GEO WILD
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12512
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="UK | HD DOCUMENTARY",UK | ANIMAL PLANET
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113890
+#EXTINF:0 tvg-id="TravelChannel.uk" group-title="UK | HD DOCUMENTARY",UK | TRAVEL CHANNEL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113900
+#EXTINF:0 tvg-id="ext" group-title="UK | HD DOCUMENTARY",UK | CRIME INVESTIGATION
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113901
+#EXTINF:0 tvg-id="History.uk" group-title="UK | HD DOCUMENTARY",UK | HISTORY CHANNEL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/68774
+#EXTINF:0 tvg-id="ext" group-title="UK | HD DOCUMENTARY",UK | HISTORY 2
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/68775
+#EXTINF:0 tvg-id="ext" group-title="UK | HD DOCUMENTARY",UK | HORSE & COUNTRY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197584
+#EXTINF:0 tvg-id="ext" group-title="UK | HD DOCUMENTARY",UK | INVESTIGATION DISCOVERY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197585
+#EXTINF:0 tvg-id="ext" group-title="UK | HD DOCUMENTARY",UK | PARAMOUNT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197587
+#EXTINF:0 tvg-id="ext" group-title="UK | HD DOCUMENTARY",UK | SYFY
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12519
+#EXTINF:0 tvg-id="ext" group-title="UK | HD DOCUMENTARY",UK | SPOTLIGHT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197586
+#EXTINF:0 tvg-id="ext" group-title="UK | HD DOCUMENTARY",UK | LOVE NATURE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113893
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="UK | HD DOCUMENTARY",UK | NATIONAL GEOGRAPHIC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12513
+#EXTINF:0 tvg-id="ext" group-title="UK | HD DOCUMENTARY",UK | SKY NATURE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197583
+
+#EXTINF:0 tvg-id="ext" group-title="UK | HD KIDS",UK | ## |KIDS| ##
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/182549
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="UK | HD KIDS",UK | NICK JR.
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/63082
+#EXTINF:0 tvg-id="ext" group-title="UK | HD KIDS",UK | NICK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/80306
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="UK | HD KIDS",UK | BABY TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113809
+#EXTINF:0 tvg-id="CBeebies.uk" group-title="UK | HD KIDS",UK | CBEEBIES
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113806
+#EXTINF:0 tvg-id="ext" group-title="UK | HD KIDS",UK | POP TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197578
+#EXTINF:0 tvg-id="ext" group-title="UK | HD KIDS",UK | POP MAX
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113815
+#EXTINF:0 tvg-id="tinypop.uk" group-title="UK | HD KIDS",UK | TINY POP
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113817
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="UK | HD KIDS",UK | DISNEY XD
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190851
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="UK | HD KIDS",UK | NICKTOONS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/80307
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="UK | HD KIDS",UK | CARTOONITO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113810
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="UK | HD KIDS",UK | BOOMERANG
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113804
+#EXTINF:0 tvg-id="Disney.uk" group-title="UK | HD KIDS",UK | DISNEY CHANNEL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12423
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="UK | HD KIDS",UK | COMEDY CENTRAL
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12426
+#EXTINF:0 tvg-id="ext" group-title="UK | HD KIDS",UK | NICK JUNIOR TOO
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113811
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="UK | HD KIDS",UK | CARTOON NETWORK
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/12422
+
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MUSIC",UK | ## |MUSIC| ##
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/182550
+#EXTINF:0 tvg-id="Kiss.uk" group-title="UK | HD MUSIC",UK | KISS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113700
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MUSIC",UK | MAGIC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197577
+#EXTINF:0 tvg-id="4Music.uk" group-title="UK | HD MUSIC",UK | 4MUSIC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197582
+#EXTINF:0 tvg-id="TheBox.uk" group-title="UK | HD MUSIC",UK | THE BOX
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197580
+#EXTINF:0 tvg-id="MTV.uk" group-title="UK | HD MUSIC",UK | MTV FHD
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113686
+#EXTINF:0 tvg-id="MTVHits.uk" group-title="UK | HD MUSIC",UK | MTV HITS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113692
+#EXTINF:0 tvg-id="MTVBase.uk" group-title="UK | HD MUSIC",UK | MTV BASE
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113688
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MUSIC",UK | BOX HITS
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197581
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MUSIC",UK | KERRANG!
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197576
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MUSIC",UK | V2BEAT TV
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/187198
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MUSIC",UK | CLUBLAND
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/197575
+#EXTINF:0 tvg-id="MTVMusic.uk" group-title="UK | HD MUSIC",UK | MTV MUSIC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113695
+#EXTINF:0 tvg-id="MTVClassic.uk" group-title="UK | HD MUSIC",UK | MTV CLASSIC
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113690
+#EXTINF:0 tvg-id="ext" group-title="UK | HD MUSIC",UK | TRACE VAULT
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113696
+

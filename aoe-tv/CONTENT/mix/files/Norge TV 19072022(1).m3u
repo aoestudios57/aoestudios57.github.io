@@ -1,0 +1,136 @@
+#EXTM3U
+#EXTINF:0 tvg-id="NRK1.no" group-title="Channels",NRK 1 HD NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/5171
+#EXTINF:0 tvg-id="NRK2.no" group-title="Channels",NRK 2 NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/5170
+#EXTINF:0 tvg-id="ext" group-title="Channels",NRK 3/Super HD NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/13196
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Norge HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/6440
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV2 Norge HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/683263
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV2 Norge NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/6439
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV2 Zebra HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/688011
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV2 Nyhetskanalen HD NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/6438
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV 2 Nyhetskanalen HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673323
+#EXTINF:0 tvg-id="TV3.no" group-title="Channels",TV3 Norge NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/5197
+#EXTINF:0 tvg-id="ext" group-title="Channels",V4 FHD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/688014
+#EXTINF:0 tvg-id="ext" group-title="Channels",V4 HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/688015
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV 6 Norge NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/13180
+#EXTINF:0 tvg-id="ext" group-title="Channels",VGTV HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/688032
+#EXTINF:0 tvg-id="ext" group-title="Channels",Matkanalen HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/688025
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal 10 Norge NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/13188
+#EXTINF:0 tvg-id="ext" group-title="Channels",Visjon Norge VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673332
+#EXTINF:0 tvg-id="ext" group-title="Channels",Stortinget HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673331
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rikstoto Direkte HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/688009
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? NO Sports ???
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/683917
+#EXTINF:0 tvg-id="ext" group-title="Channels",VSport 1 FHD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673316
+#EXTINF:0 tvg-id="ext" group-title="Channels",VSport 2 FHD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673317
+#EXTINF:0 tvg-id="ext" group-title="Channels",VSport 3 FHD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673318
+#EXTINF:0 tvg-id="ext" group-title="Channels",VSport Golf FHD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/688031
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV 2 Sport 1 VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673321
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV 2 Sport 2 VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673322
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV 2 Sport Premium FHD NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/677922
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV 2 Sport Premium HD NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/687923
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV 2 Sport Premium 2 HD NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/693981
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eurosport Norge FHD NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/678457
+#EXTINF:0 tvg-id="ext" group-title="Channels",EuroSport Pluss 1 HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673303
+#EXTINF:0 tvg-id="ext" group-title="Channels",EuroSport Pluss 2 HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/693930
+#EXTINF:0 tvg-id="ext" group-title="Channels",EuroSport Pluss 3 HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673305
+#EXTINF:0 tvg-id="ext" group-title="Channels",EuroSport Pluss 4 HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673306
+#EXTINF:0 tvg-id="ext" group-title="Channels",EuroSport Pluss 5 HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/688034
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? NO Movies & Series ???
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/683918
+#EXTINF:0 tvg-id="ext" group-title="Channels",C More First FHD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/686649
+#EXTINF:0 tvg-id="ext" group-title="Channels",C More Series FHD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673339
+#EXTINF:0 tvg-id="ext" group-title="Channels",C More Stars FHD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/686650
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? NO Documentary ???
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/683920
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Channel FHD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673338
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Channel FHD NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/13195
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Science FHD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/688020
+#EXTINF:0 tvg-id="ext" group-title="Channels",History Channel FHD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/688023
+#EXTINF:0 tvg-id="ext" group-title="Channels",History2 Channel FHD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/688024
+#EXTINF:0 tvg-id="ext" group-title="Channels",Animal Planet FHD NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/688016
+#EXTINF:0 tvg-id="ext" group-title="Channels",Viasat History HD NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673340
+#EXTINF:0 tvg-id="ext" group-title="Channels",Viasat Nature HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673342
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLC HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/688027
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC Earth HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/688018
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? NO Entertainment ???
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/683921
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fem HD NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/12885
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fem FHD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673324
+#EXTINF:0 tvg-id="ext" group-title="Channels",Max Norway FHD NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/6472
+#EXTINF:0 tvg-id="ext" group-title="Channels",Max HD NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/5192
+#EXTINF:0 tvg-id="ext" group-title="Channels",Max HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673327
+#EXTINF:0 tvg-id="ext" group-title="Channels",VOX FHD NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/6415
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC Brit HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/688017
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV2 Livsstil HD NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/53574
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV2 Livsstil NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/13185
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673330
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? NO Children ???
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/683922
+#EXTINF:0 tvg-id="ext" group-title="Channels",Boomerang HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/688019
+#EXTINF:0 tvg-id="ext" group-title="Channels",Disney Channel VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673336
+#EXTINF:0 tvg-id="ext" group-title="Channels",Disney Jr HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/688021
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nickelodeon VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673334
+#EXTINF:0 tvg-id="ext" group-title="Channels",NickToons VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673337
+

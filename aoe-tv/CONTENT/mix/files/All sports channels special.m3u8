@@ -1,0 +1,154 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="48105" tvg-name="Star Sports 1 HD" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_1.png" tvg-chno="4935" group-title="Hindi - Indian - FULL",Star Sports 1 HD
+https://akiliv.herokuapp.com/app/master.php?id=48105&e=.m3u8
+#EXTINF:-1 tvg-id="51218" tvg-name="Star Sports Hindi 1 HD" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_1.png" tvg-chno="4973" group-title="Hindi - Indian - FULL",Star Sports Hindi 1 HD
+https://akiliv.herokuapp.com/app/master.php?id=51218&e=.m3u8
+#EXTINF:-1 tvg-id="18181" tvg-name="Star Sports 2 HD" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTS1.png" tvg-chno="5305" group-title="Sport - Indian",Star Sports 2 HD
+https://akiliv.herokuapp.com/app/master.php?id=18181&e=.m3u8
+#EXTINF:-1 tvg-id="14000" tvg-name="Star Sports 1 HD" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTS1.png" tvg-chno="5306" group-title="Sport - Indian",Star Sports 1 HD
+https://akiliv.herokuapp.com/app/master.php?id=14000&e=.m3u8
+#EXTINF:-1 tvg-id="48103" tvg-name="Star Sports 2 HD" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_2.png" tvg-chno="5308" group-title="Sport - Indian - FULL",Star Sports 2 HD
+https://akiliv.herokuapp.com/app/master.php?id=48103&e=.m3u8
+#EXTINF:-1 tvg-id="48105" tvg-name="Star Sports 1 HD" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_1.png" tvg-chno="5309" group-title="Sport - Indian - FULL",Star Sports 1 HD
+https://akiliv.herokuapp.com/app/master.php?id=48105&e=.m3u8
+#EXTINF:-1 tvg-id="48106" tvg-name="Star Sports 1 English HD" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTS1.png" tvg-chno="5310" group-title="Sport - Indian - FULL",Star Sports 1 English HD
+https://akiliv.herokuapp.com/app/master.php?id=48106&e=.m3u8
+#EXTINF:-1 tvg-id="48110" tvg-name="Star Sports 1 Select HD" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTSELECT1.png" tvg-chno="5311" group-title="Sport - Indian - FULL",Star Sports 1 Select HD
+https://akiliv.herokuapp.com/app/master.php?id=48110&e=.m3u8
+#EXTINF:-1 tvg-id="48111" tvg-name="Star Sports 2 Select HD" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTSELECT2.png" tvg-chno="5312" group-title="Sport - Indian - FULL",Star Sports 2 Select HD
+https://akiliv.herokuapp.com/app/master.php?id=48111&e=.m3u8
+#EXTINF:-1 tvg-id="48114" tvg-name="Star Sports 3 " tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_3.png" tvg-chno="5313" group-title="Sport - Indian - FULL",Star Sports 3 
+https://akiliv.herokuapp.com/app/master.php?id=48114&e=.m3u8
+#EXTINF:-1 tvg-id="48120" tvg-name="Star Sports First" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTSFIRST1.png" tvg-chno="5314" group-title="Sport - Indian - FULL",Star Sports First
+https://akiliv.herokuapp.com/app/master.php?id=48120&e=.m3u8
+#EXTINF:-1 tvg-id="48155" tvg-name="SONY TEN 1 HD" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Sony_Ten_11.png" tvg-chno="5315" group-title="Sport - Indian - FULL",SONY TEN 1 HD
+https://akiliv.herokuapp.com/app/master.php?id=48155&e=.m3u8
+#EXTINF:-1 tvg-id="48148" tvg-name="SONY TEN 2 HD" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Sony_Ten_31.png" tvg-chno="5316" group-title="Sport - Indian - FULL",SONY TEN 2 HD
+https://akiliv.herokuapp.com/app/master.php?id=48148&e=.m3u8
+#EXTINF:-1 tvg-id="48162" tvg-name="SONY TEN 3 HD" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/sportten3.png" tvg-chno="5317" group-title="Sport - Indian - FULL",SONY TEN 3 HD
+https://akiliv.herokuapp.com/app/master.php?id=48162&e=.m3u8
+#EXTINF:-1 tvg-id="51244" tvg-name="SONY TEN 1 FHD" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Sony_Ten_11.png" tvg-chno="5318" group-title="Sport - Indian - FULL",SONY TEN 1 FHD
+https://akiliv.herokuapp.com/app/master.php?id=51244&e=.m3u8
+#EXTINF:-1 tvg-id="51232" tvg-name="SONY TEN 2 FHD" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Sony_Ten_31.png" tvg-chno="5319" group-title="Sport - Indian - FULL",SONY TEN 2 FHD
+https://akiliv.herokuapp.com/app/master.php?id=51232&e=.m3u8
+#EXTINF:-1 tvg-id="51245" tvg-name="SONY TEN 3 FHD " tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/sportten3.png" tvg-chno="5320" group-title="Sport - Indian - FULL",SONY TEN 3 FHD 
+https://akiliv.herokuapp.com/app/master.php?id=51245&e=.m3u8
+#EXTINF:-1 tvg-id="48154" tvg-name="SONY Six HD" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Sportsonysx1.png" tvg-chno="5321" group-title="Sport - Indian - FULL",SONY Six HD
+https://akiliv.herokuapp.com/app/master.php?id=48154&e=.m3u8
+#EXTINF:-1 tvg-id="51218" tvg-name="Star Sports Hindi 1 HD" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_1.png" tvg-chno="5322" group-title="Sport - Indian - FULL",Star Sports Hindi 1 HD
+https://akiliv.herokuapp.com/app/master.php?id=51218&e=.m3u8
+#EXTINF:-1 tvg-id="51240" tvg-name="Star Sports Hindi 1 FHD" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_1.png" tvg-chno="5323" group-title="Sport - Indian - FULL",Star Sports Hindi 1 FHD
+https://akiliv.herokuapp.com/app/master.php?id=51240&e=.m3u8
+#EXTINF:-1 tvg-id="51241" tvg-name="Star Sports 1 FHD" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_1.png" tvg-chno="5324" group-title="Sport - Indian - FULL",Star Sports 1 FHD
+https://akiliv.herokuapp.com/app/master.php?id=51241&e=.m3u8
+#EXTINF:-1 tvg-id="51242" tvg-name="Star Sports 2 FHD" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_2.png" tvg-chno="5325" group-title="Sport - Indian - FULL",Star Sports 2 FHD
+https://akiliv.herokuapp.com/app/master.php?id=51242&e=.m3u8
+#EXTINF:-1 tvg-id="51243" tvg-name="SONY Six FHD" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Sportsonysx1.png" tvg-chno="5326" group-title="Sport - Indian - FULL",SONY Six FHD
+https://akiliv.herokuapp.com/app/master.php?id=51243&e=.m3u8
+#EXTINF:-1 tvg-id="51222" tvg-name="EuroSport" tvg-country="IN" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/eurosport-asia-fr.png" tvg-chno="5327" group-title="Sport - Indian - FULL",EuroSport
+https://akiliv.herokuapp.com/app/master.php?id=51222&e=.m3u8
+#EXTINF:-1,CRIC || WILLOW CRICKET HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/91910
+#EXTINF:-1,CRIC || WILLOW CRICKET (HEVC)
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/108555
+#EXTINF:-1,CRIC || WILLOW CRICKET HD+
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/113956
+#EXTINF:-1,CRIC || SKY SPORTS CRICKET-4K
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/112093
+#EXTINF:-1,CRIC || SKY SPORTS CRICKET HD (HEVC)
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/122826
+#EXTINF:-1,CRIC || SKY SPORTS CRICKET HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/91911
+#EXTINF:-1,CRIC || BeIN CRICKET  HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/91928
+#EXTINF:-1,CRIC || SUPER SPORTS CRICKET
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/141073
+#EXTINF:-1,CRIC || SUPER SPORT CRICKET 4K
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/102560
+#EXTINF:-1,CRIC || BT SPORTS 1 HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/112429
+#EXTINF:-1,CRIC || BT SPORTS 2 HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/111525
+#EXTINF:-1,CRIC || FOX CRICKET HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/91912
+#EXTINF:-1,CRIC || ASTRO CRICKET HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/91929
+#EXTINF:-1,CRIC ||  WILLOW XTRA HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/77295
+#EXTINF:-1,CRIC || SONY SIX HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/85765
+#EXTINF:-1,CRIC || SONY SIX-HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/91913
+#EXTINF:-1,CRIC || SONY SIX-4K
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/108251
+#EXTINF:-1,CRIC || STAR SPORT 1 HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/85757
+#EXTINF:-1,CRIC || STAR SPORT 1-HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/91915
+#EXTINF:-1,CRIC || STAR SPORT 1-HD (TATA)
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/118904
+#EXTINF:-1,CRIC || STAR SPORT 1- 4K
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/91925
+#EXTINF:-1,CRIC || STAR SPORT 2 HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/85758
+#EXTINF:-1,CRIC || STAR SPORT 2-HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/91916
+#EXTINF:-1,CRIC || STAR SPORT 2-HD (TATA)
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/118903
+#EXTINF:-1,CRIC || STAR SPORT 2-4K
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/91926
+#EXTINF:-1,CRIC || STAR SPORT 1 HD (hindi)
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/85759
+#EXTINF:-1,CRIC || STAR SPORT 1-HD (hindi)
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/91927
+#EXTINF:-1,CRIC || STAR SPORT 1-HD (hindi) ( TATA)
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/118902
+#EXTINF:-1,CRIC || STAR SPORT 1-4K (hindi)
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/102521
+#EXTINF:-1,CRIC || STAR SPORTS SELECT 1-4K
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/108277
+#EXTINF:-1,CRIC || STAR SPORTS SELECT 2-4K
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/108278
+#EXTINF:-1,CRIC || STAR SPORTS SELECT 1 HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/56363
+#EXTINF:-1,CRIC || STAR SPORTS SELECT 2 HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/56235
+#EXTINF:-1,CRIC || STAR SPORT 1 HD (Tamil)
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/108265
+#EXTINF:-1,CRIC || STAR SPORT 3
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/92289
+#EXTINF:-1,CRIC || SONY TEN 1 HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/85761
+#EXTINF:-1,CRIC || SONY TEN 2 HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/85762
+#EXTINF:-1,CRIC || SONY TEN 3 HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/85763
+#EXTINF:-1,CRIC || SONY TEN 1-4K
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/108258
+#EXTINF:-1,CRIC || SONY TEN 2-4K
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/108259
+#EXTINF:-1,CRIC || SONY TEN 3-4K
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/108260
+#EXTINF:-1,CRIC || SONY TEN 4-4k
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/86857
+#EXTINF:-1,CRIC || SPORTS 18 HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/108276
+#EXTINF:-1,CRIC || A SPORTS HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/115458
+#EXTINF:-1,CRIC || A SPORTS-4K
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/123666
+#EXTINF:-1,CRIC || PTV SPORTS HD
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/91914
+#EXTINF:-1,CRIC || PTV SPORTS-4k
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/56452
+#EXTINF:-1,CRIC || TEN SPORTS
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/91923
+#EXTINF:-1,CRIC || TEN SPORTS-4K
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/122885
+#EXTINF:-1,CRIC || GEO SUPER
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/91959
+#EXTINF:-1,CRIC || GEO-SUPER
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/56328
+#EXTINF:-1,CRIC || DD SPORTS
+http://tv.zaintv.net:80/SRv5pmYi6l/jcXpe49G8r/145018
+#EXTINF:-1,CRIC || T-SPORTS HD

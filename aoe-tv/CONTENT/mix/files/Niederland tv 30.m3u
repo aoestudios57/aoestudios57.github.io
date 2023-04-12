@@ -1,0 +1,236 @@
+#EXTM3U
+#EXTINF:0 tvg-id="NPO1.nl" group-title="Channels",NPO 1 HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/13128
+#EXTINF:0 tvg-id="NPO1.nl" group-title="Channels",NPO 1 NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5131
+#EXTINF:0 tvg-id="NPO2.nl" group-title="Channels",NPO 2 FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/6466
+#EXTINF:0 tvg-id="NPO2.nl" group-title="Channels",NPO 2 HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5130
+#EXTINF:0 tvg-id="NPO3.nl" group-title="Channels",NPO 3 HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/6465
+#EXTINF:0 tvg-id="NPO3.nl" group-title="Channels",NPO 3 FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5129
+#EXTINF:0 tvg-id="ext" group-title="Channels",NPO 1 Extra NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11447
+#EXTINF:0 tvg-id="NPOPolitiek101.nl" group-title="Channels",NPO Politiek NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5126
+#EXTINF:0 tvg-id="RTL4.nl" group-title="Channels",RTL 4 FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/12820
+#EXTINF:0 tvg-id="RTL4.nl" group-title="Channels",RTL 4 HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11403
+#EXTINF:0 tvg-id="RTL4.nl" group-title="Channels",RTL 4 NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5124
+#EXTINF:0 tvg-id="RTL5.nl" group-title="Channels",RTL 5 FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/6464
+#EXTINF:0 tvg-id="RTL5.nl" group-title="Channels",RTL 5 HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11402
+#EXTINF:0 tvg-id="RTL5.nl" group-title="Channels",RTL 5 NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5123
+#EXTINF:0 tvg-id="SBS6.nl" group-title="Channels",SBS 6 FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/6462
+#EXTINF:0 tvg-id="SBS6.nl" group-title="Channels",SBS 6 HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5116
+#EXTINF:0 tvg-id="ext" group-title="Channels",Net 5 FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5134
+#EXTINF:0 tvg-id="ext" group-title="Channels",Net 5 HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/6468
+#EXTINF:0 tvg-id="RTL7.nl" group-title="Channels",RTL 7 FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5122
+#EXTINF:0 tvg-id="RTL7.nl" group-title="Channels",RTL 7 HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11401
+#EXTINF:0 tvg-id="RTL8.nl" group-title="Channels",RTL 8 FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/12821
+#EXTINF:0 tvg-id="RTL8.nl" group-title="Channels",RTL 8 NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5121
+#EXTINF:0 tvg-id="ext" group-title="Channels",SBS 9 HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5115
+#EXTINF:0 tvg-id="ext" group-title="Channels",Disney XD / Veronica FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/6425
+#EXTINF:0 tvg-id="AT5.nl" group-title="Channels",AT5 NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5162
+#EXTINF:0 tvg-id="ext" group-title="Channels",L1 Limburg NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11419
+#EXTINF:0 tvg-id="ext" group-title="Channels",Omroep Brabant TV FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11414
+#EXTINF:0 tvg-id="ext" group-title="Channels",Omroep Gold HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11393
+#EXTINF:0 tvg-id="Flevoland.nl" group-title="Channels",Omroep Flevoland NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11413
+#EXTINF:0 tvg-id="OmroepZeeland.nl" group-title="Channels",Omroep Zeeland NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11409
+#EXTINF:0 tvg-id="ext" group-title="Channels",Omrop Fryslan FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11408
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV 7 HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11399
+#EXTINF:0 tvg-id="RTVDrenthe.nl" group-title="Channels",RTV Drenthe NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5117
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV Noord NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/13107
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV Connect NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11388
+#EXTINF:0 tvg-id="RTVOost.nl" group-title="Channels",TV Oost NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5104
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Rijnmond NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11390
+#EXTINF:0 tvg-id="ext" group-title="Channels",Family7 NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11422
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? NL Sports ???
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/683257
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ziggo Sport HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11387
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ziggo Sport Tennis FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/625239
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ziggo Sport Tennis HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5110
+#EXTINF:0 tvg-id="ZiggoSportRacing.nl" group-title="Channels",Ziggo Sport Voetbal HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5112
+#EXTINF:0 tvg-id="ZiggoSportGolf.nl" group-title="Channels",Ziggo Sport Golf FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5114
+#EXTINF:0 tvg-id="ZiggoSportGolf.nl" group-title="Channels",Ziggo Sport Golf HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/6460
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ziggo Sport Racing FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/13119
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ziggo Sport Racing HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5111
+#EXTINF:0 tvg-id="ZiggoSportSelect.nl" group-title="Channels",Ziggo Sport Select FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/53267
+#EXTINF:0 tvg-id="ZiggoSportSelect.nl" group-title="Channels",Ziggo Sport Select HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5113
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/6487
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5143
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/6486
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5142
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 3 FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/6485
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 3 HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5141
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 4 FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/64848
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 4 HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/514522
+#EXTINF:0 tvg-id="Eurosport1.nl" group-title="Channels",Eurosport 1 FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11444
+#EXTINF:0 tvg-id="Eurosport1.nl" group-title="Channels",Eurosport 1 HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11445
+#EXTINF:0 tvg-id="Eurosport2.nl" group-title="Channels",Eurosport 2 FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11443
+#EXTINF:0 tvg-id="ExtremeSports.nl" group-title="Channels",Extreme Sports NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11442
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? NL Movies & Series ???
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/683258
+#EXTINF:0 tvg-id="Film1Premiere.nl" group-title="Channels",Film 1 Premiere FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/6490
+#EXTINF:0 tvg-id="Film1Premiere.nl" group-title="Channels",Film 1 Premiere HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5147
+#EXTINF:0 tvg-id="ext" group-title="Channels",Film 1 Family NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5148
+#EXTINF:0 tvg-id="ext" group-title="Channels",Film 1 Action FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/6492
+#EXTINF:0 tvg-id="Film1Action.nl" group-title="Channels",Film 1 Action NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5149
+#EXTINF:0 tvg-id="ext" group-title="Channels",Film 1 Drama FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/13122
+#EXTINF:0 tvg-id="ext" group-title="Channels",Film 1 Drama NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5146
+#EXTINF:0 tvg-id="ComedyCentral.nl" group-title="Channels",Comedy Central NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5158
+#EXTINF:0 tvg-id="ComedyCentralXtra.nl" group-title="Channels",Comedy Central Extra NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5157
+#EXTINF:0 tvg-id="RTLLounge.nl" group-title="Channels",RTL Lounge NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5120
+#EXTINF:0 tvg-id="RTLZ.nl" group-title="Channels",RTL Z NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5118
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTL Crime HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11435
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5144
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/6489
+#EXTINF:0 tvg-id="ext" group-title="Channels",Shorts TV HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5105
+#EXTINF:0 tvg-id="ONS.nl" group-title="Channels",ONS NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11407
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? NL Documentary ???
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/683259
+#EXTINF:0 tvg-id="Discovery.nl" group-title="Channels",Discovery Channel NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5155
+#EXTINF:0 tvg-id="DiscoveryID.nl" group-title="Channels",Investigation Discovery FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5154
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Science HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11426
+#EXTINF:0 tvg-id="NGC.nl" group-title="Channels",National Geographic FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/12818
+#EXTINF:0 tvg-id="NGC.nl" group-title="Channels",National Geographic HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5136
+#EXTINF:0 tvg-id="NGCWild.be" group-title="Channels",Nat Geo Wild FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5135
+#EXTINF:0 tvg-id="NGCWild.be" group-title="Channels",Nat Geo Wild HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/13116
+#EXTINF:0 tvg-id="AnimalPlanet.nl" group-title="Channels",Animal Planet HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11438
+#EXTINF:0 tvg-id="ext" group-title="Channels",Paramount Network FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/13125
+#EXTINF:0 tvg-id="ext" group-title="Channels",Crime and Investigation NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5159
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC First HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/648286
+#EXTINF:0 tvg-id="HistoryHD.be" group-title="Channels",History FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11439
+#EXTINF:0 tvg-id="HistoryHD.be" group-title="Channels",History HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11440
+#EXTINF:0 tvg-id="ext" group-title="Channels",Horse & Country TV NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11421
+#EXTINF:0 tvg-id="ext" group-title="Channels",24 Kitchen HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5164
+#EXTINF:0 tvg-id="ext" group-title="Channels",E! Entertainment HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/13113
+#EXTINF:0 tvg-id="TLC.nl" group-title="Channels",TLC NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5107
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? NL Children ???
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/683260
+#EXTINF:0 tvg-id="BabyTV.nl" group-title="Channels",Baby TV NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5163
+#EXTINF:0 tvg-id="DisneyChannel.nl" group-title="Channels",Disney Channel FHD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5153
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nickelodeon NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5133
+#EXTINF:0 tvg-id="NickToons.nl" group-title="Channels",NickToons NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5132
+#EXTINF:0 tvg-id="NickJr.nl" group-title="Channels",Nick JR NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11433
+#EXTINF:0 tvg-id="CartoonNetwork.nl" group-title="Channels",Cartoon Network NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5160
+#EXTINF:0 tvg-id="Boomerang.nl" group-title="Channels",Boomerang NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5161
+#EXTINF:0 tvg-id="RTLTelekids.nl" group-title="Channels",RTL Telekids NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5119
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pebble TV NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11406
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? NL Music ???
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/683261
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV Hits NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5103
+#EXTINF:0 tvg-id="ext" group-title="Channels",Xite HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/5101
+#EXTINF:0 tvg-id="SLAM!TV.nl" group-title="Channels",SLAM! NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11396
+#EXTINF:0 tvg-id="ext" group-title="Channels",192 TV NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11446
+#EXTINF:0 tvg-id="TVoranje.nl" group-title="Channels",TV Oranje NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11391
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nick Music NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11434
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mezzo NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11418
+#EXTINF:0 tvg-id="ext" group-title="Channels",Stingray LiteTV NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11395
+#EXTINF:0 tvg-id="ext" group-title="Channels",Stingray iConcerts NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11420
+#EXTINF:0 tvg-id="ext" group-title="Channels",Stingray DJazz HD NL
+http://mytv.fun:80/t3quxzbhu/vztvpfoj5/11423
+

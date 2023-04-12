@@ -1,0 +1,1 @@
+http://psmtv.site:8080/get.php?username=selma&password=123456&type=m3u&output=mpegts

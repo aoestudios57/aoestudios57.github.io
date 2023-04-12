@@ -1,0 +1,78 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",La Une BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/5929
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tipik TV FHD BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/689148
+#EXTINF:0 tvg-id="LaTrois.be" group-title="Channels",La Trois BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/5927
+#EXTINF:0 tvg-id="een.be" group-title="Channels",Een FHD BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/5923
+#EXTINF:0 tvg-id="Vtm.be" group-title="Channels",VTM FHD BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/5919
+#EXTINF:0 tvg-id="ext" group-title="Channels",VTM 2 FHD BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/13428
+#EXTINF:0 tvg-id="ext" group-title="Channels",VTM 3 HD BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/5920
+#EXTINF:0 tvg-id="ext" group-title="Channels",VTM 4 FHD BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/13426
+#EXTINF:0 tvg-id="ext" group-title="Channels",Play4 FHD BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/696436
+#EXTINF:0 tvg-id="ext" group-title="Channels",Play5 FHD BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/5921
+#EXTINF:0 tvg-id="ext" group-title="Channels",Play6 BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/13413
+#EXTINF:0 tvg-id="ext" group-title="Channels",BX1 BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/13418
+#EXTINF:0 tvg-id="Canvas.be" group-title="Channels",Canvas FHD BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/5932
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Zoom HD BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/13424
+#EXTINF:0 tvg-id="RTLTVI.be" group-title="Channels",RTL TVI HD BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/5925
+#EXTINF:0 tvg-id="ext" group-title="Channels",Notele HD BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/13422
+#EXTINF:0 tvg-id="ext" group-title="Channels",LN 24 HD BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/683181
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? BE Luxembourg ???
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/684082
+#EXTINF:0 tvg-id="ext" group-title="Channels",Club RTL FHD BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/5931
+#EXTINF:0 tvg-id="ext" group-title="Channels",Plug RTL FHD LU
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/5926
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTL FHD LU
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/13414
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTL Zwee FHD LU
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/35474
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? BE Sports ???
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/684083
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven Sports 1 FHD BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/683265
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven Sports 2 FHD BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/683266
+#EXTINF:0 tvg-id="ext" group-title="Channels",Voo Sport 1 FHD BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/695660
+#EXTINF:0 tvg-id="ext" group-title="Channels",Voo Sport 2 FHD BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/695661
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? BE Movies & Series ???
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/684084
+#EXTINF:0 tvg-id="ext" group-title="Channels",AB3 BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/5935
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? BE Documentary ???
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/684085
+#EXTINF:0 tvg-id="ext" group-title="Channels",AB Explore HD BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/5934
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eclips TV BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/5933
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? BE Children ???
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/684086
+#EXTINF:0 tvg-id="ext" group-title="Channels",VTM Kids BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/13416
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ketnet HD BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/13427
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? BE Music ???
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/684087
+#EXTINF:0 tvg-id="ext" group-title="Channels",NRJ Hits HD BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/13421
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eldoradio BE
+http://mytv.fun:80/377tkhtyu/qn2aynfoqn/681653
+

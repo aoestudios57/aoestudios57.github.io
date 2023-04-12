@@ -1,0 +1,337 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS FHD" tvg-logo="http://163.123.140.162:80/images/46d4c2df3bab60bca8b25d1141235654.png" group-title="ES: Spain",ES: TOROS FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/219525.ts
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="ES: M. Formula 1 FHD" tvg-logo="http://163.123.140.162:80/images/2576dbdce64fb7cfa8459628edfd89a2.png" group-title="ES: Spain",ES: M. Formula 1 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/219546.ts
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES: M. Deportes FHD" tvg-logo="http://185.156.74.135:80/images/81d1a13337c4dc289df3c5816134c974.png" group-title="ES: Spain",ES: M. Deportes FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/219551.ts
+#EXTINF:-1 tvg-id="mdeportes2.es" tvg-name="ES: M. Deportes 2 FHD" tvg-logo="http://51.79.21.44:80/images/26bcf4140fb292bdd1bf05a13ffd5724.png" group-title="ES: Spain",ES: M. Deportes 2 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/219552.ts
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="ES: M. Deportes 1 FHD" tvg-logo="http://185.156.74.135:80/images/86a7b7906fe2f5bc5c03c195586e496d.png" group-title="ES: Spain",ES: M. Deportes 1 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/219553.ts
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="ES: M. Cine Espanol FHD" tvg-logo="http://77.247.109.54:80/images/a3458e693d8a58edccf4f676ddf3448a.png" group-title="ES: Spain",ES: M. Cine Espanol FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/219555.ts
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M La Liga FHD" tvg-logo="http://51.79.21.44:80/images/60c772509e8f00b6894a3700096613ad.png" group-title="ES: Spain",ES: M La Liga FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/219559.ts
+#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="ES: La Liga BAR FHD" tvg-logo="http://163.123.140.162:80/images/058e093d3c02873aff5e48d3adb6aee9.png" group-title="ES: Spain",ES: La Liga BAR FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/219561.ts
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: 24 Horas FHD" tvg-logo="http://185.156.74.135:80/images/d076722544de4ecd6bdc91e8c596a5f1.png" group-title="ES: Spain",ES: 24 Horas FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/219612.ts
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="ES: AXN WHITE FHD" tvg-logo="http://77.247.109.54:80/images/7695986b14f8124653967e54f68fabb5.png" group-title="ES: Cine Tv",ES: AXN WHITE FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387926.ts
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA TV" tvg-logo="http://163.123.140.162:80/images/6af1de4e08daa06dce766d790a9683fb.png" group-title="ES: Cine Tv",ES: IBERALIA TV
+http://ky-iptv.com:80/bradpitt/bradpitt/387949.ts
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ES: A3 SERIES HD" tvg-logo="http://163.123.140.162:80/images/b95dd5b9e76a5d267f07d04db7e0f35e.png" group-title="ES: Cine Tv",ES: A3 SERIES HD
+http://ky-iptv.com:80/bradpitt/bradpitt/387951.ts
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="http://185.156.74.135:80/images/e6f871bb4ea6d830ef085bd599aa8d8e.png" group-title="ES: Cine Tv",ES: HOLLYWOOD FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387957.ts
+#EXTINF:-1 tvg-id="mcinedocandroll.es" tvg-name="ES: MOVISTAR CINEDOC&ROLL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Movistar_CineDoc%26Roll.svg" group-title="ES: Cine Tv",ES: MOVISTAR CINEDOC&ROLL FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387970.ts
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: MOVISTAR COMEDIA FHD" tvg-logo="http://51.79.21.44:80/images/8fed7914539c75cff079ad13582f8c8e.png" group-title="ES: Cine Tv",ES: MOVISTAR COMEDIA FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387974.ts
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES: MOVISTAR DRAMA FHD" tvg-logo="http://185.156.74.135:80/images/d5b7bfdf0bf5fc45610411fdbe6b0f26.png" group-title="ES: Cine Tv",ES: MOVISTAR DRAMA FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387978.ts
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES: MOVISTAR ESTRENOS FHD" tvg-logo="http://77.247.109.54:80/images/1fc9b111c69812ba51ad68da1ffb8423.png" group-title="ES: Cine Tv",ES: MOVISTAR ESTRENOS FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387982.ts
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ES: MOVISTAR SERIES FHD" tvg-logo="http://51.79.21.44:80/images/ea145e98b29f3ccb26d68b18ac8e3c48.png" group-title="ES: Cine Tv",ES: MOVISTAR SERIES FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387986.ts
+#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="ES: MOVISTAR SERIESMANIA FHD" tvg-logo="http://185.156.74.135:80/images/e9d7581bdaa85400b7253f1b2e3862d3.png" group-title="ES: Cine Tv",ES: MOVISTAR SERIESMANIA FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387990.ts
+#EXTINF:-1 tvg-id="alquiler1.es" tvg-name="ES: ALQUILER 1 FHD" tvg-logo="http://77.247.109.54:80/images/0742040584c3d73d0a577610f5d0b62e.png" group-title="ES: Cine Tv",ES: ALQUILER 1 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387992.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 5 FHD" tvg-logo="http://77.247.109.54:80/images/0a768e2d7737fea3b6288287f835ce1b.png" group-title="ES: Cine Tv",ES: ALQUILER 5 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387996.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 6 FHD" tvg-logo="http://185.156.74.135:80/images/0a768e2d7737fea3b6288287f835ce1b.png" group-title="ES: Cine Tv",ES: ALQUILER 6 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387997.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 7 FHD" tvg-logo="http://77.247.109.54:80/images/0a768e2d7737fea3b6288287f835ce1b.png" group-title="ES: Cine Tv",ES: ALQUILER 7 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387998.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 9 FHD" tvg-logo="http://51.79.21.44:80/images/0a768e2d7737fea3b6288287f835ce1b.png" group-title="ES: Cine Tv",ES: ALQUILER 9 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388000.ts
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES: SYFY FHD" tvg-logo="http://51.79.21.44:80/images/6ceb5f787b8f9abc7036135cb36f1254.png" group-title="ES: Cine Tv",ES: SYFY FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388010.ts
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES: TCM FHD" tvg-logo="http://51.79.21.44:80/images/713e4e071dbf88e54a7590e4b0d4e548.png" group-title="ES: Cine Tv",ES: TCM FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388013.ts
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="ES: XTRM FHD" tvg-logo="http://163.123.140.162:80/images/2791738c659cbc24bb807b732bdcd66e.png" group-title="ES: Cine Tv",ES: XTRM FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388021.ts
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="http://77.247.109.54:80/images/d9b67854aaa1a3af50b4f58fff079678.jpg" group-title="ES: Cine Tv",ES: PARAMOUNT CHANNEL
+http://ky-iptv.com:80/bradpitt/bradpitt/388023.ts
+#EXTINF:-1 tvg-id="telemadrid.es" tvg-name="ES: TELEMADRID FHD" tvg-logo="http://51.79.21.44:80/images/8da0e6ecd51e025cf60cbd4a83e1687b.jpg" group-title="ES: Cine Tv",ES: TELEMADRID FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388027.ts
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="ES: SUNDANCE" tvg-logo="http://51.79.21.44:80/images/b5283b998da83bfe50dac94fb8608878.png" group-title="ES: Cine Tv",ES: SUNDANCE
+http://ky-iptv.com:80/bradpitt/bradpitt/388029.ts
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="ES: Movistar Cine N" tvg-logo="http://163.123.140.162:80/images/0b73758918a7e08f67713af4e6104e34.png" group-title="ES: Cine Tv",ES: Movistar Cine N
+http://ky-iptv.com:80/bradpitt/bradpitt/388032.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLARO CINEMA" tvg-logo="https://www.logo.wine/a/logo/Claro_TV/Claro_TV-Logo.wine.svg" group-title="ES: Cine Tv",ES: CLARO CINEMA
+http://ky-iptv.com:80/bradpitt/bradpitt/388034.ts
+#EXTINF:-1 tvg-id="fox.es" tvg-name="ES: FOX CINEMA FHD" tvg-logo="http://51.79.21.44:80/images/47e3bf8347cbf035d45c6fe07f730bfc.png" group-title="ES: Cine Tv",ES: FOX CINEMA FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388037.ts
+#EXTINF:-1 tvg-id="tveinteu.es" tvg-name="ES: TVE INTERNACIONAL HD" tvg-logo="http://185.156.74.135:80/images/4f3c8b7b5374164abedc0e2c9d8ee535.png" group-title="ES: Entretenimiento",ES: TVE INTERNACIONAL HD
+http://ky-iptv.com:80/bradpitt/bradpitt/388306.ts
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 FHD" tvg-logo="http://77.247.109.54:80/images/6b4d279fbcaf109de899899a55f4c63c.png" group-title="ES: Entretenimiento",ES: LA 1 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388309.ts
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 FHD" tvg-logo="http://77.247.109.54:80/images/29b1d60cb1b6fb586dedc81e098ca037.png" group-title="ES: Entretenimiento",ES: LA 2 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388313.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TAQUILLA 7 HD" tvg-logo="http://77.247.109.54:80/images/d85620e25fb1cdc51454210d4f04a692.png" group-title="ES: Entretenimiento",ES: TAQUILLA 7 HD
+http://ky-iptv.com:80/bradpitt/bradpitt/388316.ts
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3 FHD" tvg-logo="http://77.247.109.54:80/images/61549c3b426dcbcdd3f445adca8833de.png" group-title="ES: Entretenimiento",ES: ANTENA 3 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388319.ts
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO FHD" tvg-logo="http://185.156.74.135:80/images/d5d457a747a80dda9b75d55739fe72ef.png" group-title="ES: Entretenimiento",ES: CUATRO FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388325.ts
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: LA SEXTA FHD" tvg-logo="http://185.156.74.135:80/images/d5f84c269cc25b3f210bf78d2774c53a.png" group-title="ES: Entretenimiento",ES: LA SEXTA FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388333.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CGTN EN ESPAL SD" tvg-logo="http://51.79.21.44:80/images/aeff1708299fde41cc9f5e1b8d7b334c.png" group-title="ES: Entretenimiento",ES: CGTN EN ESPAL SD
+http://ky-iptv.com:80/bradpitt/bradpitt/388339.ts
+#EXTINF:-1 tvg-id="mega.es" tvg-name="ES: MEGA FHD" tvg-logo="http://185.156.74.135:80/images/f40f69cb2ef45fa562a44bbe5f9b1ffa.png" group-title="ES: Entretenimiento",ES: MEGA FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388343.ts
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="ES: BE MAD FHD" tvg-logo="http://ky-iptv.com:25461/images/af2ef1731ac19f474f0f0a21a9a1a4e4.png" group-title="ES: Entretenimiento",ES: BE MAD FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388346.ts
+#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES: DMAX SD" tvg-logo="http://185.156.74.135:80/images/36cddc1fee651281659e7f252065455f.png" group-title="ES: Entretenimiento",ES: DMAX SD
+http://ky-iptv.com:80/bradpitt/bradpitt/388348.ts
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES: DIVINITY HD" tvg-logo="http://77.247.109.54:80/images/4da0ed34f65fad7199980a871b4b3718.png" group-title="ES: Entretenimiento",ES: DIVINITY HD
+http://ky-iptv.com:80/bradpitt/bradpitt/388350.ts
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ES: ENERGY HD" tvg-logo="http://51.79.21.44:80/images/776599cb317b36d82d319451d6a09ed1.jpg" group-title="ES: Entretenimiento",ES: ENERGY HD
+http://ky-iptv.com:80/bradpitt/bradpitt/388353.ts
+#EXTINF:-1 tvg-id="nova.es" tvg-name="ES: NOVA FHD" tvg-logo="http://163.123.140.162:80/images/314e28f6d7bf32dee2aeff045e041a84.png" group-title="ES: Entretenimiento",ES: NOVA FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388360.ts
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES: CANAL ODISEA FHD" tvg-logo="http://163.123.140.162:80/images/9e89c2db239c0ec7d6bbc524eb42f234.png" group-title="ES: Entretenimiento",ES: CANAL ODISEA FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388364.ts
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES: FDF HD" tvg-logo="http://185.156.74.135:80/images/cecd6b7a6ed2545888fffd0f80212182.png" group-title="ES: Entretenimiento",ES: FDF HD
+http://ky-iptv.com:80/bradpitt/bradpitt/388367.ts
+#EXTINF:-1 tvg-id="neox.es" tvg-name="ES: NEOX FHD" tvg-logo="http://51.79.21.44:80/images/6a230bd15a4dbe210b6bcbc149029115.png" group-title="ES: Entretenimiento",ES: NEOX FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388370.ts
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="ES: TNT HEVC" tvg-logo="http://163.123.140.162:80/images/590a667eed8ac033e1fca59e23b34636.png" group-title="ES: Entretenimiento",ES: TNT HEVC
+http://ky-iptv.com:80/bradpitt/bradpitt/388373.ts
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="ES: CRIMEN INVESTIGACION HD" tvg-logo="http://185.156.74.135:80/images/7913652d97f6284cb7a854be37706111.png" group-title="ES: Entretenimiento",ES: CRIMEN INVESTIGACION HD
+http://ky-iptv.com:80/bradpitt/bradpitt/388375.ts
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES: DISCOVERY CHANNEL FHD" tvg-logo="http://77.247.109.54:80/images/a3d602a226e3c91e794b58cf3507cbcf.png" group-title="ES: Entretenimiento",ES: DISCOVERY CHANNEL FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388379.ts
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA FHD" tvg-logo="http://185.156.74.135:80/images/72c250969cb8c676a007d498aa725dfb.png" group-title="ES: Entretenimiento",ES: HISTORIA FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388383.ts
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-logo="http://77.247.109.54:80/images/7098865998dad2ade82143d97dfd0014.png" group-title="ES: Entretenimiento",ES: NATIONAL GEOGRAPHIC FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388387.ts
+#EXTINF:-1 tvg-id="canalsurandalucia.es" tvg-name="ES: CANAL SUR ANDALUC SD" tvg-logo="http://163.123.140.162:80/images/961e6893d788512dea49e39345df0fa4.png" group-title="ES: Entretenimiento",ES: CANAL SUR ANDALUC SD
+http://ky-iptv.com:80/bradpitt/bradpitt/388395.ts
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="http://163.123.140.162:80/images/38571a3b02e0ccc291d679cae44f2d7f.png" group-title="ES: Entretenimiento",ES: COMEDY CENTRAL FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388400.ts
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="ES: CANAL DECASA FHD" tvg-logo="https://lh3.googleusercontent.com/proxy/ZHZb1nIop0DUwaiDICHUJPUyPhKX9F3Ww3EY3J1iRSey8RJgqV7O8hg27HPakJ1bK8IHL9KtZ5Waxh9WuD_5lRi6mk9zvDJ09PRQIaf_ydyCjRC20mmf0yRt7e6hNUqEgf0" group-title="ES: Entretenimiento",ES: CANAL DECASA FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388404.ts
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES: COSMO FHD" tvg-logo="http://163.123.140.162:80/images/02f47fac717f860a96f399486c8b1ddd.png" group-title="ES: Entretenimiento",ES: COSMO FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388412.ts
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES: VIAJAR FHD" tvg-logo="http://51.79.21.44:80/images/43fab7e5e01ce38092985d89088522e7.png" group-title="ES: Entretenimiento",ES: VIAJAR FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388416.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV ESPANA HD" tvg-logo="http://163.123.140.162:80/images/797ebc26db4123476fc1ebaf24c2b4a8.png" group-title="ES: Musicales",ES: MTV ESPANA HD
+http://ky-iptv.com:80/bradpitt/bradpitt/389071.ts
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="ES: MTV SD" tvg-logo="http://77.247.109.54:80/images/d85bfb2ec65e77ce49be149891371bb1.png" group-title="ES: Musicales",ES: MTV SD
+http://ky-iptv.com:80/bradpitt/bradpitt/389073.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: VH1 FHD" tvg-logo="http://51.79.21.44:80/images/70a77c02998f667ed605d97a2c2ff914.png" group-title="ES: Musicales",ES: VH1 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/389074.ts
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="ES: MEZZO LIVE HEVC" tvg-logo="http://51.79.21.44:80/images/6e43015807057ada0ead58cf177f4df8.png" group-title="ES: Musicales",ES: MEZZO LIVE HEVC
+http://ky-iptv.com:80/bradpitt/bradpitt/389080.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Tele-HIT MUSIC CHANNEL" tvg-logo="http://185.156.74.135:80/images/94c564b2e59790368b67af2fbfdee017.png" group-title="ES: Musicales",ES: Tele-HIT MUSIC CHANNEL
+http://ky-iptv.com:80/bradpitt/bradpitt/389086.ts
+#EXTINF:-1 tvg-id="boing.es" tvg-name="ES: BOING HD" tvg-logo="http://51.79.21.44:80/images/8db985c9297bcc3ab8bc14c931343bd0.png" group-title="ES: Infantil",ES: BOING HD
+http://ky-iptv.com:80/bradpitt/bradpitt/389038.ts
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="ES: CLAN TVE FHD" tvg-logo="http://185.156.74.135:80/images/b3f6f8505732205861eddf1a31a13153.png" group-title="ES: Infantil",ES: CLAN TVE FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/389042.ts
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="ES: DISNEY CHANNEL FHD" tvg-logo="http://51.79.21.44:80/images/8b1d3d7b1be5c35e2a8d60486ad08850.png" group-title="ES: Infantil",ES: DISNEY CHANNEL FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/389046.ts
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="ES: DISNEY JUNIOR" tvg-logo="http://77.247.109.54:80/images/b4bf422b3f4b9f037a60336f01c39b46.png" group-title="ES: Infantil",ES: DISNEY JUNIOR
+http://ky-iptv.com:80/bradpitt/bradpitt/389049.ts
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES: NICKELODEON FHD" tvg-logo="http://77.247.109.54:80/images/85b8f693d4071b98f96a6e3f74122def.png" group-title="ES: Infantil",ES: NICKELODEON FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/389054.ts
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="ES: CANAL PANDA" tvg-logo="http://51.79.21.44:80/images/8a10eada7d4220813d917513e9645b7f.png" group-title="ES: Infantil",ES: CANAL PANDA
+http://ky-iptv.com:80/bradpitt/bradpitt/389059.ts
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="ES: BABY TV HEVC" tvg-logo="http://185.156.74.135:80/images/0fecc7d9e522ba8c95897b8ee5835c65.png" group-title="ES: Infantil",ES: BABY TV HEVC
+http://ky-iptv.com:80/bradpitt/bradpitt/389061.ts
+#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="ES: LALIGA TV BAR FHD" tvg-logo="data:image/png;base64,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" group-title="ES: Deportes de España",ES: LALIGA TV BAR FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388177.ts
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="ES: LIGA CAMPEONES 1 HEVC" tvg-logo="http://185.156.74.135:80/images/bbf695c6fbb9eecd31511ad6e9304be0.png" group-title="ES: Deportes de España",ES: LIGA CAMPEONES 1 HEVC
+http://ky-iptv.com:80/bradpitt/bradpitt/388180.ts
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: MOVISTAR LALIGA FHD" tvg-logo="http://51.79.21.44:80/images/60c772509e8f00b6894a3700096613ad.png" group-title="ES: Deportes de España",ES: MOVISTAR LALIGA FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388185.ts
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES: MOVISTAR LALIGA 1 FHD" tvg-logo="http://51.79.21.44:80/images/7fab3ef4056ce85d4257609f2158b5e1.png" group-title="ES: Deportes de España",ES: MOVISTAR LALIGA 1 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388187.ts
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="ES: MOVISTAR DEPORTES1 FHD" tvg-logo="http://163.123.140.162:80/images/3bc209b841c26a0583006464918d44b0.png" group-title="ES: Deportes de España",ES: MOVISTAR DEPORTES1 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388204.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES+ FHD" tvg-logo="http://51.79.21.44:80/images/3bc209b841c26a0583006464918d44b0.png" group-title="ES: Deportes de España",ES: MOVISTAR DEPORTES+ FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388209.ts
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES: MOVISTAR LIGA DE CAMPEONES 2 HD" tvg-logo="http://51.79.21.44:80/images/bffa9862e997e03c2193a82caa6c0c8f.png" group-title="ES: Deportes de España",ES: MOVISTAR LIGA DE CAMPEONES 2 HD
+http://ky-iptv.com:80/bradpitt/bradpitt/388213.ts
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="ES: MOVISTAR LIGA DE CAMPEONES 3 HD" tvg-logo="http://185.156.74.135:80/images/7736e95e8e239013e75025c3b9f83dd1.png" group-title="ES: Deportes de España",ES: MOVISTAR LIGA DE CAMPEONES 3 HD
+http://ky-iptv.com:80/bradpitt/bradpitt/388214.ts
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="ES: MOVISTAR LIGA DE CAMPEONES 4 HD" tvg-logo="http://51.79.21.44:80/images/7909d98a53f174745aedd4418632e9bf.png" group-title="ES: Deportes de España",ES: MOVISTAR LIGA DE CAMPEONES 4 HD
+http://ky-iptv.com:80/bradpitt/bradpitt/388215.ts
+#EXTINF:-1 tvg-id="futbolreplay.es" tvg-name="ES: MOVISTAR FUTBOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Movistar_F%C3%BAtbol.svg" group-title="ES: Deportes de España",ES: MOVISTAR FUTBOL HD
+http://ky-iptv.com:80/bradpitt/bradpitt/388220.ts
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="ES: MOVISTAR GOLF FHD" tvg-logo="http://163.123.140.162:80/images/357d4b576b1268d364e7768b4f048cde.png" group-title="ES: Deportes de España",ES: MOVISTAR GOLF FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388224.ts
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="ES: MOVISTAR F1 FHD" tvg-logo="http://163.123.140.162:80/images/75a44a8a86de05f03fe479053e7f0a47.png" group-title="ES: Deportes de España",ES: MOVISTAR F1 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388228.ts
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES: DAZN 1 HD (EVENTOS)" tvg-logo="data:image/png;base64,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" group-title="ES: Deportes de España",ES: DAZN 1 HD (EVENTOS)
+http://ky-iptv.com:80/bradpitt/bradpitt/388230.ts
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES: DAZN 2 HD (EVENTOS)" tvg-logo="http://51.79.21.44:80/images/04122ff7ce2793a587cf1db30a2ec3c2.png" group-title="ES: Deportes de España",ES: DAZN 2 HD (EVENTOS)
+http://ky-iptv.com:80/bradpitt/bradpitt/388231.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: #VAMOS FHD" tvg-logo="http://163.123.140.162:80/images/8109377cffc8f48ceda7401b875a05c1.png" group-title="Latino Sports",ES: #VAMOS FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388234.ts
+#EXTINF:-1 tvg-id="gol.es" tvg-name="ES: GOL FHD" tvg-logo="http://185.156.74.135:80/images/51455baec1de7f9e2c3050ebe5071d84.png" group-title="ES: Deportes de España",ES: GOL FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388238.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: BARCA TV FHD" tvg-logo="http://185.156.74.135:80/images/f38c4d4f9dde45b6a6f9ad972fa0346a.png" group-title="Latino Sports",LA: BARCA TV FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388241.ts
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES: TELEDEPORTE FHD" tvg-logo="http://163.123.140.162:80/images/ae7d7d1eb521a8b6cbf365eab4ace180.png" group-title="ES: Deportes de España",ES: TELEDEPORTE FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388244.ts
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1 FHD" tvg-logo="http://185.156.74.135:80/images/7110d18817be583a98cfc1ec68e7bf88.png" group-title="ES: Deportes de España",ES: EUROSPORT 1 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388248.ts
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="ES: EUROSPORT 2 FHD" tvg-logo="http://185.156.74.135:80/images/10e8930689bcb1b09aae0ccbf0df05a8.jpg" group-title="ES: Deportes de España",ES: EUROSPORT 2 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388252.ts
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES: REAL MADRID TV FHD" tvg-logo="http://185.156.74.135:80/images/29fef7644c1c61bc4c4f1669fcc65ed5.jpg" group-title="ES: Deportes de España",ES: REAL MADRID TV FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388255.ts
+#EXTINF:-1 tvg-id="tv3cat.es" tvg-name="ES: TV3 FHD" tvg-logo="http://51.79.21.44:80/images/d390f32655b90eff3918c1704d93970b.jpg" group-title="ES: Spain Locales",ES: TV3 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/389488.ts
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: CANAL Cocina FHD" tvg-logo="http://51.79.21.44:80/images/0af65749553083609893e73f59c0f72c.png" group-title="ES: Spain Locales",ES: CANAL Cocina FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/389502.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7RM RADIO TELEVISI MURCIA FHD" tvg-logo="http://163.123.140.162:80/images/c7a1493e41414f06328c72c27b18d933.png" group-title="ES: Spain Locales",ES: 7RM RADIO TELEVISI MURCIA FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/389515.ts
+#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="ES: TV GALICIA HD" tvg-logo="http://51.79.21.44:80/images/0f9a4cac05fe44a53eddee17ea1570c8.png" group-title="ES: Spain Locales",ES: TV GALICIA HD
+http://ky-iptv.com:80/bradpitt/bradpitt/389522.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COSTA HD" tvg-logo="https://canalcosta.cl/images/logo%20canalcostatv.png?crc=4224570347" group-title="ES: Spain Locales",ES: CANAL COSTA HD
+http://ky-iptv.com:80/bradpitt/bradpitt/389535.ts
+#EXTINF:-1 tvg-id="etb1.es" tvg-name="ES: ETB 1 HD" tvg-logo="http://51.79.21.44:80/images/53505b4ff0e15115fa7aa9d36c09fff9.png" group-title="ES: Spain Locales",ES: ETB 1 HD
+http://ky-iptv.com:80/bradpitt/bradpitt/389556.ts
+#EXTINF:-1 tvg-id="etb2.es" tvg-name="ES: ETB 2 HD" tvg-logo="http://51.79.21.44:80/images/80505ba0edd8ea11a2c0d98b32697399.png" group-title="ES: Spain Locales",ES: ETB 2 HD
+http://ky-iptv.com:80/bradpitt/bradpitt/389557.ts
+#EXTINF:-1 tvg-id="canal33.es" tvg-name="ES: C33 MADRID HD" tvg-logo="http://77.247.109.54:80/images/2f23f0ee4266372686bdf9314bcd8cfa.png" group-title="ES: Spain Locales",ES: C33 MADRID HD
+http://ky-iptv.com:80/bradpitt/bradpitt/389578.ts
+#EXTINF:-1 tvg-id="canalsur.es" tvg-name="ES: CANAL SUR HD" tvg-logo="http://163.123.140.162:80/images/e7072b86def1dc598bfba138a8b21440.jpg" group-title="ES: Spain Locales",ES: CANAL SUR HD
+http://ky-iptv.com:80/bradpitt/bradpitt/389585.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: HASH0 FHD" tvg-logo="data:image/png;base64,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" group-title="ES: Spain Locales",ES: HASH0 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/389606.ts
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="ES: TRECE SD" tvg-logo="http://51.79.21.44:80/images/dcf741a6836848c0218c6b6f1eaec08c.png" group-title="ES: Spain Locales",ES: TRECE SD
+http://ky-iptv.com:80/bradpitt/bradpitt/389648.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cultura 24 TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnilGcyGYeVEEaiS8m0warmd6IHI6iw0Qk3sOi6F=s900-c-k-c0x00ffffff-no-rj" group-title="ES: Spain Locales",ES: Cultura 24 TV
+http://ky-iptv.com:80/bradpitt/bradpitt/389650.ts
+#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC FHD" tvg-logo="http://51.79.21.44:80/images/ea8b58e20ac64cc608d03a2f37c4bbfe.png" group-title="ES: Cine Tv",ES: AMC FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387918.ts
+#EXTINF:-1 tvg-id="axn.es" tvg-name="ES: AXN FHD" tvg-logo="http://163.123.140.162:80/images/fb1e8d0ec9e0a1dedac56d67d78ef24d.png" group-title="ES: Cine Tv",ES: AXN FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387922.ts
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="http://51.79.21.44:80/images/63158ab2f2e58d02598cc39e19cc9d98.png" group-title="ES: Cine Tv",ES: CAZA Y PESCA FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387944.ts
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="ES: FOX LIFE FHD" tvg-logo="http://163.123.140.162:80/images/c8cc3b553bdb21c076da3b65d1c37bfa.png" group-title="ES: Cine Tv",ES: FOX LIFE FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387940.ts
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: M.ACCION HD" tvg-logo="http://77.247.109.54:80/images/4132d51a90d48f658c854227a02d73bb.png" group-title="ES: Spain",ES: M.ACCION HD
+http://ky-iptv.com:80/bradpitt/bradpitt/219461.ts
+#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="ES: MOVISTAR LIGA DE CAMPEONES 5 HD" tvg-logo="" group-title="ES: Deportes de España",ES: MOVISTAR LIGA DE CAMPEONES 5 HD
+http://ky-iptv.com:80/bradpitt/bradpitt/388216.ts
+#EXTINF:-1 tvg-id="fox.es" tvg-name="ES: FOX HD" tvg-logo="http://77.247.109.54:80/images/98f4186343e3b26d6bd22dffcefba467.png" group-title="ES: Spain",ES: FOX HD
+http://ky-iptv.com:80/bradpitt/bradpitt/1069230.ts
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="ES: BLAZE" tvg-logo="http://163.123.140.162:80/images/4c65f356c6f0fe2ee262ed0de66de02f.png" group-title="ES: Spain",ES: BLAZE
+http://ky-iptv.com:80/bradpitt/bradpitt/1069197.ts
+#EXTINF:-1 tvg-id="aragontv.es" tvg-name="ES: ARAGON" tvg-logo="http://163.123.140.162:80/images/a9150daf7cd7a81899b971ed370b5b6d.png" group-title="ES: Spain",ES: ARAGON
+http://ky-iptv.com:80/bradpitt/bradpitt/1069190.ts
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NAT GEO WILD FHD" tvg-logo="http://51.79.21.44:80/images/60f229d7c58429c5905aa1afc20773f0.png" group-title="ES: Entretenimiento",ES: NAT GEO WILD FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/1069180.ts
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="ES: CALLE 13 HD" tvg-logo="http://163.123.140.162:80/images/b791403dcbb9cd0064b12c6147879129.png" group-title="ES: Spain",ES: CALLE 13 HD
+http://ky-iptv.com:80/bradpitt/bradpitt/1069174.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL DIOCESANO HD" tvg-logo="http://77.247.109.54:80/images/804d5f2683fd8608bce5e7a726abfd4d.jpg" group-title="ES: Spain Locales",ES: CANAL DIOCESANO HD
+http://ky-iptv.com:80/bradpitt/bradpitt/389550.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Fox Sports 3 Sur HD" tvg-logo="http://77.247.109.54:80/images/b3b0af5c8aa10862f017e1c0eab5afa9.png" group-title="ES: Spain",ES: Fox Sports 3 Sur HD
+http://ky-iptv.com:80/bradpitt/bradpitt/1124474.ts
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: History Espanol" tvg-logo="http://77.247.109.54:80/images/7e1fbb551a1eabfed53b6b2330baec9e.png" group-title="ES: Entretenimiento",ES: History Espanol
+http://ky-iptv.com:80/bradpitt/bradpitt/1162475.ts
+#EXTINF:-1 tvg-id="dark.es" tvg-name="ES: DARK FHD" tvg-logo="http://77.247.109.54:80/images/c0d903802b7eca808d22761467adff61.png" group-title="ES: Cine Tv",ES: DARK FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387933.ts
+#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="ES: MOVISTAR LIGA DE CAMPEONES 8 HD" tvg-logo="http://51.79.21.44:80/images/11fc68e16f6bfce7bac44258f8d9b416.png" group-title="ES: Deportes de España",ES: MOVISTAR LIGA DE CAMPEONES 8 HD
+http://ky-iptv.com:80/bradpitt/bradpitt/388219.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: RTP ASTURIAS SD" tvg-logo="http://51.79.21.44:80/images/47a2294e50dbb2387f0c99b325a3a86f.jpg" group-title="ES: Spain Locales",ES: RTP ASTURIAS SD
+http://ky-iptv.com:80/bradpitt/bradpitt/389642.ts
+#EXTINF:-1 tvg-id="eltorotv.es" tvg-name="ES: EL TORO TV SD" tvg-logo="https://image.winudf.com/v2/image1/ZXMubWFnZW50YWxhYnMuZWx0b3JvdHZfaWNvbl8xNTk2MjM4ODA2XzA1NQ/icon.png?w=170&fakeurl=1" group-title="ES: Spain Locales",ES: EL TORO TV SD
+http://ky-iptv.com:80/bradpitt/bradpitt/389596.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: A PUNT HD" tvg-logo="http://185.156.74.135:80/images/797c11f7430bbcadbe9ceabc8dc8a2d2.png" group-title="ES: Spain Locales",ES: A PUNT HD
+http://ky-iptv.com:80/bradpitt/bradpitt/389531.ts
+#EXTINF:-1 tvg-id="somos.es" tvg-name="ES: SOMOS FHD" tvg-logo="http://163.123.140.162:80/images/3d81da50f1fbc188f41291e7ad6f69bf.png" group-title="ES: Spain",ES: SOMOS FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387948.ts
+#EXTINF:-1 tvg-id="mezzo.es" tvg-name="ES: MEZZO FHD" tvg-logo="http://163.123.140.162:80/images/6e43015807057ada0ead58cf177f4df8.png" group-title="ES: Musicales",ES: MEZZO FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/389079.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LIGA DE CAMPEONES 6 SD" tvg-logo="http://163.123.140.162:80/images/3c2eb0fb16fe4044fdfc3e28f389a834.png" group-title="ES: Deportes de España",ES: MOVISTAR LIGA DE CAMPEONES 6 SD
+http://ky-iptv.com:80/bradpitt/bradpitt/388217.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: History 2" tvg-logo="http://163.123.140.162:80/images/e0170f575ace9b18206283cbe8031a98.png" group-title="ES: Entretenimiento",ES: History 2
+http://ky-iptv.com:80/bradpitt/bradpitt/1162476.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LALIGA 3 HD" tvg-logo="http://185.156.74.135:80/images/fb86af91ad084174dff3eb362aef69f9.png" group-title="ES: Deportes de España",ES: MOVISTAR LALIGA 3 HD
+http://ky-iptv.com:80/bradpitt/bradpitt/1649496.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LALIGA 2 FHD" tvg-logo="http://185.156.74.135:80/images/fb86af91ad084174dff3eb362aef69f9.png" group-title="ES: Deportes de España",ES: MOVISTAR LALIGA 2 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388189.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 3 FHD" tvg-logo="http://185.156.74.135:80/images/0a768e2d7737fea3b6288287f835ce1b.png" group-title="ES: Cine Tv",ES: ALQUILER 3 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387994.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR MULTIDEPORTE HEVC" tvg-logo="https://i2.wp.com/meteoalcorcon.es/1_0_1_76A3_41E_1_C00000_0_0_0.png?resize=440%2C264" group-title="ES: Deportes de España",ES: MOVISTAR MULTIDEPORTE HEVC
+http://ky-iptv.com:80/bradpitt/bradpitt/388199.ts
+#EXTINF:-1 tvg-id="canalorbe21.es" tvg-name="ES: CANAL ORBE21 HEVC" tvg-logo="http://51.79.21.44:80/images/d395b5d0f16576af4c5f68845569447d.png" group-title="ES: Entretenimiento",ES: CANAL ORBE21 HEVC
+http://ky-iptv.com:80/bradpitt/bradpitt/388394.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 4 FHD" tvg-logo="http://77.247.109.54:80/images/0a768e2d7737fea3b6288287f835ce1b.png" group-title="ES: Cine Tv",ES: ALQUILER 4 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387995.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: HBO SUBTITULADO FHD" tvg-logo="http://77.247.109.54:80/images/34fe06028046fb0a6a9c3b8faafe14b0.png" group-title="ES: Cine Tv",ES: HBO SUBTITULADO FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388073.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Éxitos del Momento" tvg-logo="http://ky-iptv.com:25461/images/9ee0270054c4b8d1b10a06a62bbf2147.jpg" group-title="ES: Musicales",Stingray Éxitos del Momento
+http://ky-iptv.com:80/bradpitt/bradpitt/1395221.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: BARCA TV FHD" tvg-logo="http://185.156.74.135:80/images/f38c4d4f9dde45b6a6f9ad972fa0346a.png" group-title="ES: Deportes de España",ES: BARCA TV FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/1799452.ts
+#EXTINF:-1 tvg-id="classica.es" tvg-name="ES: CLASSICA HD" tvg-logo="http://77.247.109.54:80/images/4b6f419f49cfd6a7e54bf775db65ff90.png" group-title="ES: Musicales",ES: CLASSICA HD
+http://ky-iptv.com:80/bradpitt/bradpitt/389083.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA OTRA (WEB)" tvg-logo="http://163.123.140.162:80/images/355f60b45653610735a53fc815b41a91.png" group-title="ES: Spain Locales",ES: LA OTRA (WEB)
+http://ky-iptv.com:80/bradpitt/bradpitt/389512.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IMAS TV SD" tvg-logo="https://lh3.googleusercontent.com/proxy/y_C5AzEZhaG5WcRPSBNrXGF_c56ixMGwUlO_AmsSD_lGW2wGG6H61vZX-kwb8t2iaas5qpV5rdnVOj8tviZnjAnsDWspzwS436P87ajOeyxK0wB2sV-AnjP_pac" group-title="ES: Spain Locales",ES: IMAS TV SD
+http://ky-iptv.com:80/bradpitt/bradpitt/389549.ts
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ES: ATRESERIES FHD" tvg-logo="http://77.247.109.54:80/images/53f4317a033498aa50341abf74036714.png" group-title="ES: Spain Locales",ES: ATRESERIES FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/389575.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX SPORTS 2 HD" tvg-logo="http://185.156.74.135:80/images/8a9d0428caaa62e738a2223f8b7addde.png" group-title="ES: Spain",ES: FOX SPORTS 2 HD
+http://ky-iptv.com:80/bradpitt/bradpitt/1124473.ts
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES: DKISS SD" tvg-logo="http://185.156.74.135:80/images/e39a91aa9b8b40ff317dcd474bdcdba8.png" group-title="ES: Entretenimiento",ES: DKISS SD
+http://ky-iptv.com:80/bradpitt/bradpitt/388347.ts
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO FHD" tvg-logo="http://185.156.74.135:80/images/53c95e93400b0f963416ba1b80b192c6.png" group-title="ES: Entretenimiento",ES: TELECINCO FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388329.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOLDEN PREMIER FHD" tvg-logo="http://185.156.74.135:80/images/15e344c8c265f07ec1604e378d593097.png" group-title="ES: Cine Tv",ES: GOLDEN PREMIER FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388056.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Castilla La Mancha Media" tvg-logo="http://185.156.74.135:80/images/0ea878bec3c955039b1d322e55cd38c1.png" group-title="ES: Spain",ES: Castilla La Mancha Media
+http://ky-iptv.com:80/bradpitt/bradpitt/1698484.ts
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="ES: NICK JR FHD" tvg-logo="http://51.79.21.44:80/images/8cf42a2bb560a40cae08bc870d2a53c8.png" group-title="ES: Spain",ES: NICK JR FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/757975.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LANCELOT TV SD" tvg-logo="https://www.lancelot.tv/images/logo.svg" group-title="ES: Spain Locales",ES: LANCELOT TV SD
+http://ky-iptv.com:80/bradpitt/bradpitt/389546.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL 25 BARBASTRO TV HD" tvg-logo="http://77.247.109.54:80/images/b17aaf35c06656777350ce4f7aa9f448.png" group-title="ES: Spain Locales",ES: CANAL 25 BARBASTRO TV HD
+http://ky-iptv.com:80/bradpitt/bradpitt/389545.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL MALAGA SD" tvg-logo="http://51.79.21.44:80/images/fc4f3530fbeae2c2e1d94f826fc7e501.jpg" group-title="ES: Spain Locales",ES: CANAL MALAGA SD
+http://ky-iptv.com:80/bradpitt/bradpitt/389540.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MELILLA TV HD" tvg-logo="http://163.123.140.162:80/images/5d17cda47ae31fc4663fa80dfa490571.png" group-title="ES: Spain Locales",ES: MELILLA TV HD
+http://ky-iptv.com:80/bradpitt/bradpitt/389514.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CADENA ELITE TV" tvg-logo="http://51.79.21.44:80/images/59da91092019534a95ca6ceef08693e8.png" group-title="ES: Spain Locales",ES: CADENA ELITE TV
+http://ky-iptv.com:80/bradpitt/bradpitt/389506.ts
+#EXTINF:-1 tvg-id="canalextremadura.es" tvg-name="ES: CANAL EXTREMADURA TV" tvg-logo="http://163.123.140.162:80/images/57538935b0a9d6ee3657c1af5cf09e87.png" group-title="ES: Spain Locales",ES: CANAL EXTREMADURA TV
+http://ky-iptv.com:80/bradpitt/bradpitt/389508.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DIEZ TV SD" tvg-logo="http://77.247.109.54:80/images/0b7dfac285865735f4803bdbf53291ec.jpg" group-title="ES: Spain Locales",ES: DIEZ TV SD
+http://ky-iptv.com:80/bradpitt/bradpitt/389505.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV ROCKS HD" tvg-logo="http://185.156.74.135:80/images/b6aa3fe8eac3cad3b8bff3010810ddf7.png" group-title="ES: Musicales",ES: MTV ROCKS HD
+http://ky-iptv.com:80/bradpitt/bradpitt/389072.ts
+#EXTINF:-1 tvg-id="ten.es" tvg-name="ES: TEN" tvg-logo="http://163.123.140.162:80/images/69291f6079d82dc4a2e2d1d315915095.png" group-title="ES: Entretenimiento",ES: TEN
+http://ky-iptv.com:80/bradpitt/bradpitt/388372.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CINEMA DINAMITA" tvg-logo="http://185.156.74.135:80/images/a745568ac9087338901462624aead1cf.png" group-title="ES: Cine Tv",ES: CINEMA DINAMITA
+http://ky-iptv.com:80/bradpitt/bradpitt/388033.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 10 FHD" tvg-logo="http://51.79.21.44:80/images/0a768e2d7737fea3b6288287f835ce1b.png" group-title="ES: Cine Tv",ES: ALQUILER 10 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388001.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 8 FHD" tvg-logo="http://77.247.109.54:80/images/0a768e2d7737fea3b6288287f835ce1b.png" group-title="ES: Cine Tv",ES: ALQUILER 8 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387999.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: #VAMOS FHD" tvg-logo="http://163.123.140.162:80/images/8109377cffc8f48ceda7401b875a05c1.png" group-title="ES: Deportes de España",ES: #VAMOS FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/2117579.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEVISIDE GIRONA SD" tvg-logo="http://77.247.109.54:80/images/b52b676431a16ed1efae38c599dc1365.jpg" group-title="ES: Spain Locales",ES: TELEVISIDE GIRONA SD
+http://ky-iptv.com:80/bradpitt/bradpitt/389639.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOTOGP HD" tvg-logo="http://51.79.21.44:80/images/3ba298bb05851218b8ff315d1a16b38a.png" group-title="ES: Spain Locales",ES: MOTOGP HD
+http://ky-iptv.com:80/bradpitt/bradpitt/389613.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALCARRIA TV SD" tvg-logo="http://185.156.74.135:80/images/8c4945854c28eb2eb5d636ea09d2caba.png" group-title="ES: Spain Locales",ES: ALCARRIA TV SD
+http://ky-iptv.com:80/bradpitt/bradpitt/389529.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVIEPLEX FHD" tvg-logo="http://77.247.109.54:80/images/68e1d962ae55a6dc594b4ae5df1f0642.jpg" group-title="ES: Cine Tv",ES: MOVIEPLEX FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/388109.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 2 FHD" tvg-logo="http://185.156.74.135:80/images/0a768e2d7737fea3b6288287f835ce1b.png" group-title="ES: Cine Tv",ES: ALQUILER 2 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/387993.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Investigation Discovery" tvg-logo="http://51.79.21.44:80/images/4a4381f50d60bb8262b072577cc2dc0d.png" group-title="ES: Entretenimiento",ES: Investigation Discovery
+http://ky-iptv.com:80/bradpitt/bradpitt/1409328.ts
+#EXTINF:-1 tvg-id="foxnews.es" tvg-name="ES: FOX NEWS HEVC" tvg-logo="http://163.123.140.162:80/images/92324bd8f3e7d934e2fce1e479cf7d31.png" group-title="ES: Spain",ES: FOX NEWS HEVC
+http://ky-iptv.com:80/bradpitt/bradpitt/389601.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Liga 123 FHD" tvg-logo="http://163.123.140.162:80/images/058b9239e07fc65ade5b15418991f6e7.png" group-title="ES: Spain",ES: La Liga 123 FHD
+http://ky-iptv.com:80/bradpitt/bradpitt/219562.ts
