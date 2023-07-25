@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Hangman Game</title>
+
+    <link rel="manifest" href="manifest.json">
+    <style>
+        /* Stil für das Spiel */
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        #word-container {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        #letters-container {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .letter {
+            width: 40px;
+            height: 40px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 5px;
+            border: 1px solid black;
+            cursor: pointer;
+        }
+
+        #hangman-image {
+            width: 200px;
+            height: 200px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hangman Game</h1>
+    <div id="word-container"></div>
+    <div id="letters-container"></div>
+    <img id="hangman-image" src="hangman_0.png" alt="Hangman Image">
+    <script>
+        // Wortliste
+        const words = ["APPLE", "PINEAPPLE", "POMEGRANATE", "WATERMELON", "HEDGEHOG", "RHINOCEROS", "SQUIRREL", "PANTHER", "WALRUS", "ZEBRA", "INDIA", "HUNGARY", "TURKEY", "SERBIA", "KYRGYZSTAN", "ZIMBABWE", "DOMINICA"];
+
+        // Zufälliges Wort auswählen
+        let chosenWord = words[Math.floor(Math.random() * words.length)];
+        chosenWord = chosenWord.toUpperCase();
+
+        // Anzahl der falschen Versuche
+        let wrongAttempts = 0;
+
+        // Buchstaben-Container und Bild-Element
+        const lettersContainer = document.getElementById("letters-container");
+        const hangmanImage = document.getElementById("hangman-image");
+
+        // Funktion zum Erstellen der Buchstaben-Buttons
+        const createLetterButtons = () => {
+            for (let i = 65; i <= 90; i++) {
+                const letter = String.fromCharCode(i);
+                const letterButton = document.createElement("div");
+                letterButton.classList.add("letter");
+                letterButton.textContent = letter;
+                letterButton.addEventListener("click", () => checkLetter(letter));
+                lettersContainer.appendChild(letterButton);
+            }
+        };
+
+        // Funktion zum Überprüfen des angeklickten Buchstabens
+        const checkLetter = (letter) => {
+            const wordContainer = document.getElementById("word-container");
+            const wordLetters = wordContainer.querySelectorAll(".letter");
+            let correctGuess = false;
+
+            wordLetters.forEach((wordLetter, index) => {
+                if (chosenWord[index] === letter) {
+                    wordLetter.textContent = letter;
+                    correctGuess = true;
+                }
+            });
+
+            if (!correctGuess) {
+                wrongAttempts++;
+                hangmanImage.src = `hangman_${wrongAttempts}.png`;
+            }
+
+            checkGameStatus();
+        };
+
+        // Funktion zum Überprüfen des Spielstatus (Gewonnen/Verloren)
+        const checkGameStatus = () => {
+            const wordContainer = document.getElementById("word-container");
+            const wordLetters = wordContainer.querySelectorAll(".letter");
+            const wordGuessed = [...wordLetters].every((letter) => letter.textContent !== "_");
+
+            if (wordGuessed) {
+                endGame("Gewonnen!");
+            } else if (wrongAttempts === 6) {
+                endGame("Verloren! Das Wort war: " + chosenWord);
+            }
+        };
+
+        // Funktion zum Beenden des Spiels
+        const endGame = (message) => {
+            const wordContainer = document.getElementById("word-container");
+            const wordLetters = wordContainer.querySelectorAll(".letter");
+
+            wordLetters.forEach((letter, index) => {
+                letter.textContent = chosenWord[index];
+            });
+
+            lettersContainer.style.display = "none";
+            hangmanImage.style.display = "none";
+
+            const endMessage = document.createElement("p");
+            endMessage.textContent = message;
+            document.body.appendChild(endMessage);
+        };
+
+        // Funktion zum Initialisieren des Spiels
+        const initializeGame = () => {
+            createLetterButtons();
+
+            const wordContainer = document.getElementById("word-container");
+            for (let i = 0; i < chosenWord.length; i++) {
+                const letterElement = document.createElement("span");
+                letterElement.classList.add("letter");
+                letterElement.textContent = "_";
+                wordContainer.appendChild(letterElement);
+            }
+        };
+
+        initializeGame();
+    </script>
+</body>
+</html>

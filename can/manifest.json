@@ -1,0 +1,1 @@
+{  "name": "Hangman",  "short_name": "Hangman",  "theme_color": "#fff",  "background_color": "#fff",  "display": "fullScreen",  "orientation": "portrait",  "scope": "/",  "start_url": "/index.html"}
