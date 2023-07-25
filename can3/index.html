@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pong-Spiel</title>
+
+<link rel="manifest" href="manifest.json">
+
+  <style>
+    canvas {
+      border: 1px solid black;
+      display: block;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="gameCanvas" width="800" height="400"></canvas>
+  <script>
+    const canvas = document.getElementById('gameCanvas');
+    const ctx = canvas.getContext('2d');
+
+    // Schläger-Objekte
+    const leftPaddle = {
+      x: 30,
+      y: canvas.height / 2 - 50,
+      width: 10,
+      height: 100,
+      speed: 5,
+      score: 0
+    };
+
+    const rightPaddle = {
+      x: canvas.width - 40,
+      y: canvas.height / 2 - 50,
+      width: 10,
+      height: 100,
+      speed: 5,
+      score: 0
+    };
+
+    // Ball-Objekt
+    const ball = {
+      x: canvas.width / 2,
+      y: canvas.height / 2,
+      radius: 10,
+      speedX: 5,
+      speedY: 5
+    };
+
+    // Tastatursteuerung
+    const keys = {};
+    window.addEventListener('keydown', (e) => {
+      keys[e.key] = true;
+    });
+    window.addEventListener('keyup', (e) => {
+      keys[e.key] = false;
+    });
+
+    // Spiel-Loop
+    function gameLoop() {
+      // Bewegung der Schläger
+      if (keys['w'] && leftPaddle.y > 0) {
+        leftPaddle.y -= leftPaddle.speed;
+      }
+      if (keys['s'] && leftPaddle.y < canvas.height - leftPaddle.height) {
+        leftPaddle.y += leftPaddle.speed;
+      }
+      if (keys['ArrowUp'] && rightPaddle.y > 0) {
+        rightPaddle.y -= rightPaddle.speed;
+      }
+      if (keys['ArrowDown'] && rightPaddle.y < canvas.height - rightPaddle.height) {
+        rightPaddle.y += rightPaddle.speed;
+      }
+
+      // Bewegung des Balls
+      ball.x += ball.speedX;
+      ball.y += ball.speedY;
+
+      // Ball-Kollisionen mit den Wänden
+      if (ball.y - ball.radius < 0 || ball.y + ball.radius > canvas.height) {
+        ball.speedY = -ball.speedY;
+      }
+
+      // Ball-Kollisionen mit den Schlägern
+      if (
+        ball.x - ball.radius < leftPaddle.x + leftPaddle.width &&
+        ball.y > leftPaddle.y &&
+        ball.y < leftPaddle.y + leftPaddle.height
+      ) {
+        ball.speedX = -ball.speedX;
+      }
+
+      if (
+        ball.x + ball.radius > rightPaddle.x &&
+        ball.y > rightPaddle.y &&
+        ball.y < rightPaddle.y + rightPaddle.height
+      ) {
+        ball.speedX = -ball.speedX;
+      }
+
+      // Ball außerhalb des Spielfelds (Punkt für den Gegner)
+      if (ball.x < 0) {
+        rightPaddle.score++;
+        resetBall();
+      } else if (ball.x > canvas.width) {
+        leftPaddle.score++;
+        resetBall();
+      }
+
+      // Zeichne das Spiel
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      ctx.fillStyle = 'black';
+      ctx.fillRect(leftPaddle.x, leftPaddle.y, leftPaddle.width, leftPaddle.height);
+      ctx.fillRect(rightPaddle.x, rightPaddle.y, rightPaddle.width, rightPaddle.height);
+      ctx.beginPath();
+      ctx.arc(ball.x, ball.y, ball.radius, 0, Math.PI * 2);
+      ctx.fillStyle = 'red';
+      ctx.fill();
+      ctx.font = '24px Arial';
+      ctx.fillText('Score: ' + leftPaddle.score + ' - ' + rightPaddle.score, canvas.width / 2 - 70, 30);
+
+      // Aufruf der nächsten Schleife
+      requestAnimationFrame(gameLoop);
+    }
+
+    // Zurücksetzen des Balls auf die Mitte
+    function resetBall() {
+      ball.x = canvas.width / 2;
+      ball.y = canvas.height / 2;
+      ball.speedX = -ball.speedX;
+      ball.speedY = Math.random() < 0.5 ? -5 : 5; // Zufällige Y-Richtung
+    }
+
+    // Spielstart
+    resetBall();
+    gameLoop();
+  </script>
+</body>
+</html>
