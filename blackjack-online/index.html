@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="de">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="css/style.css" />
+		<title>Black Jack</title>
+	</head>
+
+	<body>
+		<div id="title">Blackjack-Spiel</div>
+		<div id="canvasDiv"><canvas id="canvas"></canvas></div>
+		<div id="buttons">
+			<input type="button" value="Karte ziehen" onclick="karteZiehen()" id="ziehen" class="button" >
+			<input type="button" value="Nochmal spielen!" id="neustart" onclick="nochmalSpielen()" >
+			<input type="button" value="Stehenbleiben" onclick="stehenBleiben()" id="stehen" class="button" >
+		</div>
+		<div id="info"></div>
+		<script src="js/blackjack.js"></script>
+	</body>
+</html>
